@@ -1,0 +1,779 @@
+fallnummer;fallbeschreibung;gold_answer;our_answer;evaluation_score;evaluation_reasoning;error;processing_time;our_answer_agent;evaluation_score_agent;evaluation_reasoning_agent;error_agent;processing_time_agent;our_answer_openai;evaluation_score_openai;evaluation_reasoning_openai;error_openai;processing_time_openai;used_sources
+BGH IX ZR 143/20 15.04.2021;1.Die Kläger ließen sich vom beklagten Rechtsanwalt wegen eines Testaments beraten. Der Beklagte entwarf ein gemeinschaftliches Testament, in welchem sich die Kläger gegenseitig zu Erben einsetzten. Zusammen mit dem Entwurf übersandte er eine Abschlagsrechnung über insgesamt 1.808,80 €. Die Kläger kündigten daraufhin das Mandat. Unter dem 6. November 2017 stellte der Beklagte den Klägern eine 1,0-Geschäftsgebühr gemäß § 2 Abs. 2 RVG, Nr. 2300 VV RVG nach einem Gegenstandswert von bis zu 450.000 € nebst Auslagenpauschale und Umsatzsteuer, insgesamt 3.704,47 € in Rechnung. Die Kläger zahlten diesen Betrag. 2. Nunmehr meinen die Kläger, der Beklagte habe nur eine Beratungsgebühr gemäß § 34 Abs. 1 RVG in Höhe von 250 € zuzüglich einer Mehrgebühr von 0,3 gemäß § 2 Abs. 2 RVG, Nr. 1008 VV RVG in Höhe von 75 € nebst Auslagenpauschale und Umsatzsteuer abrechnen dürfen, insgesamt 410,55 €. Sie verlangen Rückgewähr von 3.293,92 € nebst Zinsen. Das Amtsgericht hat die Klage abgewiesen. Das Berufungsgericht hat den Beklagten antragsgemäß verurteilt. Mit seiner vom Berufungsgericht zugelassenen Revision will der Beklagte weiterhin die Abweisung der Klage erreichen.; Der auftragsgemäße Entwurf eines gemeinschaftlichen Testaments ist auch dann keine die Geschäftsgebühr auslösende Tätigkeit, wenn wechselbezügliche Verfügungen der Auftraggeber vorgesehen sind. Lösung des Problem: Vergütungsvereinbarung Warum sollte auch in gerichtlichen Verfahren immer eine Vergütungsvereinbarung abgeschlossen werden? Weil die Gerichte die Gegenstandswerte und auch die Höhe von Betrags- oder Satzrahmengebühren  festlegen. Letztere bei einer Kostenerstattung nach § 14 Abs.1 S. 3 RVG und gegenüber dem Mandanten nach § 319 Abs.1 BGB.;"Ich habe nun alle relevanten Informationen. Hier die Antwort:
+
+## Antwort: BGH, Urteil vom 15. April 2021 – IX ZR 143/20
+
+Der geschilderte Sachverhalt entspricht wörtlich dem Verfahren, über das der IX. Zivilsenat des BGH am 15.04.2021 entschieden hat. Die Revision des beklagten Rechtsanwalts wurde **zurückgewiesen**.
+
+### Ergebnis
+Den Klägern steht ein Rückforderungsanspruch (§ 812 Abs. 1 Satz 1 Fall 1 BGB) in Höhe von 3.293,92 € zu. Der Beklagte durfte **nur eine Beratungsgebühr nach § 34 Abs. 1 RVG** (zzgl. Mehrvertretungsgebühr Nr. 1008 VV RVG, Auslagenpauschale und USt = 410,55 €) in Rechnung stellen, **keine Geschäftsgebühr nach Nr. 2300 VV RVG**.
+
+### Tragende Gründe
+
+**1. Grundsatz der Abgrenzung (Rn. 6):**
+Das RVG unterscheidet außergerichtlich zwischen Beratung (§ 34 RVG) und Vertretung (Geschäftsgebühr Nr. 2300 ff. VV RVG). Die Geschäftsgebühr setzt zwingend eine **nach außen gerichtete Tätigkeit** oder die **Mitwirkung an einem Vertrag** (Vorbem. 2.3 Abs. 3 VV RVG) voraus.
+
+**2. Kein Betreiben eines Geschäfts (Rn. 11):**
+> „Die Mitwirkung bei der Errichtung eines gemeinschaftlichen Testaments stellt kein Betreiben eines Geschäftes im Sinne einer nach außen gerichteten Tätigkeit dar. Sie betrifft nur die Eheleute oder Lebenspartner, welche das gemeinschaftliche Testament errichten (vgl. §§ 2265 BGB, 10 Abs. 4 LPartG). Diese sind die Auftraggeber des Rechtsanwalts.""
+
+Eine Vertretung nach außen fehlt – anderenfalls läge ein Verstoß gegen das Verbot der Vertretung widerstreitender Interessen (§ 43a Abs. 4 BRAO) nahe.
+
+**3. Keine Mitwirkung bei einem Vertrag (Rn. 12):**
+> „Ein gemeinschaftliches Testament ist kein Vertrag, auch dann nicht, wenn es wechselbezügliche Verfügungen (vgl. §§ 2270, 2271 BGB) enthält. … Ein Testament wird … durch eine einseitige, nicht empfangsbedürftige Erklärung des Testierenden errichtet. Nach der Legaldefinition des § 1937 BGB stellt es eine einseitige Verfügung von Todes wegen dar.""
+
+Es fehlen die für einen Vertragsschluss nach §§ 145 ff. BGB nötigen korrespondierenden Willenserklärungen (Angebot und Annahme). Auch wechselbezügliche Verfügungen werden durch einseitige Erklärungen erzeugt.
+
+**4. Keine erweiternde Auslegung (Rn. 13):**
+Die Mitwirkung an einer Vertragsgestaltung ohne Außentätigkeit hat **Ausnahmecharakter** und ist nicht analogiefähig. Eine angemessene Vergütung kann der Anwalt über eine **Gebührenvereinbarung gemäß § 34 Abs. 1 Satz 1 RVG** sichern – das ist sogar der gesetzliche Regelfall; andernfalls kann er das Mandat ablehnen.
+
+### Einordnung
+Der Senat bestätigt und erweitert damit seine Rechtsprechung aus dem Urteil vom 22.02.2018 – IX ZR 115/17 (dort: zwei aufeinander abgestimmte Einzeltestamente nichtehelicher Lebenspartner). Die zuvor offen gelassene Frage, ob ein **gemeinschaftliches Testament** (§ 2265 BGB) anders zu behandeln sei, wird nun ausdrücklich verneint: Auch hier entsteht grundsätzlich **nur die Beratungsgebühr** nach § 34 RVG.
+
+### Zitation
+- BGH, Urteil vom 15.04.2021 – IX ZR 143/20, Rn. 6–13 (Datei: `urteile_markdown_by_year/2021/2021-04-15_BGH_IX ZR 143_20.md`, Zeilen 30–44).
+- Vorgängerentscheidung: BGH, Urteil vom 22.02.2018 – IX ZR 115/17, Rn. 8 ff.";10;"Die Antwort ist juristisch zutreffend und vollständig. Sie identifiziert korrekt die Entscheidung (BGH, Urt. v. 15.04.2021 – IX ZR 143/20), den Tenor (Zurückweisung der Revision; Rückforderungsanspruch nach § 812 Abs. 1 S. 1 Alt. 1 BGB) sowie die tragenden Gründe: Bei der Erstellung eines gemeinschaftlichen Testaments entsteht grundsätzlich nur eine Beratungsgebühr nach § 34 RVG (zzgl. Mehrvertretungszuschlag Nr. 1008 VV RVG), nicht aber eine Geschäftsgebühr nach Nr. 2300 VV RVG, weil es an einer nach außen gerichteten Tätigkeit fehlt und ein gemeinschaftliches Testament kein Vertrag ist, auch nicht bei wechselbezüglichen Verfügungen (§§ 2270, 2271 BGB; § 1937 BGB). Die Einordnung der Vorbem. 2.3 Abs. 3 VV RVG (Mitwirkung an Verträgen) ist korrekt und wird nicht analog auf Testamente erstreckt. Der Rückforderungsbetrag (3.704,47 € – 410,55 € = 3.293,92 €) ist rechnerisch richtig. Der Verweis auf die Möglichkeit und Zweckmäßigkeit einer Vergütungsvereinbarung nach § 34 Abs. 1 RVG entspricht der BGH-Argumentation. Insgesamt deckt sich die Antwort mit der Goldantwort und der einschlägigen Rechtsprechung; inhaltliche Fehler sind nicht erkennbar.";;43.4s;"Ich habe nun alle relevanten Informationen. Hier die Antwort:
+
+## Antwort: BGH, Urteil vom 15. April 2021 – IX ZR 143/20
+
+Der geschilderte Sachverhalt entspricht wörtlich dem Verfahren, über das der IX. Zivilsenat des BGH am 15.04.2021 entschieden hat. Die Revision des beklagten Rechtsanwalts wurde **zurückgewiesen**.
+
+### Ergebnis
+Den Klägern steht ein Rückforderungsanspruch (§ 812 Abs. 1 Satz 1 Fall 1 BGB) in Höhe von 3.293,92 € zu. Der Beklagte durfte **nur eine Beratungsgebühr nach § 34 Abs. 1 RVG** (zzgl. Mehrvertretungsgebühr Nr. 1008 VV RVG, Auslagenpauschale und USt = 410,55 €) in Rechnung stellen, **keine Geschäftsgebühr nach Nr. 2300 VV RVG**.
+
+### Tragende Gründe
+
+**1. Grundsatz der Abgrenzung (Rn. 6):**
+Das RVG unterscheidet außergerichtlich zwischen Beratung (§ 34 RVG) und Vertretung (Geschäftsgebühr Nr. 2300 ff. VV RVG). Die Geschäftsgebühr setzt zwingend eine **nach außen gerichtete Tätigkeit** oder die **Mitwirkung an einem Vertrag** (Vorbem. 2.3 Abs. 3 VV RVG) voraus.
+
+**2. Kein Betreiben eines Geschäfts (Rn. 11):**
+> „Die Mitwirkung bei der Errichtung eines gemeinschaftlichen Testaments stellt kein Betreiben eines Geschäftes im Sinne einer nach außen gerichteten Tätigkeit dar. Sie betrifft nur die Eheleute oder Lebenspartner, welche das gemeinschaftliche Testament errichten (vgl. §§ 2265 BGB, 10 Abs. 4 LPartG). Diese sind die Auftraggeber des Rechtsanwalts.""
+
+Eine Vertretung nach außen fehlt – anderenfalls läge ein Verstoß gegen das Verbot der Vertretung widerstreitender Interessen (§ 43a Abs. 4 BRAO) nahe.
+
+**3. Keine Mitwirkung bei einem Vertrag (Rn. 12):**
+> „Ein gemeinschaftliches Testament ist kein Vertrag, auch dann nicht, wenn es wechselbezügliche Verfügungen (vgl. §§ 2270, 2271 BGB) enthält. … Ein Testament wird … durch eine einseitige, nicht empfangsbedürftige Erklärung des Testierenden errichtet. Nach der Legaldefinition des § 1937 BGB stellt es eine einseitige Verfügung von Todes wegen dar.""
+
+Es fehlen die für einen Vertragsschluss nach §§ 145 ff. BGB nötigen korrespondierenden Willenserklärungen (Angebot und Annahme). Auch wechselbezügliche Verfügungen werden durch einseitige Erklärungen erzeugt.
+
+**4. Keine erweiternde Auslegung (Rn. 13):**
+Die Mitwirkung an einer Vertragsgestaltung ohne Außentätigkeit hat **Ausnahmecharakter** und ist nicht analogiefähig. Eine angemessene Vergütung kann der Anwalt über eine **Gebührenvereinbarung gemäß § 34 Abs. 1 Satz 1 RVG** sichern – das ist sogar der gesetzliche Regelfall; andernfalls kann er das Mandat ablehnen.
+
+### Einordnung
+Der Senat bestätigt und erweitert damit seine Rechtsprechung aus dem Urteil vom 22.02.2018 – IX ZR 115/17 (dort: zwei aufeinander abgestimmte Einzeltestamente nichtehelicher Lebenspartner). Die zuvor offen gelassene Frage, ob ein **gemeinschaftliches Testament** (§ 2265 BGB) anders zu behandeln sei, wird nun ausdrücklich verneint: Auch hier entsteht grundsätzlich **nur die Beratungsgebühr** nach § 34 RVG.
+
+### Zitation
+- BGH, Urteil vom 15.04.2021 – IX ZR 143/20, Rn. 6–13 (Datei: `urteile_markdown_by_year/2021/2021-04-15_BGH_IX ZR 143_20.md`, Zeilen 30–44).
+- Vorgängerentscheidung: BGH, Urteil vom 22.02.2018 – IX ZR 115/17, Rn. 8 ff.";10;"Die Antwort ist juristisch zutreffend und vollständig. Sie identifiziert korrekt die Entscheidung (BGH, Urt. v. 15.04.2021 – IX ZR 143/20), den Tenor (Zurückweisung der Revision; Rückforderungsanspruch nach § 812 Abs. 1 S. 1 Alt. 1 BGB) sowie die tragenden Gründe: Bei der Erstellung eines gemeinschaftlichen Testaments entsteht grundsätzlich nur eine Beratungsgebühr nach § 34 RVG (zzgl. Mehrvertretungszuschlag Nr. 1008 VV RVG), nicht aber eine Geschäftsgebühr nach Nr. 2300 VV RVG, weil es an einer nach außen gerichteten Tätigkeit fehlt und ein gemeinschaftliches Testament kein Vertrag ist, auch nicht bei wechselbezüglichen Verfügungen (§§ 2270, 2271 BGB; § 1937 BGB). Die Einordnung der Vorbem. 2.3 Abs. 3 VV RVG (Mitwirkung an Verträgen) ist korrekt und wird nicht analog auf Testamente erstreckt. Der Rückforderungsbetrag (3.704,47 € – 410,55 € = 3.293,92 €) ist rechnerisch richtig. Der Verweis auf die Möglichkeit und Zweckmäßigkeit einer Vergütungsvereinbarung nach § 34 Abs. 1 RVG entspricht der BGH-Argumentation. Insgesamt deckt sich die Antwort mit der Goldantwort und der einschlägigen Rechtsprechung; inhaltliche Fehler sind nicht erkennbar.";;43.4s;;-1;;;0.0s;agent
+BAG, 22.07.2021, 2 AZR 193/21;Die einem schwerbehinderten Menschen gleichgestellte Klägerin arbeitete seit dem Jahr 2002 bei der Beklagten. Diese beantragte mit Schreiben vom 23. August 2018 die Zustimmung des Integrationsamts zur beabsichtigten außerordentlichen Kündigung und (vorsorglichen) außerordentlichen Kündigung mit Auslauffrist. Das Integrationsamt eröffnete der Beklagten am 7. September 2018, dass wegen Fristablaufs nach § 174 Abs. 3 SGB IX die Zustimmung als erteilt gelte. Die Beklagte kündigte das Arbeitsverhältnis der Parteien mit zwei am selben Tag zugegangenen Schreiben vom 10. September 2018 unter Berufung auf verhaltensbedingte Gründe außerordentlich fristlos sowie vorsorglich außerordentlich mit Auslauffrist zum 31. März 2019. Die Klägerin legte gegen die Zustimmung des Integrationsamts zu den Kündigungen Widerspruch ein. Mit einem Abhilfebescheid vom 21. Februar 2019 hob das Integrationsamt den „Bescheid … vom 07.09.2018“ auf und versagte die Zustimmung zu den Kündigungen, da die Beklagte die Frist des § 174 Abs. 2 SGB IX nicht eingehalten habe. Hiergegen brachte die Beklagte eine Klage vor dem Verwaltungsgericht an, die zum Zeitpunkt der mündlichen Verhandlung vor dem Landesarbeitsgericht noch rechtshängig war. Mit ihrer rechtzeitig beim Arbeitsgericht eingegangenen Klage hat sich die Klägerin gegen die Rechtswirksamkeit der Kündigungen vom 10. September 2018 gewandt und behauptet, ein dienstliches Fehlverhalten liege nicht vor. Der Personalrat und die Schwerbehindertenvertretung seien nicht ordnungsgemäß angehört worden. Die Zweiwochenfrist des § 626 Abs. 2 BGB und des § 174 Abs. 2 SGB IX sei nicht gewahrt.;1. Die durch das Integrationsamt einmal erteilte Zustimmung zur Kündigung - vorbehaltlich ihrer Nichtigkeit - entfaltet so lange Wirksamkeit, wie sie nicht rechtskräftig aufgehoben ist. 2. Die Einhaltung der Frist des § 626 Abs 2 BGB bedarf im Fall der Zustimmung des Integrationsamts keiner Prüfung durch das Landesarbeitsgericht, sondern nur die des § 174 Abs 5 SGB 9. Ebenso wenig besteht eine Prüfungskompetenz des Landesarbeitsgerichts, ob die Beklagte die Frist des § 174 Abs 2 SGB 9 eingehalten hat.;"Ich habe die vollständige Entscheidung gefunden. Damit kann ich die Rechtsfrage abschließend beantworten.
+
+## Antwort
+
+Der geschilderte Sachverhalt entspricht wörtlich dem Urteil des **BAG vom 22. Juli 2021 – 2 AZR 193/21**. Der Zweite Senat hat das klageabweisende Vorgehen der Beklagten im Revisionsverfahren stark gestützt und das LAG-Urteil aufgehoben. Die wesentlichen Leitlinien lauten:
+
+### 1. Zustimmungsfiktion nach § 174 Abs. 3 Satz 2 SGB IX
+Da das Integrationsamt auf den Antrag vom 23. August 2018 bis zum Ablauf des 6. September 2018 keine Entscheidung getroffen hat, gilt die Zustimmung zur außerordentlichen Kündigung als erteilt (Rn. 12).
+
+> „Die Zustimmung des Integrationsamts zu den beabsichtigten Kündigungen der Beklagten gilt gemäß § 174 Abs. 3 Satz 2 SGB IX als erteilt …""
+> (BAG 22.07.2021 – 2 AZR 193/21, Rn. 12)
+
+### 2. Bindung der Arbeitsgerichte (Tatbestandswirkung)
+Die Arbeitsgerichte sind an die erteilte Zustimmung – auch an die fingierte – gebunden, solange diese nicht nichtig oder rechtskräftig aufgehoben ist (Rn. 14–15). Dies folgt aus Art. 20 Abs. 3 GG i.V.m. § 43 VwVfG bzw. § 39 SGB X.
+
+### 3. Keine aufschiebende Wirkung (§ 171 Abs. 4 SGB IX)
+Der Abhilfebescheid des Integrationsamts vom 21. Februar 2019, mit dem die Zustimmung aufgehoben und versagt wurde, ist **ohne Bedeutung**, solange er nicht bestands- oder rechtskräftig ist. Da die Beklagte gegen den Bescheid vor dem Verwaltungsgericht klagt und dieses Verfahren noch anhängig ist, kann sie sich weiterhin auf die fingierte Zustimmung berufen (Rn. 16–18):
+
+> „Die durch das Integrationsamt einmal erteilte Zustimmung zur Kündigung entfaltet – vorbehaltlich ihrer Nichtigkeit – so lange Wirksamkeit, wie sie nicht rechtskräftig aufgehoben ist.""
+> (Rn. 16)
+
+Falls später die Zustimmung rechtskräftig aufgehoben wird, nachdem die Kündigungsschutzklage bereits rechtskräftig abgewiesen wurde, steht dem Arbeitnehmer die **Restitutionsklage nach § 580 ZPO** offen (Rn. 16).
+
+### 4. Konsequenz für die Einwände der Klägerin
+- **§ 626 Abs. 2 BGB:** Die Einhaltung dieser Frist ist durch die Arbeitsgerichte **nicht** mehr zu prüfen; geprüft wird nur die Frist des § 174 Abs. 5 SGB IX (Rn. 21).
+- **§ 174 Abs. 2 SGB IX:** Auch hierüber besteht **keine Prüfungskompetenz** der Arbeitsgerichte – diese Frage ist ausschließlich im verwaltungsrechtlichen Verfahren zu klären (Rn. 21).
+- **Wichtiger Grund nach § 626 Abs. 1 BGB** und **ordnungsgemäße Beteiligung von Personalrat und Schwerbehindertenvertretung** müssen hingegen noch geprüft werden (Rn. 20).
+
+### Ergebnis
+Das BAG hat das Berufungsurteil aufgehoben und die Sache an das LAG zurückverwiesen. Die Kündigungen sind nicht allein wegen des Abhilfebescheids unwirksam; das LAG muss nun den wichtigen Grund sowie die Anhörung des Personalrats und der Schwerbehindertenvertretung prüfen.
+
+**Fundstelle:** BAG, Urteil vom 22.07.2021 – 2 AZR 193/21, `data/urteile_markdown_by_year/2021/2021-07-22_BAG_2 AZR 193_21.md`, Zeilen 20–58.";10;"Die Antwort stimmt inhaltlich vollständig mit der Gold-Antwort und der BAG-Rechtsprechung (BAG 22.07.2021 – 2 AZR 193/21) überein: (1) Sie stellt zutreffend dar, dass die (auch fingierte) Zustimmung des Integrationsamts – vorbehaltlich der Nichtigkeit – bis zu ihrer rechtskräftigen Aufhebung Wirksamkeit entfaltet und die Arbeitsgerichte hieran gebunden sind. (2) Sie grenzt die Prüfungskompetenz der Arbeitsgerichte korrekt ab: Keine Prüfung der Zweiwochenfrist des § 626 Abs. 2 BGB bei vorliegender (fingierter) Zustimmung; zu prüfen ist nur § 174 Abs. 5 SGB IX, während § 174 Abs. 2 SGB IX allein der verwaltungsgerichtlichen Kontrolle unterliegt. (3) Der Hinweis auf die fehlende aufschiebende Wirkung und die Möglichkeit der Restitutionsklage ist zutreffend. Insgesamt ist die juristische Bewertung korrekt und deckungsgleich mit der Gold-Antwort.";;59.0s;"Ich habe die vollständige Entscheidung gefunden. Damit kann ich die Rechtsfrage abschließend beantworten.
+
+## Antwort
+
+Der geschilderte Sachverhalt entspricht wörtlich dem Urteil des **BAG vom 22. Juli 2021 – 2 AZR 193/21**. Der Zweite Senat hat das klageabweisende Vorgehen der Beklagten im Revisionsverfahren stark gestützt und das LAG-Urteil aufgehoben. Die wesentlichen Leitlinien lauten:
+
+### 1. Zustimmungsfiktion nach § 174 Abs. 3 Satz 2 SGB IX
+Da das Integrationsamt auf den Antrag vom 23. August 2018 bis zum Ablauf des 6. September 2018 keine Entscheidung getroffen hat, gilt die Zustimmung zur außerordentlichen Kündigung als erteilt (Rn. 12).
+
+> „Die Zustimmung des Integrationsamts zu den beabsichtigten Kündigungen der Beklagten gilt gemäß § 174 Abs. 3 Satz 2 SGB IX als erteilt …""
+> (BAG 22.07.2021 – 2 AZR 193/21, Rn. 12)
+
+### 2. Bindung der Arbeitsgerichte (Tatbestandswirkung)
+Die Arbeitsgerichte sind an die erteilte Zustimmung – auch an die fingierte – gebunden, solange diese nicht nichtig oder rechtskräftig aufgehoben ist (Rn. 14–15). Dies folgt aus Art. 20 Abs. 3 GG i.V.m. § 43 VwVfG bzw. § 39 SGB X.
+
+### 3. Keine aufschiebende Wirkung (§ 171 Abs. 4 SGB IX)
+Der Abhilfebescheid des Integrationsamts vom 21. Februar 2019, mit dem die Zustimmung aufgehoben und versagt wurde, ist **ohne Bedeutung**, solange er nicht bestands- oder rechtskräftig ist. Da die Beklagte gegen den Bescheid vor dem Verwaltungsgericht klagt und dieses Verfahren noch anhängig ist, kann sie sich weiterhin auf die fingierte Zustimmung berufen (Rn. 16–18):
+
+> „Die durch das Integrationsamt einmal erteilte Zustimmung zur Kündigung entfaltet – vorbehaltlich ihrer Nichtigkeit – so lange Wirksamkeit, wie sie nicht rechtskräftig aufgehoben ist.""
+> (Rn. 16)
+
+Falls später die Zustimmung rechtskräftig aufgehoben wird, nachdem die Kündigungsschutzklage bereits rechtskräftig abgewiesen wurde, steht dem Arbeitnehmer die **Restitutionsklage nach § 580 ZPO** offen (Rn. 16).
+
+### 4. Konsequenz für die Einwände der Klägerin
+- **§ 626 Abs. 2 BGB:** Die Einhaltung dieser Frist ist durch die Arbeitsgerichte **nicht** mehr zu prüfen; geprüft wird nur die Frist des § 174 Abs. 5 SGB IX (Rn. 21).
+- **§ 174 Abs. 2 SGB IX:** Auch hierüber besteht **keine Prüfungskompetenz** der Arbeitsgerichte – diese Frage ist ausschließlich im verwaltungsrechtlichen Verfahren zu klären (Rn. 21).
+- **Wichtiger Grund nach § 626 Abs. 1 BGB** und **ordnungsgemäße Beteiligung von Personalrat und Schwerbehindertenvertretung** müssen hingegen noch geprüft werden (Rn. 20).
+
+### Ergebnis
+Das BAG hat das Berufungsurteil aufgehoben und die Sache an das LAG zurückverwiesen. Die Kündigungen sind nicht allein wegen des Abhilfebescheids unwirksam; das LAG muss nun den wichtigen Grund sowie die Anhörung des Personalrats und der Schwerbehindertenvertretung prüfen.
+
+**Fundstelle:** BAG, Urteil vom 22.07.2021 – 2 AZR 193/21, `data/urteile_markdown_by_year/2021/2021-07-22_BAG_2 AZR 193_21.md`, Zeilen 20–58.";10;"Die Antwort stimmt inhaltlich vollständig mit der Gold-Antwort und der BAG-Rechtsprechung (BAG 22.07.2021 – 2 AZR 193/21) überein: (1) Sie stellt zutreffend dar, dass die (auch fingierte) Zustimmung des Integrationsamts – vorbehaltlich der Nichtigkeit – bis zu ihrer rechtskräftigen Aufhebung Wirksamkeit entfaltet und die Arbeitsgerichte hieran gebunden sind. (2) Sie grenzt die Prüfungskompetenz der Arbeitsgerichte korrekt ab: Keine Prüfung der Zweiwochenfrist des § 626 Abs. 2 BGB bei vorliegender (fingierter) Zustimmung; zu prüfen ist nur § 174 Abs. 5 SGB IX, während § 174 Abs. 2 SGB IX allein der verwaltungsgerichtlichen Kontrolle unterliegt. (3) Der Hinweis auf die fehlende aufschiebende Wirkung und die Möglichkeit der Restitutionsklage ist zutreffend. Insgesamt ist die juristische Bewertung korrekt und deckungsgleich mit der Gold-Antwort.";;59.0s;;-1;;;0.0s;agent
+BAG, 19.05.2021, 5 AS 2/21;A. In einem Revisionsverfahren vor dem Achten Senat des Bundesverwaltungsgerichts begehrt das beklagte Land Nordrhein-Westfalen im Wege der Widerklage die Feststellung, dass hinsichtlich des Fahrpersonals der Klägerin § 3 ArbZG nicht durch § 21a Abs. 4 ArbZG - soweit der Anwendungsbereich der letztgenannten Vorschrift eröffnet ist - verdrängt wird. Das Verwaltungsgericht hat der Widerklage stattgegeben. Das Oberverwaltungsgericht hat die Berufung der Klägerin zurückgewiesen. Mit der vom Oberverwaltungsgericht zugelassenen Revision rügt die Klägerin insoweit eine Verletzung der §§ 3, 21a ArbZG. Der Achte Senat des Bundesverwaltungsgerichts ist der Auffassung, das Oberverwaltungsgericht sei zu Recht davon ausgegangen, für Fahrer iSd. § 21a Abs. 1 Satz 1 ArbZG gelte neben der wöchentlichen Höchstarbeitszeit des § 21a Abs. 4 ArbZG auch die Begrenzung der werktäglichen Arbeitszeit nach § 3 ArbZG, insbesondere die werktägliche Höchstarbeitszeit von zehn Stunden nach Satz 2 der Vorschrift. Deshalb möchte der Achte Senat des Bundesverwaltungsgerichts die Revision der Klägerin in Bezug auf die Widerklage zurückweisen. Daran sieht er sich indes durch ein Urteil des Senats vom 18. April 2012 (- 5 AZR 195/11 - Rn. 21) gehindert. Dort hat der Senat - im Rahmen eines Überstundenprozesses und einer Vereinbarung der Parteien, der Arbeitnehmer schulde die Arbeitsleistung, die arbeitszeitrechtlich erlaubt sei - angenommen, Überstunden des als Fernfahrer beschäftigten Arbeitnehmers seien nur die Arbeitszeiten, die über die in § 21a Abs. 4 ArbZG vorgesehenen Zeiten hinausgingen und in diesem Zusammenhang ausgeführt, eine kalendertägliche Betrachtungsweise sehe das Arbeitszeitgesetz für Fahrer und Beifahrer nicht vor, vielmehr seien die Grenzen des § 3 ArbZG von werktäglich acht bzw. zehn Stunden in die wochenbezogenen Grenzwerte eingeflossen.;1. Der Senat hält ausdrücklich nicht an seiner Rechtsprechung fest, dass die werktägliche Höchstarbeitszeit von zehn Stunden gemäß § 3 Abs 2 ArbZG neben der wöchentlichen Höchstarbeitszeit iSd § 21a Abs 4 ArbZG nicht für Fahrpersonal iSd § 21 Abs 1 S 1 ArbZG gilt.  2. Der Senat lässt im Rahmen der Anfrage des Bundesverwaltungsgerichts nach § 11 Abs 3 RsprEinhG ausdrücklich offen, ob § 21a Abs 4 ArbZG in der Auslegung als nicht abschließende abweichende Regelung der Höchstarbeitszeit des Fahrpersonals iSd § 21a Abs 1 ArbZG unionsrechtskonform ist. Normen: Arbeitszeitgesetz (ArbZG) § 3 Arbeitszeit der Arbeitnehmer. Die werktägliche Arbeitszeit der Arbeitnehmer darf acht Stunden nicht überschreiten. Sie kann auf bis zu zehn Stunden nur verlängert werden, wenn innerhalb von sechs Kalendermonaten oder innerhalb von 24 Wochen im Durchschnitt acht Stunden werktäglich nicht überschritten werden. § 21a ArbZG;"Ich habe nun alle nötigen Informationen. Die geschilderte Konstellation entspricht exakt dem Beschluss des Fünften Senats des BAG vom 19. Mai 2021 - 5 AS 2/21 -, mit dem der BAG-Senat auf die Divergenzanfrage des BVerwG (Beschluss vom 11. November 2020 - 8 C 24.19 -) geantwortet hat.
+
+## Antwort
+
+**Rechtliche Einordnung des Sachverhalts**
+
+Der geschilderte Sachverhalt stammt wörtlich aus dem Beschluss des **Fünften Senats des Bundesarbeitsgerichts vom 19. Mai 2021 - 5 AS 2/21 -** (ECLI:DE:BAG:2021:190521.B.5AS2.21.0). Es handelt sich um ein **Divergenzanfrageverfahren** nach § 11 Abs. 3 Satz 1 RsprEinhG (Gesetz zur Wahrung der Einheitlichkeit der Rechtsprechung der obersten Gerichtshöfe des Bundes).
+
+**Verfahrenskonstellation**
+
+Der Achte Senat des Bundesverwaltungsgerichts wollte in einem Revisionsverfahren (- 8 C 24.19 -) entscheiden, dass für Fahrer i.S.d. § 21a Abs. 1 Satz 1 ArbZG neben der wöchentlichen Höchstarbeitszeit des § 21a Abs. 4 ArbZG auch die werktägliche Höchstarbeitszeit von zehn Stunden aus § 3 Satz 2 ArbZG gilt. Er sah sich jedoch gehindert durch das Urteil des Fünften Senats des BAG vom 18. April 2012 - 5 AZR 195/11 - Rn. 21 und richtete daher mit Beschluss vom **11. November 2020 - 8 C 24.19 -** eine Anfrage an den Fünften Senat des BAG, ob dieser an seiner Rechtsauffassung festhalte.
+
+**Antwort des Fünften Senats (Tenor des Beschlusses 5 AS 2/21)**
+
+> „Soweit die Rechtsausführungen des Senats in dem Urteil vom 18. April 2012 (- 5 AZR 195/11 - Rn. 21) dahingehend verstanden werden können, die Begrenzung der werktäglichen Arbeitszeit auf höchstens zehn Stunden gemäß § 3 Satz 2 ArbZG gelte für Fahrer iSd. § 21a Abs. 1 Satz 1 ArbZG nicht, hält der Senat daran nicht fest.""
+
+(Zitat: `/home/sten/legalgenius/data/urteile_markdown_by_year/2021/2021-05-19_BAG_5 AS 2_21.md`, Zeile 14)
+
+**Begründung des Fünften Senats**
+
+In Rn. 3 des Beschlusses führt der Senat klarstellend aus:
+
+> „Daran hält der Senat nicht fest. Die werktägliche Höchstarbeitszeit von zehn Stunden gemäß § 3 Satz 2 ArbZG gilt nach nationalem Recht auch für Fahrpersonal iSd. § 21a Abs. 1 Satz 1 ArbZG.""
+
+(Rn. 3, a.a.O.)
+
+Der Senat räumt zwar ein, dass **Wortlaut und Systematik** eher für eine abschließende Regelung der Höchstarbeitszeit durch § 21a Abs. 4 ArbZG sprechen (Rn. 8 ff.), auch **Sinn und Zweck** (Umsetzung der Richtlinie 2002/15/EG) nicht zwingend gegen eine abschließende Regelung sprechen (Rn. 11 f.). Entscheidend für die Aufgabe der früheren Rechtsauffassung sind jedoch die **Gesetzesmaterialien**, die eine bloß ergänzende, nicht verdrängende Wirkung des § 21a Abs. 4 ArbZG gegenüber § 3 ArbZG belegen.
+
+**Folgeentscheidung des BVerwG**
+
+Auf Grundlage dieser Antwort konnte der Achte Senat des BVerwG mit Urteil vom **16. Dezember 2021 - 8 C 24.19 -** die Revision der Klägerin hinsichtlich der Widerklage zurückweisen, ohne den Gemeinsamen Senat der obersten Gerichtshöfe anrufen zu müssen. Das BVerwG bestätigte dort:
+
+> „§ 21a Abs. 4 ArbZG regelt die Höchstarbeitszeit für Fahrer und Beifahrer im Sinne des Absatzes 1 der Norm nicht abschließend, sondern trifft eine Spezialregelung, die gemäß § 21a Abs. 1 Satz 1 ArbZG eine ergänzende Anwendung des § 3 ArbZG (...) zulässt.""
+
+(BVerwG, Urteil vom 16.12.2021 - 8 C 24.19 -, Rn. 20; `/home/sten/legalgenius/data/urteile_markdown_by_year/2021/2021-12-16_BVerwG_8 C 24_19.md`, Zeile 62)
+
+**Ergebnis**
+
+Für Fahrpersonal i.S.d. § 21a Abs. 1 Satz 1 ArbZG gilt damit nunmehr höchstrichterlich einheitlich geklärt:
+
+- die **wöchentliche Höchstarbeitszeit** nach § 21a Abs. 4 ArbZG (48, verlängerbar auf 60 Stunden, mit dem verkürzten Ausgleichszeitraum von 4 Monaten/16 Wochen) **und**
+- **ergänzend** die **werktägliche Höchstarbeitszeit** von zehn Stunden nach § 3 Satz 2 ArbZG.
+
+§ 21a Abs. 4 ArbZG verdrängt § 3 ArbZG nur, **soweit** er von ihm abweicht (insbesondere hinsichtlich der Ausgleichszeiträume), enthält aber keine abschließende Verdrängung der werktäglichen Höchstarbeitszeitgrenze.";9;Die Antwort ist juristisch im Kern richtig: Sie identifiziert zutreffend den Beschluss des BAG (5 AS 2/21) im RsprEinhG-Verfahren, stellt korrekt dar, dass der Fünfte Senat an der 2012 vertretenen Auffassung (5 AZR 195/11, Rn. 21) nicht festhält, und bestätigt, dass für Fahrpersonal neben § 21a Abs. 4 ArbZG auch die werktägliche Höchstarbeitszeit des § 3 Satz 2 ArbZG gilt. Ebenso zutreffend ist der Verfahrenskontext (Anfrage des BVerwG nach § 11 Abs. 3 RsprEinhG) und die Folgeentscheidung des BVerwG (8 C 24.19). Kleinere Unschärfen sind unschädlich. Einziger wesentlicher Kritikpunkt gegenüber der Goldantwort: Es fehlt der ausdrückliche Hinweis, dass der BAG-Senat die unionsrechtliche Konformität der nicht abschließenden Auslegung des § 21a Abs. 4 ArbZG offen gelassen hat. Diese Auslassung betrifft die Vollständigkeit, nicht die Richtigkeit der getroffenen Aussagen.;;69.5s;"Ich habe nun alle nötigen Informationen. Die geschilderte Konstellation entspricht exakt dem Beschluss des Fünften Senats des BAG vom 19. Mai 2021 - 5 AS 2/21 -, mit dem der BAG-Senat auf die Divergenzanfrage des BVerwG (Beschluss vom 11. November 2020 - 8 C 24.19 -) geantwortet hat.
+
+## Antwort
+
+**Rechtliche Einordnung des Sachverhalts**
+
+Der geschilderte Sachverhalt stammt wörtlich aus dem Beschluss des **Fünften Senats des Bundesarbeitsgerichts vom 19. Mai 2021 - 5 AS 2/21 -** (ECLI:DE:BAG:2021:190521.B.5AS2.21.0). Es handelt sich um ein **Divergenzanfrageverfahren** nach § 11 Abs. 3 Satz 1 RsprEinhG (Gesetz zur Wahrung der Einheitlichkeit der Rechtsprechung der obersten Gerichtshöfe des Bundes).
+
+**Verfahrenskonstellation**
+
+Der Achte Senat des Bundesverwaltungsgerichts wollte in einem Revisionsverfahren (- 8 C 24.19 -) entscheiden, dass für Fahrer i.S.d. § 21a Abs. 1 Satz 1 ArbZG neben der wöchentlichen Höchstarbeitszeit des § 21a Abs. 4 ArbZG auch die werktägliche Höchstarbeitszeit von zehn Stunden aus § 3 Satz 2 ArbZG gilt. Er sah sich jedoch gehindert durch das Urteil des Fünften Senats des BAG vom 18. April 2012 - 5 AZR 195/11 - Rn. 21 und richtete daher mit Beschluss vom **11. November 2020 - 8 C 24.19 -** eine Anfrage an den Fünften Senat des BAG, ob dieser an seiner Rechtsauffassung festhalte.
+
+**Antwort des Fünften Senats (Tenor des Beschlusses 5 AS 2/21)**
+
+> „Soweit die Rechtsausführungen des Senats in dem Urteil vom 18. April 2012 (- 5 AZR 195/11 - Rn. 21) dahingehend verstanden werden können, die Begrenzung der werktäglichen Arbeitszeit auf höchstens zehn Stunden gemäß § 3 Satz 2 ArbZG gelte für Fahrer iSd. § 21a Abs. 1 Satz 1 ArbZG nicht, hält der Senat daran nicht fest.""
+
+(Zitat: `/home/sten/legalgenius/data/urteile_markdown_by_year/2021/2021-05-19_BAG_5 AS 2_21.md`, Zeile 14)
+
+**Begründung des Fünften Senats**
+
+In Rn. 3 des Beschlusses führt der Senat klarstellend aus:
+
+> „Daran hält der Senat nicht fest. Die werktägliche Höchstarbeitszeit von zehn Stunden gemäß § 3 Satz 2 ArbZG gilt nach nationalem Recht auch für Fahrpersonal iSd. § 21a Abs. 1 Satz 1 ArbZG.""
+
+(Rn. 3, a.a.O.)
+
+Der Senat räumt zwar ein, dass **Wortlaut und Systematik** eher für eine abschließende Regelung der Höchstarbeitszeit durch § 21a Abs. 4 ArbZG sprechen (Rn. 8 ff.), auch **Sinn und Zweck** (Umsetzung der Richtlinie 2002/15/EG) nicht zwingend gegen eine abschließende Regelung sprechen (Rn. 11 f.). Entscheidend für die Aufgabe der früheren Rechtsauffassung sind jedoch die **Gesetzesmaterialien**, die eine bloß ergänzende, nicht verdrängende Wirkung des § 21a Abs. 4 ArbZG gegenüber § 3 ArbZG belegen.
+
+**Folgeentscheidung des BVerwG**
+
+Auf Grundlage dieser Antwort konnte der Achte Senat des BVerwG mit Urteil vom **16. Dezember 2021 - 8 C 24.19 -** die Revision der Klägerin hinsichtlich der Widerklage zurückweisen, ohne den Gemeinsamen Senat der obersten Gerichtshöfe anrufen zu müssen. Das BVerwG bestätigte dort:
+
+> „§ 21a Abs. 4 ArbZG regelt die Höchstarbeitszeit für Fahrer und Beifahrer im Sinne des Absatzes 1 der Norm nicht abschließend, sondern trifft eine Spezialregelung, die gemäß § 21a Abs. 1 Satz 1 ArbZG eine ergänzende Anwendung des § 3 ArbZG (...) zulässt.""
+
+(BVerwG, Urteil vom 16.12.2021 - 8 C 24.19 -, Rn. 20; `/home/sten/legalgenius/data/urteile_markdown_by_year/2021/2021-12-16_BVerwG_8 C 24_19.md`, Zeile 62)
+
+**Ergebnis**
+
+Für Fahrpersonal i.S.d. § 21a Abs. 1 Satz 1 ArbZG gilt damit nunmehr höchstrichterlich einheitlich geklärt:
+
+- die **wöchentliche Höchstarbeitszeit** nach § 21a Abs. 4 ArbZG (48, verlängerbar auf 60 Stunden, mit dem verkürzten Ausgleichszeitraum von 4 Monaten/16 Wochen) **und**
+- **ergänzend** die **werktägliche Höchstarbeitszeit** von zehn Stunden nach § 3 Satz 2 ArbZG.
+
+§ 21a Abs. 4 ArbZG verdrängt § 3 ArbZG nur, **soweit** er von ihm abweicht (insbesondere hinsichtlich der Ausgleichszeiträume), enthält aber keine abschließende Verdrängung der werktäglichen Höchstarbeitszeitgrenze.";9;Die Antwort ist juristisch im Kern richtig: Sie identifiziert zutreffend den Beschluss des BAG (5 AS 2/21) im RsprEinhG-Verfahren, stellt korrekt dar, dass der Fünfte Senat an der 2012 vertretenen Auffassung (5 AZR 195/11, Rn. 21) nicht festhält, und bestätigt, dass für Fahrpersonal neben § 21a Abs. 4 ArbZG auch die werktägliche Höchstarbeitszeit des § 3 Satz 2 ArbZG gilt. Ebenso zutreffend ist der Verfahrenskontext (Anfrage des BVerwG nach § 11 Abs. 3 RsprEinhG) und die Folgeentscheidung des BVerwG (8 C 24.19). Kleinere Unschärfen sind unschädlich. Einziger wesentlicher Kritikpunkt gegenüber der Goldantwort: Es fehlt der ausdrückliche Hinweis, dass der BAG-Senat die unionsrechtliche Konformität der nicht abschließenden Auslegung des § 21a Abs. 4 ArbZG offen gelassen hat. Diese Auslassung betrifft die Vollständigkeit, nicht die Richtigkeit der getroffenen Aussagen.;;69.5s;;-1;;;0.0s;agent
+BAG, 20.05.2021, 2 AZR 457/20;Der Kläger war bei der Beklagten seit August 2017 als „Prozessmanager Automotive“ beschäftigt. Die Beklagte kündigte das Arbeitsverhältnis der Parteien mit Schreiben vom 23. April 2018 ordentlich zum 31. Mai 2018. Dagegen hat sich der Kläger gerichtlich gewehrt und ua. einen allgemeinen Weiterbeschäftigungsanspruch geltend gemacht. Im Lauf des erstinstanzlichen Verfahrens trafen die Parteien am 6. September 2018 unter der Überschrift „Vertragliches Prozessarbeitsverhältnis“ die nachstehende Abrede: „Präambel.  Der Arbeitnehmer hat gegen die ihm am 24.04.2018 zugestellte Kündigung vom 23.04.2018 zum 31.05.2018 … Kündigungsschutzklage erhoben. Zugleich hat er beantragt, ihn über das Beendigungsdatum 31.05.2018 zu unveränderten Bedingungen weiter zu beschäftigen. Vor diesem Hintergrund wird zwischen den Parteien Folgendes vereinbart:  1.   Der Arbeitgeber bietet dem Arbeitnehmer eine durch die rechtskräftige Feststellung der Wirksamkeit der Kündigung auflösend bedingte Fortsetzung seines Arbeitsverhältnisses zu den bisherigen im Arbeitsvertrag vom 14.07.2014 geregelten Bedingungen als Prozessmanager in D ab dem 05.09.2018 an.  2.    Der Arbeitnehmer nimmt das Angebot auf Prozessbeschäftigung an.    3.    Der Arbeitgeber hält an der Wirksamkeit der ausgesprochenen Kündigung vom 23.04.2018 fest und begibt sich mit dieser Vereinbarung keinerlei Rechte.  4.   Änderungen oder Ergänzungen dieser Vereinbarung bedürfen zu ihrer Wirksamkeit der Schriftform, es sei denn, sie beruhen auf einer ausdrücklichen oder individuellen Vertragsabrede im Sinne des § 305b BGB. Auch die Aufhebung dieses Schriftformerfordernisses bedarf der Schriftform.  5.    Sollte eine Bestimmung dieses Vertrags unwirksam sein, so wird die Wirksamkeit der übrigen Bestimmungen nicht berührt. Anstelle der unwirksamen Bestimmung soll diejenige rechtliche zulässige Regelung gelten, die der Absicht der Vertragspartner am nächsten kommt. …“  Während der Prozessbeschäftigung kam es zu Unstimmigkeiten über die maßgeblichen Arbeitsbedingungen. Der Kläger war bis zum 12. März 2019 arbeitsunfähig. Die Beklagte forderte ihn am Freitag, den 22. März 2019 telefonisch auf, seine Tätigkeit am Montag, den 25. März 2019 wieder aufzunehmen. Noch am 22. März 2019 übersandte ihr der Kläger um 23:17 Uhr per E-Mail einen Antrag auf Erholungsurlaub für die Zeit vom 25. März 2019 bis zum 25. April 2019 und bat um „schriftliche Genehmigung … bzw. um Ablehnung unter Nennung der Gründe auf gleichem Wege“. Der Kläger erschien weder am 25. März 2019 noch an den Folgetagen zur Arbeit.  Die Beklagte kündigte - nach Anhörung des Betriebsrats - mit Schreiben vom 4. April 2019, dem Kläger am Folgetag zugegangen, „den mit Ihnen geschlossenen Arbeitsvertrag“ außerordentlich fristlos, hilfsweise ordentlich. Dagegen hat der Kläger sich rechtzeitig mit der vorliegenden Klageerweiterung gewandt. Die Beklagte habe allein ein separates Prozessarbeitsverhältnis gekündigt. Jedenfalls könne seine Selbstbeurlaubung keine Kündigung des ursprünglichen Arbeitsverhältnisses rechtfertigen.;Der eigenmächtige Antritt eines vom Arbeitgeber nicht gewährten Urlaubs durch den Arbeitnehmer ist bei einer Prozessbeschäftigung durch auflösend bedingte Fortsetzung des Arbeitsvertrags 'an sich' geeignet, einen wichtigen Grund zur außerordentlichen fristlosen Kündigung des Arbeitsverhältnisses der Parteien darzustellen. Bei einer auflösend bedingten Fortsetzung des gekündigten Arbeitsvertrags bis zur rechtskräftigen Abweisung der Kündigungsschutzklage bestehen zwischen den Parteien - ungeachtet der Unwirksamkeit der Kündigung - die gleichen Rechte und Pflichten wie in einem gekündigten, aber noch nicht beendeten Arbeitsverhältnis. Dies umfasst das an den Arbeitnehmer gerichtete Verbot, sich selbst zu beurlauben und die mangels Urlaubsgewährung durch den Arbeitgeber fortbestehende Arbeitspflicht zu verletzen.;"Ich habe den geschilderten Sachverhalt eindeutig dem BAG-Urteil vom 20.05.2021 - 2 AZR 457/20 zugeordnet. Das ist exakt der entschiedene Fall. Ich kann nun eine strukturierte Antwort geben.
+
+# Rechtliche Beurteilung
+
+Der geschilderte Sachverhalt entspricht exakt dem vom **BAG mit Urteil vom 20. Mai 2021 - 2 AZR 457/20** entschiedenen Fall („Kündigung - Prozessbeschäftigung - Selbstbeurlaubung""). Das BAG hat die Revision des Klägers zurückgewiesen. Im Einzelnen:
+
+## 1. Nur ein einziges Arbeitsverhältnis - kein zweites „Prozessarbeitsverhältnis""
+
+Die Parteien hatten am 6. September 2018 **kein zweites Arbeitsverhältnis** neben das gekündigte gestellt, sondern das ursprüngliche Arbeitsverhältnis **auflösend bedingt fortgesetzt** (§ 158 Abs. 2 BGB, § 21 i.V.m. § 14 Abs. 1 TzBfG):
+
+> „Sie haben nach dem eindeutigen Wortlaut von Ziff. 1 der Abrede vom 6. September 2018 eine ‚auflösend bedingte Fortsetzung (ihres) Arbeitsverhältnisses zu den bisherigen im Arbeitsvertrag vom 14.07.2014 geregelten Bedingungen' bis zur rechtskräftigen Abweisung der Klage gegen die Kündigung vom 23. April 2018 vereinbart. Diese Abrede enthält keinen Anhaltspunkt für den Abschluss eines zweiten Arbeitsvertrags."" (Rn. 16)
+
+Folglich bezog sich die Kündigung vom 4. April 2019 („kündigen wir den mit Ihnen geschlossenen Arbeitsvertrag"") eindeutig auf das eine, einzige Arbeitsverhältnis (Rn. 21). Die Kündigung musste **nicht vorsorglich oder hilfsweise** ausgesprochen werden, da die auflösende Bedingung nicht rückwirkend eintreten konnte (§ 21 i.V.m. § 15 Abs. 2 TzBfG; Rn. 22).
+
+## 2. Außerordentliche Kündigung zulässig trotz auflösend bedingter Fortsetzung
+
+Ein Vorbehalt des Rechts zur außerordentlichen Kündigung war nicht erforderlich: 
+
+> „§ 21 iVm. § 15 Abs. 3 TzBfG gilt ausschließlich für die ordentliche Kündigung."" (Rn. 23)
+
+## 3. Wichtiger Grund i.S.v. § 626 BGB durch Selbstbeurlaubung
+
+Der eigenmächtige Urlaubsantritt ist „an sich"" ein wichtiger Grund zur außerordentlichen fristlosen Kündigung:
+
+> „Der Kläger hat durch den eigenmächtigen Antritt eines von der Beklagten nicht gewährten Urlaubs eine erhebliche Pflichtverletzung begangen, die ‚an sich' geeignet ist, eine außerordentliche fristlose Kündigung des Arbeitsverhältnisses zu rechtfertigen."" (Rn. 25)
+
+Das Verbot der Selbstbeurlaubung folgt unmittelbar aus **§ 611a Abs. 1 Satz 1 BGB, § 7 BUrlG** (Rn. 27). Bei einer auflösend bedingten Fortsetzung des gekündigten Vertrags bestehen „die gleichen Rechte und Pflichten wie in einem gekündigten, aber noch nicht beendeten Arbeitsverhältnis"" (Rn. 26).
+
+## 4. Kein Selbstbeurlaubungsrecht des Klägers
+
+Ein (ohnehin zweifelhaftes) Selbstbeurlaubungsrecht käme allenfalls bei grundloser Ablehnung bzw. übermäßig langer Nichtreaktion des Arbeitgebers und drohendem Urlaubsverfall in Betracht. Hier hat der Kläger eine Prüfung des Antrags gerade vereitelt, indem er den Antrag erst am **Freitagabend um 23:17 Uhr für den darauffolgenden Montag** stellte (Rn. 30).
+
+## 5. Keine Abmahnung erforderlich; Interessenabwägung zulasten des Klägers
+
+Wegen der Schwere der Pflichtverletzung war eine Abmahnung entbehrlich (Rn. 32). Der Einwand, es handle sich „nur"" um ein Prozessarbeitsverhältnis, wurde verworfen; das Prozessarbeitsverhältnis bietet dem Arbeitnehmer sogar erhebliche Vorteile (Entgeltfortzahlung, weitere Urlaubsansprüche, längerer Bestand - Rn. 36).
+
+## Ergebnis
+
+Die außerordentliche fristlose Kündigung vom 4. April 2019 hat das (einzige, auflösend bedingt fortgesetzte) Arbeitsverhältnis der Parteien wirksam beendet. Der Einwand des Klägers, es sei nur ein „separates Prozessarbeitsverhältnis"" gekündigt worden bzw. die Selbstbeurlaubung könne das ursprüngliche Arbeitsverhältnis nicht beenden, greift nicht durch.
+
+---
+
+**Quelle:** BAG, Urteil vom 20.05.2021 - 2 AZR 457/20 („Kündigung - Prozessbeschäftigung - Selbstbeurlaubung""), abrufbar unter `/urteile_markdown_by_year/2021/2021-05-20_BAG_2 AZR 457_20.md`, insbesondere Rn. 11-37.";10;"Die Antwort ist juristisch vollständig zutreffend und deckt sich mit der Gold-Antwort sowie der BAG-Entscheidung (BAG, 20.05.2021 – 2 AZR 457/20). Korrekt herausgearbeitet sind: (1) Es besteht kein zweites Prozessarbeitsverhältnis; vielmehr eine auflösend bedingte Fortsetzung des ursprünglichen Arbeitsverhältnisses (§ 21 TzBfG i.V.m. § 14 TzBfG; § 158 Abs. 2 BGB). (2) Die Kündigung bezog sich auf das einzige Arbeitsverhältnis; es bedurfte keines besonderen Vorbehalts hinsichtlich der außerordentlichen Kündigung (§ 15 Abs. 3 TzBfG betrifft nur die ordentliche Kündigung). (3) Der eigenmächtige Urlaubsantritt ist ‚an sich‘ ein wichtiger Grund i.S.v. § 626 BGB; Verbot der Selbstbeurlaubung folgt aus der fortbestehenden Arbeitspflicht und § 7 BUrlG. (4) Ein ausnahmsweises Selbstbeurlaubungsrecht lag hier fern (Antrag Freitag 23:17 Uhr für Montag), eine Abmahnung war entbehrlich; die Interessenabwägung fiel zulasten des Klägers aus. Diese Punkte entsprechen exakt der Kernaussage der Gold-Antwort. Etwaige Detailverweise (Randnummern, Normzitate) sind stimmig und ohne rechtlich relevante Fehler.";;61.7s;"Ich habe den geschilderten Sachverhalt eindeutig dem BAG-Urteil vom 20.05.2021 - 2 AZR 457/20 zugeordnet. Das ist exakt der entschiedene Fall. Ich kann nun eine strukturierte Antwort geben.
+
+# Rechtliche Beurteilung
+
+Der geschilderte Sachverhalt entspricht exakt dem vom **BAG mit Urteil vom 20. Mai 2021 - 2 AZR 457/20** entschiedenen Fall („Kündigung - Prozessbeschäftigung - Selbstbeurlaubung""). Das BAG hat die Revision des Klägers zurückgewiesen. Im Einzelnen:
+
+## 1. Nur ein einziges Arbeitsverhältnis - kein zweites „Prozessarbeitsverhältnis""
+
+Die Parteien hatten am 6. September 2018 **kein zweites Arbeitsverhältnis** neben das gekündigte gestellt, sondern das ursprüngliche Arbeitsverhältnis **auflösend bedingt fortgesetzt** (§ 158 Abs. 2 BGB, § 21 i.V.m. § 14 Abs. 1 TzBfG):
+
+> „Sie haben nach dem eindeutigen Wortlaut von Ziff. 1 der Abrede vom 6. September 2018 eine ‚auflösend bedingte Fortsetzung (ihres) Arbeitsverhältnisses zu den bisherigen im Arbeitsvertrag vom 14.07.2014 geregelten Bedingungen' bis zur rechtskräftigen Abweisung der Klage gegen die Kündigung vom 23. April 2018 vereinbart. Diese Abrede enthält keinen Anhaltspunkt für den Abschluss eines zweiten Arbeitsvertrags."" (Rn. 16)
+
+Folglich bezog sich die Kündigung vom 4. April 2019 („kündigen wir den mit Ihnen geschlossenen Arbeitsvertrag"") eindeutig auf das eine, einzige Arbeitsverhältnis (Rn. 21). Die Kündigung musste **nicht vorsorglich oder hilfsweise** ausgesprochen werden, da die auflösende Bedingung nicht rückwirkend eintreten konnte (§ 21 i.V.m. § 15 Abs. 2 TzBfG; Rn. 22).
+
+## 2. Außerordentliche Kündigung zulässig trotz auflösend bedingter Fortsetzung
+
+Ein Vorbehalt des Rechts zur außerordentlichen Kündigung war nicht erforderlich: 
+
+> „§ 21 iVm. § 15 Abs. 3 TzBfG gilt ausschließlich für die ordentliche Kündigung."" (Rn. 23)
+
+## 3. Wichtiger Grund i.S.v. § 626 BGB durch Selbstbeurlaubung
+
+Der eigenmächtige Urlaubsantritt ist „an sich"" ein wichtiger Grund zur außerordentlichen fristlosen Kündigung:
+
+> „Der Kläger hat durch den eigenmächtigen Antritt eines von der Beklagten nicht gewährten Urlaubs eine erhebliche Pflichtverletzung begangen, die ‚an sich' geeignet ist, eine außerordentliche fristlose Kündigung des Arbeitsverhältnisses zu rechtfertigen."" (Rn. 25)
+
+Das Verbot der Selbstbeurlaubung folgt unmittelbar aus **§ 611a Abs. 1 Satz 1 BGB, § 7 BUrlG** (Rn. 27). Bei einer auflösend bedingten Fortsetzung des gekündigten Vertrags bestehen „die gleichen Rechte und Pflichten wie in einem gekündigten, aber noch nicht beendeten Arbeitsverhältnis"" (Rn. 26).
+
+## 4. Kein Selbstbeurlaubungsrecht des Klägers
+
+Ein (ohnehin zweifelhaftes) Selbstbeurlaubungsrecht käme allenfalls bei grundloser Ablehnung bzw. übermäßig langer Nichtreaktion des Arbeitgebers und drohendem Urlaubsverfall in Betracht. Hier hat der Kläger eine Prüfung des Antrags gerade vereitelt, indem er den Antrag erst am **Freitagabend um 23:17 Uhr für den darauffolgenden Montag** stellte (Rn. 30).
+
+## 5. Keine Abmahnung erforderlich; Interessenabwägung zulasten des Klägers
+
+Wegen der Schwere der Pflichtverletzung war eine Abmahnung entbehrlich (Rn. 32). Der Einwand, es handle sich „nur"" um ein Prozessarbeitsverhältnis, wurde verworfen; das Prozessarbeitsverhältnis bietet dem Arbeitnehmer sogar erhebliche Vorteile (Entgeltfortzahlung, weitere Urlaubsansprüche, längerer Bestand - Rn. 36).
+
+## Ergebnis
+
+Die außerordentliche fristlose Kündigung vom 4. April 2019 hat das (einzige, auflösend bedingt fortgesetzte) Arbeitsverhältnis der Parteien wirksam beendet. Der Einwand des Klägers, es sei nur ein „separates Prozessarbeitsverhältnis"" gekündigt worden bzw. die Selbstbeurlaubung könne das ursprüngliche Arbeitsverhältnis nicht beenden, greift nicht durch.
+
+---
+
+**Quelle:** BAG, Urteil vom 20.05.2021 - 2 AZR 457/20 („Kündigung - Prozessbeschäftigung - Selbstbeurlaubung""), abrufbar unter `/urteile_markdown_by_year/2021/2021-05-20_BAG_2 AZR 457_20.md`, insbesondere Rn. 11-37.";10;"Die Antwort ist juristisch vollständig zutreffend und deckt sich mit der Gold-Antwort sowie der BAG-Entscheidung (BAG, 20.05.2021 – 2 AZR 457/20). Korrekt herausgearbeitet sind: (1) Es besteht kein zweites Prozessarbeitsverhältnis; vielmehr eine auflösend bedingte Fortsetzung des ursprünglichen Arbeitsverhältnisses (§ 21 TzBfG i.V.m. § 14 TzBfG; § 158 Abs. 2 BGB). (2) Die Kündigung bezog sich auf das einzige Arbeitsverhältnis; es bedurfte keines besonderen Vorbehalts hinsichtlich der außerordentlichen Kündigung (§ 15 Abs. 3 TzBfG betrifft nur die ordentliche Kündigung). (3) Der eigenmächtige Urlaubsantritt ist ‚an sich‘ ein wichtiger Grund i.S.v. § 626 BGB; Verbot der Selbstbeurlaubung folgt aus der fortbestehenden Arbeitspflicht und § 7 BUrlG. (4) Ein ausnahmsweises Selbstbeurlaubungsrecht lag hier fern (Antrag Freitag 23:17 Uhr für Montag), eine Abmahnung war entbehrlich; die Interessenabwägung fiel zulasten des Klägers aus. Diese Punkte entsprechen exakt der Kernaussage der Gold-Antwort. Etwaige Detailverweise (Randnummern, Normzitate) sind stimmig und ohne rechtlich relevante Fehler.";;61.7s;;-1;;;0.0s;agent
+BAG, 20.05.2021, 2 AZR 560/20;Die Parteien streiten über die Wirksamkeit einer ordentlichen Kündigung und die Entfernung von Abmahnungen aus der Personalakte des Klägers. Die Beklagte vertreibt Wägeeinrichtungen und Wägegeräte, die sie zumindest zum Teil von der Firma A GmbH (im Folgenden AS) bezieht. Außerdem bietet sie ihren Kunden darauf bezogene Serviceleistungen an. Der Kläger war bei ihr seit 2015 als Servicetechniker im Außendienst beschäftigt. An seinem Einstellungsgespräch nahm auch der damalige Serviceleiter der AS teil. Der Kläger wurde bei der AS eingearbeitet und besuchte deren Produktschulungen. Die Beklagte beschäftigte außer dem Kläger noch einen weiteren Servicetechniker und zwei kaufmännische Angestellte. Ihr Geschäftsführer ist zugleich Geschäftsführer der AS, die ebenfalls Wägeeinrichtungen und Wägegeräte vertreibt sowie Serviceleistungen anbietet.  Die Beklagte und die AS arbeiten zusammen. Der Internetauftritt der AS weist die Beklagte als weiteren Servicestützpunkt aus. Die Servicetechniker beider Unternehmen werden auch bei den Kunden des jeweils anderen Unternehmens tätig. In Einzelfällen kommt es zu gemeinsamen Einsätzen. Die Einteilung der Dienste der Servicetechniker nimmt bei der Beklagten eine kaufmännische Angestellte vor, bei der AS deren Serviceleiter. Reichen die eigenen Personalkapazitäten nicht aus, wird beim jeweils anderen Unternehmen angefragt, ob für einen bestimmten Serviceauftrag ein Servicetechniker zur Verfügung steht. Ist das der Fall, wird dieser vom eigenen Unternehmen für den Kunden oder die Kundin des anderen Unternehmens eingeteilt. Die für die Kalibrierung von Wägeeinrichtungen erforderlichen Gewichte werden bei Bedarf zwischen der Beklagten und der AS ausgetauscht oder von anderen Unternehmen bezogen. Personalangelegenheiten beider Unternehmen erledigt der Geschäftsführer. Für die Personalverwaltung der beiden Unternehmen ist derselbe externe Steuerberater verantwortlich. Mit Schreiben vom 17. und 18. Januar 2019 legte der Geschäftsführer der Beklagten dem Kläger Pflichtverletzungen zur Last und mahnte ihn deshalb ab. Vom 5. Februar 2019 bis 22. März 2019 war der Kläger arbeitsunfähig erkrankt. Eine Arbeitsunfähigkeitsbescheinigung gab er am 5. Februar 2019 bei der Beklagten ab.  Die Beklagte kündigte das Arbeitsverhältnis der Parteien mit Schreiben vom 5. Februar 2019, dem Kläger zugegangen am 7. Februar 2019, ordentlich zum  31. März 2019.;1. Ein gemeinsamer Betrieb mehrerer Unternehmen liegt vor, wenn die in einer Betriebsstätte vorhandenen materiellen und immateriellen Betriebsmittel mehrerer Unternehmen zu arbeitstechnischen Zwecken zusammengefasst, geordnet und gezielt eingesetzt werden und der Einsatz der menschlichen Arbeitskraft von einem einheitlichen Leitungsapparat betriebsbezogen gesteuert wird. Die beteiligten Unternehmen müssen sich zumindest stillschweigend zu einer gemeinsamen Führung rechtlich verbunden haben, so dass der Kern der Arbeitgeberfunktionen im sozialen und personellen Bereich von derselben institutionellen Leitung ausgeübt wird. Eine lediglich unternehmerische Zusammenarbeit genügt nicht. 2. Nach § 1 Abs 2 Nr 1 BetrVG wird ein gemeinsamer Betrieb mehrerer Unternehmen vermutet, wenn zur Verfolgung arbeitstechnischer Zwecke die Betriebsmittel sowie die Arbeitnehmer von den Unternehmen gemeinsam eingesetzt werden. In dieser Vorschrift ist der Begriff des gemeinsamen Betriebs mehrerer Unternehmen nicht eigenständig definiert, sondern unter Zugrundelegung des von der Rechtsprechung entwickelten Begriffs geregelt, dass unter den genannten Voraussetzungen ein gemeinsamer Betrieb mehrerer Unternehmen vermutet wird.  3. Nach § 612a BGB darf der Arbeitgeber einen Arbeitnehmer nicht deshalb bei einer Maßnahme benachteiligen, weil dieser in zulässiger Weise seine Rechte ausübt. Das Benachteiligungsverbot soll den Arbeitnehmer in seiner Willensfreiheit bei der Entscheidung darüber schützen, ob ein Recht ausgeübt wird oder nicht. Ein Verstoß gegen das Maßregelungsverbot des § 612a BGB liegt vor, wenn die zulässige Rechtsausübung der tragende Beweggrund, dh. das wesentliche Motiv für die benachteiligende Maßnahme ist. Es reicht nicht aus, dass die Rechtsausübung nur den äußeren Anlass für die Maßnahme bietet. Handelt der Arbeitgeber aufgrund eines Motivbündels, so ist auf das wesentliche Motiv abzustellen.  4. Eine Kündigung aus Anlass einer Krankmeldung ist demnach nur dann eine unzulässige Maßregelung, wenn gerade das zulässige Fernbleiben von der Arbeit sanktioniert werden soll. Will der Arbeitgeber dagegen für die Zukunft erwarteten Folgen weiterer Arbeitsunfähigkeit, insbesondere (neuerlichen) Betriebsablaufstörungen, vorbeugen, fehlt es an einem unlauteren Motiv für die Kündigung.;"Ich habe das passende Urteil gefunden und kann nun eine fundierte Antwort zusammenstellen.
+
+## Antwort
+
+Der geschilderte Sachverhalt entspricht exakt dem Fall, den das **Bundesarbeitsgericht mit Urteil vom 20. Mai 2021 – 2 AZR 560/20** (Vorinstanz: LAG Baden-Württemberg – Mannheim, 30.10.2020 – 12 Sa 33/20) entschieden hat. Das BAG hat die Revision des Klägers in vollem Umfang zurückgewiesen.
+
+### 1. Kündigungsschutzklage – Kein gemeinsamer Betrieb
+
+Das BAG hat bestätigt, dass die Kündigung vom 5. Februar 2019 **nicht am Maßstab des § 1 KSchG** zu überprüfen ist, weil die Beklagte im Zeitpunkt des Kündigungszugangs **nicht mehr als zehn Arbeitnehmer** i.S.v. § 23 Abs. 1 Satz 3 KSchG beschäftigte (Kleinbetriebsklausel). Die Beklagte und die AS GmbH führten **keinen gemeinsamen Betrieb**.
+
+**Voraussetzungen eines Gemeinschaftsbetriebs** (Rn. 13):
+> „Ein gemeinsamer Betrieb mehrerer Unternehmen liegt vor, wenn die in einer Betriebsstätte vorhandenen materiellen und immateriellen Betriebsmittel mehrerer Unternehmen zu arbeitstechnischen Zwecken zusammengefasst, geordnet und gezielt eingesetzt werden und der Einsatz der menschlichen Arbeitskraft von einem einheitlichen Leitungsapparat betriebsbezogen gesteuert wird. Die beteiligten Unternehmen müssen sich zumindest stillschweigend zu einer gemeinsamen Führung rechtlich verbunden haben … Eine lediglich unternehmerische Zusammenarbeit genügt nicht.""
+
+**Tragende Argumente gegen einen Gemeinschaftsbetrieb** (Rn. 19–22):
+- **Personenidentität des Geschäftsführers** ist allein nicht ausreichend; sie „lässt nicht notwendig auf eine einheitliche Leitung in den wesentlichen personellen und sozialen Angelegenheiten schließen"" (Rn. 19).
+- **Kein übergreifender Personaleinsatz**: Die Diensteinteilung erfolgte getrennt – bei der Beklagten durch eine kaufmännische Angestellte, bei der AS durch deren Serviceleiter. Der Serviceleiter der AS war gegenüber dem Kläger nicht weisungsbefugt (Rn. 21).
+- **Kein gemeinsamer Einsatz wesentlicher Betriebsmittel**: Der Austausch von Kalibriergewichten genügt nicht, da diese keine „wesentlichen Betriebsmittel"" darstellen und ihr Austausch nicht zentral gesteuert wurde (Rn. 22).
+- Die **Vermutungsregel des § 1 Abs. 2 Nr. 1 BetrVG** greift nicht ein, weil die Betriebsmittel und Arbeitnehmer nicht gemeinsam eingesetzt wurden (Rn. 23).
+
+**Darlegungs- und Beweislast**: Sie trägt der Arbeitnehmer, mit gewissen Erleichterungen bei äußeren Umständen (Rn. 14).
+
+### 2. Kein Verstoß gegen das Maßregelungsverbot (§ 612a BGB)
+
+Das BAG hat offen gelassen, ob die Vorlage einer Arbeitsunfähigkeitsbescheinigung überhaupt eine „Rechtsausübung"" i.S.v. § 612a BGB darstellt (Rn. 25). Jedenfalls war die Krankmeldung **nicht der tragende Beweggrund** der Kündigung (Rn. 26–30):
+
+> „Eine Kündigung aus Anlass einer Krankmeldung ist … nur dann eine unzulässige Maßregelung, wenn gerade das zulässige Fernbleiben von der Arbeit sanktioniert werden soll. Will der Arbeitgeber dagegen für die Zukunft erwarteten Folgen weiterer Arbeitsunfähigkeit … vorbeugen, fehlt es an einem unlauteren Motiv"" (Rn. 27).
+
+Nach der Würdigung des LAG war das wesentliche Motiv, **zukünftige Störungen der Einsatzplanung und Unannehmlichkeiten für die Kunden zu vermeiden**. Die Krankmeldung war nur der **äußere Anlass**, nicht der tragende Beweggrund (Rn. 29).
+
+### 3. Entfernung der Abmahnungen
+
+Der Anspruch auf Entfernung der Abmahnungen vom 17. und 18. Januar 2019 wurde ebenfalls abgewiesen (Rn. 31–33). Nach ständiger Rechtsprechung besteht der Anspruch aus §§ 242, 1004 Abs. 1 Satz 1 BGB analog. Jedoch: **Nach Beendigung des Arbeitsverhältnisses** sind Abmahnungen nur dann aus der Personalakte zu entfernen, wenn Anhaltspunkte dafür bestehen, dass sie dem Arbeitnehmer noch schaden können. Solche Anhaltspunkte hat das LAG nicht festgestellt (Rn. 33).
+
+### Ergebnis
+
+Die Klage des Servicetechnikers war in allen Punkten erfolglos:
+- Kleinbetrieb → kein Kündigungsschutz nach KSchG,
+- kein gemeinsamer Betrieb mit der AS GmbH trotz personenidentischem Geschäftsführer, teilweise gemeinsamer Kundeneinsätze und gemeinsamem Steuerberater,
+- kein Verstoß gegen § 612a BGB,
+- kein Anspruch auf Entfernung der Abmahnungen nach Beendigung des Arbeitsverhältnisses.
+
+**Zitation:** BAG, Urteil vom 20.05.2021 – 2 AZR 560/20 (ECLI:DE:BAG:2021:200521.U.2AZR560.20.0), insb. Rn. 12–33, Datei: `/home/sten/legalgenius/data/urteile_markdown_by_year/2021/2021-05-20_BAG_2 AZR 560_20.md`.";9;"Die Antwort ist materiell-rechtlich weitgehend zutreffend und deckt sich in den Kernaussagen mit der Gold-Antwort: (1) Sie stellt den von der Rechtsprechung entwickelten Begriff des gemeinsamen Betriebs mehrerer Unternehmen korrekt dar und betont – im Einklang mit der Gold-Antwort –, dass eine bloße Zusammenarbeit oder Personenidentität in der Geschäftsführung nicht genügt und es auf eine einheitliche Leitung in den wesentlichen personellen/sozialen Angelegenheiten ankommt. (2) Sie ordnet § 1 Abs. 2 Nr. 1 BetrVG richtig als Vermutungsregel ein und begründet nachvollziehbar, warum diese hier nicht greift bzw. jedenfalls nicht trägt. (3) Zum Maßregelungsverbot (§ 612a BGB) trifft sie den richtigen Prüfungsmaßstab: Nur wenn das zulässige Fernbleiben selbst sanktioniert werden soll, ist die Kündigung unzulässig; präventive Motive bzgl. erwarteter weiterer Fehlzeiten sind grundsätzlich zulässig. Das entspricht exakt der Gold-Antwort. (4) Die Ausführungen zur fehlenden Anwendbarkeit des KSchG aufgrund Kleinbetriebs sind rechtlich korrekt und passen zum Sachverhalt. (5) Auch die Grundsätze zur Entfernung von Abmahnungen nach Beendigung des Arbeitsverhältnisses (Anspruch nur bei fortbestehendem schutzwürdigem Interesse/Schadensgefahr) sind zutreffend wiedergegeben. Geringe Unsicherheit besteht bei der Charakterisierung der Kalibriergewichte als nicht „wesentliche Betriebsmittel“, da diese im Kontext von Kalibrierdienstleistungen durchaus zentral sein können; entscheidend ist jedoch – und das arbeitet die Antwort richtig heraus –, dass ein bloß gelegentlicher Austausch von Betriebsmitteln und fehlende einheitliche Leitungsstrukturen keinen gemeinsamen Betrieb begründen. Insgesamt ist die rechtliche Bewertung schlüssig und konsistent mit der Gold-Antwort.";;89.7s;"Ich habe das passende Urteil gefunden und kann nun eine fundierte Antwort zusammenstellen.
+
+## Antwort
+
+Der geschilderte Sachverhalt entspricht exakt dem Fall, den das **Bundesarbeitsgericht mit Urteil vom 20. Mai 2021 – 2 AZR 560/20** (Vorinstanz: LAG Baden-Württemberg – Mannheim, 30.10.2020 – 12 Sa 33/20) entschieden hat. Das BAG hat die Revision des Klägers in vollem Umfang zurückgewiesen.
+
+### 1. Kündigungsschutzklage – Kein gemeinsamer Betrieb
+
+Das BAG hat bestätigt, dass die Kündigung vom 5. Februar 2019 **nicht am Maßstab des § 1 KSchG** zu überprüfen ist, weil die Beklagte im Zeitpunkt des Kündigungszugangs **nicht mehr als zehn Arbeitnehmer** i.S.v. § 23 Abs. 1 Satz 3 KSchG beschäftigte (Kleinbetriebsklausel). Die Beklagte und die AS GmbH führten **keinen gemeinsamen Betrieb**.
+
+**Voraussetzungen eines Gemeinschaftsbetriebs** (Rn. 13):
+> „Ein gemeinsamer Betrieb mehrerer Unternehmen liegt vor, wenn die in einer Betriebsstätte vorhandenen materiellen und immateriellen Betriebsmittel mehrerer Unternehmen zu arbeitstechnischen Zwecken zusammengefasst, geordnet und gezielt eingesetzt werden und der Einsatz der menschlichen Arbeitskraft von einem einheitlichen Leitungsapparat betriebsbezogen gesteuert wird. Die beteiligten Unternehmen müssen sich zumindest stillschweigend zu einer gemeinsamen Führung rechtlich verbunden haben … Eine lediglich unternehmerische Zusammenarbeit genügt nicht.""
+
+**Tragende Argumente gegen einen Gemeinschaftsbetrieb** (Rn. 19–22):
+- **Personenidentität des Geschäftsführers** ist allein nicht ausreichend; sie „lässt nicht notwendig auf eine einheitliche Leitung in den wesentlichen personellen und sozialen Angelegenheiten schließen"" (Rn. 19).
+- **Kein übergreifender Personaleinsatz**: Die Diensteinteilung erfolgte getrennt – bei der Beklagten durch eine kaufmännische Angestellte, bei der AS durch deren Serviceleiter. Der Serviceleiter der AS war gegenüber dem Kläger nicht weisungsbefugt (Rn. 21).
+- **Kein gemeinsamer Einsatz wesentlicher Betriebsmittel**: Der Austausch von Kalibriergewichten genügt nicht, da diese keine „wesentlichen Betriebsmittel"" darstellen und ihr Austausch nicht zentral gesteuert wurde (Rn. 22).
+- Die **Vermutungsregel des § 1 Abs. 2 Nr. 1 BetrVG** greift nicht ein, weil die Betriebsmittel und Arbeitnehmer nicht gemeinsam eingesetzt wurden (Rn. 23).
+
+**Darlegungs- und Beweislast**: Sie trägt der Arbeitnehmer, mit gewissen Erleichterungen bei äußeren Umständen (Rn. 14).
+
+### 2. Kein Verstoß gegen das Maßregelungsverbot (§ 612a BGB)
+
+Das BAG hat offen gelassen, ob die Vorlage einer Arbeitsunfähigkeitsbescheinigung überhaupt eine „Rechtsausübung"" i.S.v. § 612a BGB darstellt (Rn. 25). Jedenfalls war die Krankmeldung **nicht der tragende Beweggrund** der Kündigung (Rn. 26–30):
+
+> „Eine Kündigung aus Anlass einer Krankmeldung ist … nur dann eine unzulässige Maßregelung, wenn gerade das zulässige Fernbleiben von der Arbeit sanktioniert werden soll. Will der Arbeitgeber dagegen für die Zukunft erwarteten Folgen weiterer Arbeitsunfähigkeit … vorbeugen, fehlt es an einem unlauteren Motiv"" (Rn. 27).
+
+Nach der Würdigung des LAG war das wesentliche Motiv, **zukünftige Störungen der Einsatzplanung und Unannehmlichkeiten für die Kunden zu vermeiden**. Die Krankmeldung war nur der **äußere Anlass**, nicht der tragende Beweggrund (Rn. 29).
+
+### 3. Entfernung der Abmahnungen
+
+Der Anspruch auf Entfernung der Abmahnungen vom 17. und 18. Januar 2019 wurde ebenfalls abgewiesen (Rn. 31–33). Nach ständiger Rechtsprechung besteht der Anspruch aus §§ 242, 1004 Abs. 1 Satz 1 BGB analog. Jedoch: **Nach Beendigung des Arbeitsverhältnisses** sind Abmahnungen nur dann aus der Personalakte zu entfernen, wenn Anhaltspunkte dafür bestehen, dass sie dem Arbeitnehmer noch schaden können. Solche Anhaltspunkte hat das LAG nicht festgestellt (Rn. 33).
+
+### Ergebnis
+
+Die Klage des Servicetechnikers war in allen Punkten erfolglos:
+- Kleinbetrieb → kein Kündigungsschutz nach KSchG,
+- kein gemeinsamer Betrieb mit der AS GmbH trotz personenidentischem Geschäftsführer, teilweise gemeinsamer Kundeneinsätze und gemeinsamem Steuerberater,
+- kein Verstoß gegen § 612a BGB,
+- kein Anspruch auf Entfernung der Abmahnungen nach Beendigung des Arbeitsverhältnisses.
+
+**Zitation:** BAG, Urteil vom 20.05.2021 – 2 AZR 560/20 (ECLI:DE:BAG:2021:200521.U.2AZR560.20.0), insb. Rn. 12–33, Datei: `/home/sten/legalgenius/data/urteile_markdown_by_year/2021/2021-05-20_BAG_2 AZR 560_20.md`.";9;"Die Antwort ist materiell-rechtlich weitgehend zutreffend und deckt sich in den Kernaussagen mit der Gold-Antwort: (1) Sie stellt den von der Rechtsprechung entwickelten Begriff des gemeinsamen Betriebs mehrerer Unternehmen korrekt dar und betont – im Einklang mit der Gold-Antwort –, dass eine bloße Zusammenarbeit oder Personenidentität in der Geschäftsführung nicht genügt und es auf eine einheitliche Leitung in den wesentlichen personellen/sozialen Angelegenheiten ankommt. (2) Sie ordnet § 1 Abs. 2 Nr. 1 BetrVG richtig als Vermutungsregel ein und begründet nachvollziehbar, warum diese hier nicht greift bzw. jedenfalls nicht trägt. (3) Zum Maßregelungsverbot (§ 612a BGB) trifft sie den richtigen Prüfungsmaßstab: Nur wenn das zulässige Fernbleiben selbst sanktioniert werden soll, ist die Kündigung unzulässig; präventive Motive bzgl. erwarteter weiterer Fehlzeiten sind grundsätzlich zulässig. Das entspricht exakt der Gold-Antwort. (4) Die Ausführungen zur fehlenden Anwendbarkeit des KSchG aufgrund Kleinbetriebs sind rechtlich korrekt und passen zum Sachverhalt. (5) Auch die Grundsätze zur Entfernung von Abmahnungen nach Beendigung des Arbeitsverhältnisses (Anspruch nur bei fortbestehendem schutzwürdigem Interesse/Schadensgefahr) sind zutreffend wiedergegeben. Geringe Unsicherheit besteht bei der Charakterisierung der Kalibriergewichte als nicht „wesentliche Betriebsmittel“, da diese im Kontext von Kalibrierdienstleistungen durchaus zentral sein können; entscheidend ist jedoch – und das arbeitet die Antwort richtig heraus –, dass ein bloß gelegentlicher Austausch von Betriebsmitteln und fehlende einheitliche Leitungsstrukturen keinen gemeinsamen Betrieb begründen. Insgesamt ist die rechtliche Bewertung schlüssig und konsistent mit der Gold-Antwort.";;89.7s;;-1;;;0.0s;agent
+BAG, 28.04.2021, 10 AZR 404/18;Der Kläger verlangt von der Beklagten für drei gewerbliche Arbeitnehmer Beiträge für den Zeitraum von April bis November 2010. Er zieht die vom Statistischen Bundesamt ermittelten Durchschnittslöhne heran, um die Beitragsansprüche zu berechnen. Der Kläger stützt seine Forderungen auf den Tarifvertrag über das Sozialkassenverfahren im Baugewerbe vom 18. Dezember 2009 (VTV 2009). Der Senat hat die Allgemeinverbindlicherklärung des VTV 2009 für unwirksam befunden (BAG 21. September 2016 - 10 ABR 33/15 - BAGE 156, 213). Die Beklagte besteht seit 2005. Sie unterhält in Z eine Werkstatt. Die Zusatzversorgungskasse des Baugewerbes VVaG (ZVK) bescheinigte der Beklagten in ihrer Funktion als frühere Einzugsstelle der Sozialkassen der Bauwirtschaft unter dem 22. November 2006, anhand der vorgelegten Geschäftsunterlagen sei nicht davon auszugehen, dass sie an den Sozialkassenverfahren der Bauwirtschaft teilnehme. Das Sozialgericht Chemnitz hob zwei Bescheide der Bundesagentur für Arbeit auf, mit denen die Beklagte zu der Winterbeschäftigungs-Umlage für den streitgegenständlichen Zeitraum herangezogen worden war.  Die Beklagte trat im Klagezeitraum zusammen mit der R GmbH, der K GmbH und der B GmbH (B GmbH) als Unternehmensgruppe E auf. Die Unternehmensgruppe E warb für sich im Internet als „ein international tätiges, mittelständisches Unternehmen“ ua. in den Bereichen Leitungsbau, Fernmeldebau und Horizontalbohrungen. Herr P war Geschäftsführer der B GmbH und zugleich Alleingesellschafter der drei anderen Unternehmen der Unternehmensgruppe E. Die am 25. Februar 2010 von der K GmbH gegründete B GmbH führt horizontale und vertikale Bohrleistungen aus. Sie war im streitigen Zeitraum bei dem Kläger als Betrieb des Baugewerbes erfasst und entrichtete Beiträge zu den Sozialkassenverfahren. Die Beklagte leistete im Kalenderjahr 2010 in ihrer Werkstatt insgesamt 8.001 Arbeitsstunden. Davon entfielen 2006,5 Stunden auf Reparaturen und Servicearbeiten an Geräten der B GmbH. Am 25. November 2014 besuchte ein Arbeitnehmer des Klägers den Betrieb der Beklagten. Der Kläger hat die Beitragsansprüche mit einem Mahnbescheid geltend gemacht, der der Beklagten am 24. März 2015 zugestellt worden ist. Der Kläger hat angenommen, zwischen dem Werkstattbetrieb der Beklagten und dem Betrieb der B GmbH habe angesichts ihrer engen wirtschaftlichen und gesellschaftsrechtlichen Verbindung und ihrer Zugehörigkeit zu der E-Unternehmensgruppe im Klagezeitraum ein Zusammenschluss iSv. § 1 Abs. 2 Abschn. IV Nr. 4 VTV 2009 bestanden. In der Werkstatt sei im maßgeblichen Kalenderjahr 2010 mehr als ein Viertel der Arbeitsstunden auf Reparaturen und Serviceleistungen für die B GmbH entfallen. Der Betrieb der Beklagten falle deshalb in den Geltungsbereich des VTV 2009. Der Kläger habe von diesem Umstand erst anlässlich des Betriebsbesuchs vom 25. November 2014 Kenntnis erlangt.;1. Eine Werkstatt unterfällt dem Geltungsbereich der Verfahrenstarifverträge des Baugewerbes nach § 1 Abs 2 Abschn IV Nr 4 (juris: VTV-Bau), wenn sie zumindest zu einem Viertel der betrieblichen Arbeitszeit für einen mit ihr zusammengeschlossenen Betrieb des Baugewerbes betrieben und nicht von einem spezielleren Tarifvertrag erfasst wird. 2. Die Tarifvertragsparteien wollen mit dem untechnischen Begriff 'Zusammenschluss' in § 1 Abs 2 Abschn IV Nr 4 VTV-Bau möglichst alle denkbaren Kooperationsformen erfassen. Ein Zusammenschluss von Betrieben setzt daher weder eine bestimmte vertragliche Form noch eine personen- oder gesellschaftsrechtliche Verbindung voraus. 3. Durch § 1 Abs 2 Abschn IV Nr 4 VTV-Bau sollen Arbeitnehmer eines nicht originär baugewerblichen Betriebs in den Schutz der Verfahrenstarifverträge einbezogen werden, weil sie ihre Arbeitskraft mittelbar für einen ihrem Betrieb angeschlossenen Baubetrieb aufwenden, der diese Tätigkeiten sonst mit eigenen Arbeitskräften erledigen müsste.  4. Es bestehen keine Bedenken daran, dass das SokaSiG als Geltungsgrund für den VTV-Bau verfassungsgemäß ist.;"Ich habe nun die vollständige Entscheidung analysiert. Hier die Antwort:
+
+## Antwort: Einordnung und Ergebnis des Falls
+
+Der geschilderte Sachverhalt entspricht wortwörtlich dem vom BAG entschiedenen Fall **BAG, Urteil vom 28. April 2021 – 10 AZR 404/18** (Vorinstanz: LAG Berlin-Brandenburg, Urteil vom 10. Juli 2018 – 11 Sa 197/16). Das BAG hat die Revision der Beklagten zurückgewiesen und die Klage der Sozialkasse (ULAK) in voller Höhe (8.976,00 Euro) für begründet erklärt.
+
+### Die zentralen Erwägungen des BAG
+
+**1. Anspruchsgrundlage nach Wegfall der AVE: SokaSiG**
+Da die Allgemeinverbindlicherklärung des VTV 2009 unwirksam ist (BAG 21. September 2016 – 10 ABR 33/15), stützt sich der Anspruch jetzt auf § 7 Abs. 7 iVm. Anlage 32 SokaSiG (die den vollständigen Text des VTV 2009 enthält). Das ist kein neuer Streitgegenstand (Rn. 11, 13).
+
+**2. Betrieblicher Geltungsbereich – Werkstatt für angeschlossenen Baubetrieb (§ 1 Abs. 2 Abschn. IV Nr. 4 VTV 2009)**
+
+Alle Tatbestandsmerkmale sind erfüllt:
+- **Angeschlossener Baubetrieb**: Die B GmbH ist unstreitig ein Betrieb des Baugewerbes (Horizontalbohrungen; war selbst bei der ULAK erfasst) – Rn. 16.
+- **Werkstattbetrieb für diesen Baubetrieb**: Reparaturen/Servicearbeiten an den Bohrgeräten der B GmbH – Rn. 16.
+- **In nicht unerheblichem Umfang (≥ ¼)**: 2.006,5 von 8.001 Jahresstunden = mehr als 25 % – Rn. 17.
+- **Zusammenschluss**: Das entscheidende Merkmal. Das BAG legt den Begriff „Zusammenschluss"" weit und untechnisch aus (Zusatz „unbeschadet der gewählten Rechtsform""). Erforderlich ist weder Gesellschafteridentität noch eine unmittelbare gesellschaftsrechtliche Verflechtung noch eine Abspaltung (Rn. 19–27).
+
+> „Der Zusatz 'unbeschadet der gewählten Rechtsform' in § 1 Abs. 2 Abschn. IV Nr. 4 VTV 2009 verdeutlicht, dass die Tarifvertragsparteien den Begriff 'Zusammenschluss' bewusst sehr weit und untechnisch gewählt haben, um möglichst alle denkbaren Formen einer Kooperation zu erfassen."" (Rn. 21)
+
+Ein Zusammenschluss bestand hier konkret wegen der Zugehörigkeit zur Unternehmensgruppe E, des gemeinsamen Marktauftritts im Internet („ein Unternehmen"") und der Personalunion bei Herrn P (Geschäftsführer der Beklagten und Alleingesellschafter der B GmbH, §§ 45 ff. GmbHG) – Rn. 25.
+
+**3. Keine entgegenstehenden Einwände**
+- Die **Bescheinigung der ZVK vom 22. November 2006** entlastet die Beklagte nicht, weil sie sich nicht auf den Klagezeitraum 2010 bezog (Rn. 30).
+- Die **Aufhebung der Winterbeschäftigungs-Umlage-Bescheide** durch das SG Chemnitz ist für den VTV ohne Bedeutung (Rn. 30; vgl. ständige Rspr., z. B. BAG 8. Dezember 2010 – 10 AZR 710/09, Rn. 13).
+- Die **Durchschnittsbeitragsklage** auf Grundlage der Löhne des Statistischen Bundesamtes ist zulässig (Rn. 31; BAG 16. September 2020 – 10 AZR 9/19).
+
+**4. Keine Verjährung / kein Verfall**
+- Verfalls-/Verjährungsfrist: 4 Jahre nach § 24 Abs. 1 VTV 2009 iVm. § 199 BGB (Rn. 33).
+- Kenntnis des Klägers erst durch Betriebsbesuch am 25. November 2014 → Fristbeginn mit Ablauf 2014, Fristende 31. Dezember 2018 (Rn. 34).
+- Mahnbescheid zugestellt am 24. März 2015 → Hemmung gemäß § 204 Abs. 1 Nr. 3 BGB (Rn. 35).
+- Der Wechsel der rechtlichen Begründung (AVE → SokaSiG) ändert den Streitgegenstand nicht (Rn. 35).
+
+### Ergebnis
+Die Beklagte schuldet der Klägerin Sozialkassenbeiträge in Höhe von **8.976,00 Euro** für April bis November 2010. Auch ein reiner Werkstattbetrieb wird vom VTV erfasst, wenn er zu mindestens einem Viertel der Arbeitszeit für einen angeschlossenen Baubetrieb arbeitet und mit diesem in irgendeiner Form einer gelebten unternehmerischen Kooperation (hier: gemeinsame Unternehmensgruppe mit Personalunion in der Leitung) verbunden ist.
+
+### Zitation
+- BAG, Urteil vom 28. April 2021 – 10 AZR 404/18, insbesondere Rn. 13, 16–28, 30, 31, 33–35
+- Quelle: `/home/sten/legalgenius/data/urteile_markdown_by_year/2021/2021-04-28_BAG_10 AZR 404_18.md`
+- Tarifliche Grundlagen: § 1 Abs. 2 Abschn. IV Nr. 4 VTV 2009; § 7 Abs. 7 iVm. Anlage 32 SokaSiG; § 24 Abs. 1 VTV 2009; §§ 195, 199, 202, 204 Abs. 1 Nr. 3 BGB";8;"Die Antwort trifft die zentralen rechtlichen Punkte der Goldantwort weitgehend korrekt: Sie benennt zutreffend das BAG‑Urteil (10 AZR 404/18), stützt die Anspruchsgrundlage nach Unwirksamkeit der AVE auf das SokaSiG, legt den Begriff des ‚Zusammenschlusses‘ in § 1 Abs. 2 Abschn. IV Nr. 4 VTV weit und untechnisch aus, bejaht den Werkstatt‑Anwendungsfall bei mindestens 25 % Arbeitszeit für den angeschlossenen Baubetrieb und verweist zutreffend auf die Zulässigkeit der Beitragsberechnung anhand statistischer Durchschnittslöhne. Auch die Irrelevanz der ZVK‑Bescheinigung aus 2006 sowie der sozialgerichtlichen Entscheidungen zur Winterbeschäftigungs‑Umlage ist richtig. Leichte Schwächen: (1) Eine faktische Vertauschung der Organstellung/Anteilsverhältnisse des Herrn P (Geschäftsführer vs. Alleingesellschafter) – rechtlich nicht tragend, aber ungenau. (2) Die Ausführungen zur zeitlichen Begrenzung sind potentiell fehleranfällig: Die Vermengung von tariflicher 4‑jähriger Ausschlussfrist (§ 24 VTV 2009) mit dem kenntnisabhängigen Beginn nach § 199 BGB und Hemmung nach § 204 BGB ist so nicht unproblematisch; bei tariflichen Ausschlussfristen gilt regelmäßig kein kenntnisabhängiger Fristbeginn und die Hemmungstatbestände der Verjährung sind nicht ohne Weiteres anwendbar. Diese Punkte mindern die juristische Präzision etwas. Insgesamt ist die rechtliche Bewertung des Geltungsbereichs und des Zusammenschlusses sowie der Heranziehung des SokaSiG aber überzeugend und mit der Goldantwort konsistent.";;92.3s;"Ich habe nun die vollständige Entscheidung analysiert. Hier die Antwort:
+
+## Antwort: Einordnung und Ergebnis des Falls
+
+Der geschilderte Sachverhalt entspricht wortwörtlich dem vom BAG entschiedenen Fall **BAG, Urteil vom 28. April 2021 – 10 AZR 404/18** (Vorinstanz: LAG Berlin-Brandenburg, Urteil vom 10. Juli 2018 – 11 Sa 197/16). Das BAG hat die Revision der Beklagten zurückgewiesen und die Klage der Sozialkasse (ULAK) in voller Höhe (8.976,00 Euro) für begründet erklärt.
+
+### Die zentralen Erwägungen des BAG
+
+**1. Anspruchsgrundlage nach Wegfall der AVE: SokaSiG**
+Da die Allgemeinverbindlicherklärung des VTV 2009 unwirksam ist (BAG 21. September 2016 – 10 ABR 33/15), stützt sich der Anspruch jetzt auf § 7 Abs. 7 iVm. Anlage 32 SokaSiG (die den vollständigen Text des VTV 2009 enthält). Das ist kein neuer Streitgegenstand (Rn. 11, 13).
+
+**2. Betrieblicher Geltungsbereich – Werkstatt für angeschlossenen Baubetrieb (§ 1 Abs. 2 Abschn. IV Nr. 4 VTV 2009)**
+
+Alle Tatbestandsmerkmale sind erfüllt:
+- **Angeschlossener Baubetrieb**: Die B GmbH ist unstreitig ein Betrieb des Baugewerbes (Horizontalbohrungen; war selbst bei der ULAK erfasst) – Rn. 16.
+- **Werkstattbetrieb für diesen Baubetrieb**: Reparaturen/Servicearbeiten an den Bohrgeräten der B GmbH – Rn. 16.
+- **In nicht unerheblichem Umfang (≥ ¼)**: 2.006,5 von 8.001 Jahresstunden = mehr als 25 % – Rn. 17.
+- **Zusammenschluss**: Das entscheidende Merkmal. Das BAG legt den Begriff „Zusammenschluss"" weit und untechnisch aus (Zusatz „unbeschadet der gewählten Rechtsform""). Erforderlich ist weder Gesellschafteridentität noch eine unmittelbare gesellschaftsrechtliche Verflechtung noch eine Abspaltung (Rn. 19–27).
+
+> „Der Zusatz 'unbeschadet der gewählten Rechtsform' in § 1 Abs. 2 Abschn. IV Nr. 4 VTV 2009 verdeutlicht, dass die Tarifvertragsparteien den Begriff 'Zusammenschluss' bewusst sehr weit und untechnisch gewählt haben, um möglichst alle denkbaren Formen einer Kooperation zu erfassen."" (Rn. 21)
+
+Ein Zusammenschluss bestand hier konkret wegen der Zugehörigkeit zur Unternehmensgruppe E, des gemeinsamen Marktauftritts im Internet („ein Unternehmen"") und der Personalunion bei Herrn P (Geschäftsführer der Beklagten und Alleingesellschafter der B GmbH, §§ 45 ff. GmbHG) – Rn. 25.
+
+**3. Keine entgegenstehenden Einwände**
+- Die **Bescheinigung der ZVK vom 22. November 2006** entlastet die Beklagte nicht, weil sie sich nicht auf den Klagezeitraum 2010 bezog (Rn. 30).
+- Die **Aufhebung der Winterbeschäftigungs-Umlage-Bescheide** durch das SG Chemnitz ist für den VTV ohne Bedeutung (Rn. 30; vgl. ständige Rspr., z. B. BAG 8. Dezember 2010 – 10 AZR 710/09, Rn. 13).
+- Die **Durchschnittsbeitragsklage** auf Grundlage der Löhne des Statistischen Bundesamtes ist zulässig (Rn. 31; BAG 16. September 2020 – 10 AZR 9/19).
+
+**4. Keine Verjährung / kein Verfall**
+- Verfalls-/Verjährungsfrist: 4 Jahre nach § 24 Abs. 1 VTV 2009 iVm. § 199 BGB (Rn. 33).
+- Kenntnis des Klägers erst durch Betriebsbesuch am 25. November 2014 → Fristbeginn mit Ablauf 2014, Fristende 31. Dezember 2018 (Rn. 34).
+- Mahnbescheid zugestellt am 24. März 2015 → Hemmung gemäß § 204 Abs. 1 Nr. 3 BGB (Rn. 35).
+- Der Wechsel der rechtlichen Begründung (AVE → SokaSiG) ändert den Streitgegenstand nicht (Rn. 35).
+
+### Ergebnis
+Die Beklagte schuldet der Klägerin Sozialkassenbeiträge in Höhe von **8.976,00 Euro** für April bis November 2010. Auch ein reiner Werkstattbetrieb wird vom VTV erfasst, wenn er zu mindestens einem Viertel der Arbeitszeit für einen angeschlossenen Baubetrieb arbeitet und mit diesem in irgendeiner Form einer gelebten unternehmerischen Kooperation (hier: gemeinsame Unternehmensgruppe mit Personalunion in der Leitung) verbunden ist.
+
+### Zitation
+- BAG, Urteil vom 28. April 2021 – 10 AZR 404/18, insbesondere Rn. 13, 16–28, 30, 31, 33–35
+- Quelle: `/home/sten/legalgenius/data/urteile_markdown_by_year/2021/2021-04-28_BAG_10 AZR 404_18.md`
+- Tarifliche Grundlagen: § 1 Abs. 2 Abschn. IV Nr. 4 VTV 2009; § 7 Abs. 7 iVm. Anlage 32 SokaSiG; § 24 Abs. 1 VTV 2009; §§ 195, 199, 202, 204 Abs. 1 Nr. 3 BGB";8;"Die Antwort trifft die zentralen rechtlichen Punkte der Goldantwort weitgehend korrekt: Sie benennt zutreffend das BAG‑Urteil (10 AZR 404/18), stützt die Anspruchsgrundlage nach Unwirksamkeit der AVE auf das SokaSiG, legt den Begriff des ‚Zusammenschlusses‘ in § 1 Abs. 2 Abschn. IV Nr. 4 VTV weit und untechnisch aus, bejaht den Werkstatt‑Anwendungsfall bei mindestens 25 % Arbeitszeit für den angeschlossenen Baubetrieb und verweist zutreffend auf die Zulässigkeit der Beitragsberechnung anhand statistischer Durchschnittslöhne. Auch die Irrelevanz der ZVK‑Bescheinigung aus 2006 sowie der sozialgerichtlichen Entscheidungen zur Winterbeschäftigungs‑Umlage ist richtig. Leichte Schwächen: (1) Eine faktische Vertauschung der Organstellung/Anteilsverhältnisse des Herrn P (Geschäftsführer vs. Alleingesellschafter) – rechtlich nicht tragend, aber ungenau. (2) Die Ausführungen zur zeitlichen Begrenzung sind potentiell fehleranfällig: Die Vermengung von tariflicher 4‑jähriger Ausschlussfrist (§ 24 VTV 2009) mit dem kenntnisabhängigen Beginn nach § 199 BGB und Hemmung nach § 204 BGB ist so nicht unproblematisch; bei tariflichen Ausschlussfristen gilt regelmäßig kein kenntnisabhängiger Fristbeginn und die Hemmungstatbestände der Verjährung sind nicht ohne Weiteres anwendbar. Diese Punkte mindern die juristische Präzision etwas. Insgesamt ist die rechtliche Bewertung des Geltungsbereichs und des Zusammenschlusses sowie der Heranziehung des SokaSiG aber überzeugend und mit der Goldantwort konsistent.";;92.3s;;-1;;;0.0s;agent
+BAG, 27.04.2021, 2 AZR 540/20;Der Kläger war seit Dezember 2016 bei der Beklagten beschäftigt. Diese kündigte das Arbeitsverhältnis ordentlich mit Schreiben vom 21. Juni 2019 zum 31. Juli 2019. Zum Kündigungszeitpunkt beschäftigte sie 8,5 Arbeitnehmer.  Mit seiner Klage hat sich der Kläger gegen die Kündigung gewandt. Diese sei sozial nicht gerechtfertigt. Auf das Arbeitsverhältnis der Parteien finde das Kündigungsschutzgesetz Anwendung. Die beiden Fremdgeschäftsführer der Beklagten seien als Arbeitnehmer zu berücksichtigen. Die Kündigung sei auch sitten- und treuwidrig. Im Unternehmen sind zwei Fremdgeschäftsführer beschäftigt.;§ 14 Abs. 1 Nr. 1 KSchG enthält eine (negative) Fiktion. Danach gelten die Vorschriften des Ersten Abschnitts des Kündigungsschutzgesetzes nicht in Betrieben einer juristischen Person für die Mitglieder des Organs, das zur gesetzlichen Vertretung der juristischen Person berufen ist. Dies gilt uneingeschränkt jedenfalls dann, wenn die organschaftliche Stellung als Geschäftsführer zum Zeitpunkt des Zugangs der Kündigung (noch) besteht. Kein Wertungswiderspruch zwischen §§ 14 und 23 KschG. Der Geschäftsführer einer GmbH wird für diese in aller Regel auf der Grundlage eines freien Dienstvertrags, nicht eines Arbeitsvertrags tätig. Auch gegenüber einem Geschäftsführer als freiem Dienstnehmer steht der Gesellschaft ein unternehmerisches Weisungsrecht zu. Eine Weisungsgebundenheit des GmbH-Geschäftsführers, die so stark ist, dass sie auf einen Status als Arbeitnehmer schließen lässt, kommt allenfalls in extremen Ausnahmefällen in Betracht (BAG 11. Juni 2020 - 2 AZR 374/19 - Rn. 25 mwN). Dies würde voraussetzen, dass die Gesellschaft eine - über ihr gesellschaftsrechtliches Weisungsrecht hinausgehende - Weisungsbefugnis auch bezüglich der Umstände hat, unter denen der Geschäftsführer seine Leistung zu erbringen hat, und die konkreten Modalitäten der Leistungserbringung durch arbeitsbegleitende und verfahrensorientierte Weisungen bestimmen kann.  Das allgemeine Kündigungsschutzrecht ist nicht unionsrechtlich determiniert. Damit verbleibt es beim nationalen Arbeitnehmerbegriff wie er sich aus § 611a Abs 1 BGB ergibt, denn dieser gilt einschränkungslos, sofern das Unionsrecht nicht betroffen ist. Eine generelle Ausdehnung des Arbeitnehmerbegriffs des § 23 Abs 1 S 3 KSchG auf Fremdgeschäftsführer einer GmbH - unabhängig davon, ob ihr Beschäftigungsverhältnis (ausnahmsweise) die Kriterien eines Arbeitsverhältnisses erfüllt - ist verfassungsrechtlich nicht geboten.;"Ich habe die zentrale Entscheidung gefunden - sie passt exakt zum Sachverhalt (identisch mit der Falldarstellung). Damit kann ich die Antwort formulieren.
+
+# Antwort
+
+Der geschilderte Sachverhalt entspricht wörtlich dem vom BAG mit Urteil vom 27. April 2021 – 2 AZR 540/20 entschiedenen Fall. Das BAG hat die Revision des Klägers zurückgewiesen; die Kündigung ist wirksam.
+
+## 1. Keine Anwendung des Kündigungsschutzgesetzes (§ 23 Abs. 1 Satz 3 KSchG)
+
+Der Erste Abschnitt des KSchG (insb. § 1 KSchG) gilt nach § 23 Abs. 1 Satz 3 KSchG nur in Betrieben mit in der Regel **mehr als zehn Arbeitnehmern**. Die Beklagte beschäftigte ausweislich der Feststellungen nur **8,5 Arbeitnehmer** – der Schwellenwert ist damit nicht überschritten:
+
+> „Die Kündigung … bedurfte nicht der sozialen Rechtfertigung gemäß § 1 Abs. 2 KSchG. Die Beklagte beschäftigt nicht mehr als 10 Arbeitnehmer iSd. § 23 Abs. 1 Satz 3 KSchG. Bei ihr sind … nur 8,5 Arbeitnehmer beschäftigt. Die beiden Fremdgeschäftsführer der Beklagten bleiben bei der Berechnung der Anzahl der beschäftigten Arbeitnehmer unberücksichtigt.""
+(BAG, Urt. v. 27.04.2021 – 2 AZR 540/20, Rn. 9; Datei: `urteile_markdown_by_year/2021/2021-04-27_BAG_2 AZR 540_20.md`, Zeile 31)
+
+## 2. Fremdgeschäftsführer sind keine Arbeitnehmer i.S.v. § 23 Abs. 1 Satz 3 KSchG
+
+- **§ 14 Abs. 1 Nr. 1 KSchG** enthält zwar eine negative Fiktion für Organmitglieder selbst; die Frage, ob sie bei der *Mitarbeiterzählung* mitzählen, richtet sich aber direkt nach § 23 Abs. 1 Satz 3 KSchG (Rn. 10 f.).
+- Ein Fremdgeschäftsführer ist nach ständiger Rechtsprechung **kein Arbeitnehmer** im Sinne der arbeitsrechtlichen Bestimmungen, weil er die juristische Person als Arbeitgeber unmittelbar repräsentiert:
+
+> „Die von (Fremd-)Geschäftsführern geleisteten Dienste sind nach ihrer sozialen Typik nicht mit denen eines Arbeitnehmers vergleichbar … (Fremd-)Geschäftsführer repräsentieren die juristische Person unmittelbar als Arbeitgeber.""
+(BAG, 2 AZR 540/20, Rn. 29)
+
+- Eine **verfassungsrechtlich gebotene Erweiterung** des Arbeitnehmerbegriffs des § 23 Abs. 1 Satz 3 KSchG auf Fremdgeschäftsführer lehnt das BAG ausdrücklich ab (Rn. 25 ff.). Die Kleinbetriebsklausel (typisierende Regelung) ist mit Art. 2 Abs. 1, Art. 3 Abs. 1 und Art. 12 Abs. 1 GG vereinbar.
+- Darlegungs- und beweisbelastet für das Überschreiten des Schwellenwerts ist der **Kläger**. Er hatte bereits zum Beschäftigungsumfang der Fremdgeschäftsführer nichts vorgetragen (Rn. 17 f.).
+- Die sozialversicherungsrechtliche Einordnung (§ 7 Abs. 1 SGB IV) und die unionsrechtliche Einordnung als Arbeitnehmer (z.B. i.S.d. AGG, vgl. BGH II ZR 244/17) ändern daran nichts, weil die Begriffe „Beschäftigungsverhältnis"" und „Arbeitsverhältnis"" nicht deckungsgleich sind (Rn. 16).
+
+**Ergebnis zu 1./2.:** Das KSchG findet keine Anwendung; die Kündigung bedurfte keiner sozialen Rechtfertigung i.S.d. § 1 KSchG.
+
+## 3. Keine Sitten- oder Treuwidrigkeit (§§ 138, 242 BGB)
+
+Auch im Kleinbetrieb besteht ein **Mindestkündigungsschutz** über die zivilrechtlichen Generalklauseln (BVerfG v. 27.01.1998 – 1 BvL 15/87):
+
+> „Arbeitgeber in Kleinbetrieben unterliegen bei der Ausübung ihres Kündigungsrechts den Schranken von Treu und Glauben (§ 242 BGB). … Sie [die Arbeitnehmer] sind durch die zivilrechtlichen Generalklauseln (§§ 138, 242 BGB) vor einer sitten- oder treuwidrigen Ausübung des Kündigungsrechts des Arbeitgebers bewahrt.""
+(BAG, Urt. v. 28.10.2010 – 2 AZR 392/08, Rn. 37; Datei: `urteile_markdown_by_year/2010/2010-10-28_BAG_2 AZR 392_08.md`, Zeile 93)
+
+Geschützt wird der Arbeitnehmer aber nur vor **willkürlichen oder auf sachfremden (z.B. diskriminierenden) Motiven** beruhenden Kündigungen; die Grundsätze der Sozialauswahl aus § 1 KSchG gelten nicht entsprechend. Im entschiedenen Fall waren keine Umstände vorgetragen, die eine willkürliche Ernennung der Fremdgeschäftsführer zur Umgehung des KSchG oder sonst eine Treuwidrigkeit begründen könnten (Rn. 30).
+
+## Zusammenfassung
+
+| Prüfungspunkt | Ergebnis |
+|---|---|
+| Anwendbarkeit KSchG (§ 23 Abs. 1 S. 3) | (–) nur 8,5 Arbeitnehmer, Schwelle „mehr als 10"" nicht überschritten |
+| Mitzählung der Fremdgeschäftsführer | (–) keine Arbeitnehmer i.S.v. § 23 Abs. 1 S. 3 KSchG |
+| Soziale Rechtfertigung nach § 1 KSchG | nicht erforderlich |
+| §§ 138, 242 BGB (Mindestschutz) | kein Verstoß mangels willkürlicher/sachfremder Gründe |
+| **Kündigung vom 21.06.2019 zum 31.07.2019** | **wirksam** |
+
+Die Kündigungsschutzklage ist daher unbegründet – so auch die rechtskräftige Entscheidung des BAG (2 AZR 540/20).";9;"Die Antwort ist inhaltlich mit der Gold-Antwort weitgehend deckungsgleich und juristisch korrekt: Sie stellt zutreffend heraus, dass das KSchG wegen Unterschreitens des Schwellenwerts des § 23 Abs. 1 S. 3 KSchG nicht anwendbar ist, weil Fremdgeschäftsführer bei der Mitarbeiterzählung grundsätzlich nicht mitzählen. Sie verweist inhaltlich richtig auf die Rechtsprechung des BAG (insb. 2 AZR 540/20) und die typisierende Einordnung von Fremdgeschäftsführern als nicht Arbeitnehmer sowie darauf, dass eine abweichende Bewertung nur in extremen Ausnahmefällen möglich ist. Auch die Ausführungen zur fehlenden unionsrechtlichen Determination des allgemeinen Kündigungsschutzrechts und zum Mindestkündigungsschutz über §§ 138, 242 BGB sind zutreffend. Geringfügige Abstriche ergeben sich allenfalls daraus, dass die negative Fiktion des § 14 Abs. 1 Nr. 1 KSchG und ihr Verhältnis zu § 23 KSchG nicht so deutlich wie in der Gold-Antwort herausgearbeitet werden; materiellrechtlich führt die Antwort jedoch zum richtigen Ergebnis.";;71.9s;"Ich habe die zentrale Entscheidung gefunden - sie passt exakt zum Sachverhalt (identisch mit der Falldarstellung). Damit kann ich die Antwort formulieren.
+
+# Antwort
+
+Der geschilderte Sachverhalt entspricht wörtlich dem vom BAG mit Urteil vom 27. April 2021 – 2 AZR 540/20 entschiedenen Fall. Das BAG hat die Revision des Klägers zurückgewiesen; die Kündigung ist wirksam.
+
+## 1. Keine Anwendung des Kündigungsschutzgesetzes (§ 23 Abs. 1 Satz 3 KSchG)
+
+Der Erste Abschnitt des KSchG (insb. § 1 KSchG) gilt nach § 23 Abs. 1 Satz 3 KSchG nur in Betrieben mit in der Regel **mehr als zehn Arbeitnehmern**. Die Beklagte beschäftigte ausweislich der Feststellungen nur **8,5 Arbeitnehmer** – der Schwellenwert ist damit nicht überschritten:
+
+> „Die Kündigung … bedurfte nicht der sozialen Rechtfertigung gemäß § 1 Abs. 2 KSchG. Die Beklagte beschäftigt nicht mehr als 10 Arbeitnehmer iSd. § 23 Abs. 1 Satz 3 KSchG. Bei ihr sind … nur 8,5 Arbeitnehmer beschäftigt. Die beiden Fremdgeschäftsführer der Beklagten bleiben bei der Berechnung der Anzahl der beschäftigten Arbeitnehmer unberücksichtigt.""
+(BAG, Urt. v. 27.04.2021 – 2 AZR 540/20, Rn. 9; Datei: `urteile_markdown_by_year/2021/2021-04-27_BAG_2 AZR 540_20.md`, Zeile 31)
+
+## 2. Fremdgeschäftsführer sind keine Arbeitnehmer i.S.v. § 23 Abs. 1 Satz 3 KSchG
+
+- **§ 14 Abs. 1 Nr. 1 KSchG** enthält zwar eine negative Fiktion für Organmitglieder selbst; die Frage, ob sie bei der *Mitarbeiterzählung* mitzählen, richtet sich aber direkt nach § 23 Abs. 1 Satz 3 KSchG (Rn. 10 f.).
+- Ein Fremdgeschäftsführer ist nach ständiger Rechtsprechung **kein Arbeitnehmer** im Sinne der arbeitsrechtlichen Bestimmungen, weil er die juristische Person als Arbeitgeber unmittelbar repräsentiert:
+
+> „Die von (Fremd-)Geschäftsführern geleisteten Dienste sind nach ihrer sozialen Typik nicht mit denen eines Arbeitnehmers vergleichbar … (Fremd-)Geschäftsführer repräsentieren die juristische Person unmittelbar als Arbeitgeber.""
+(BAG, 2 AZR 540/20, Rn. 29)
+
+- Eine **verfassungsrechtlich gebotene Erweiterung** des Arbeitnehmerbegriffs des § 23 Abs. 1 Satz 3 KSchG auf Fremdgeschäftsführer lehnt das BAG ausdrücklich ab (Rn. 25 ff.). Die Kleinbetriebsklausel (typisierende Regelung) ist mit Art. 2 Abs. 1, Art. 3 Abs. 1 und Art. 12 Abs. 1 GG vereinbar.
+- Darlegungs- und beweisbelastet für das Überschreiten des Schwellenwerts ist der **Kläger**. Er hatte bereits zum Beschäftigungsumfang der Fremdgeschäftsführer nichts vorgetragen (Rn. 17 f.).
+- Die sozialversicherungsrechtliche Einordnung (§ 7 Abs. 1 SGB IV) und die unionsrechtliche Einordnung als Arbeitnehmer (z.B. i.S.d. AGG, vgl. BGH II ZR 244/17) ändern daran nichts, weil die Begriffe „Beschäftigungsverhältnis"" und „Arbeitsverhältnis"" nicht deckungsgleich sind (Rn. 16).
+
+**Ergebnis zu 1./2.:** Das KSchG findet keine Anwendung; die Kündigung bedurfte keiner sozialen Rechtfertigung i.S.d. § 1 KSchG.
+
+## 3. Keine Sitten- oder Treuwidrigkeit (§§ 138, 242 BGB)
+
+Auch im Kleinbetrieb besteht ein **Mindestkündigungsschutz** über die zivilrechtlichen Generalklauseln (BVerfG v. 27.01.1998 – 1 BvL 15/87):
+
+> „Arbeitgeber in Kleinbetrieben unterliegen bei der Ausübung ihres Kündigungsrechts den Schranken von Treu und Glauben (§ 242 BGB). … Sie [die Arbeitnehmer] sind durch die zivilrechtlichen Generalklauseln (§§ 138, 242 BGB) vor einer sitten- oder treuwidrigen Ausübung des Kündigungsrechts des Arbeitgebers bewahrt.""
+(BAG, Urt. v. 28.10.2010 – 2 AZR 392/08, Rn. 37; Datei: `urteile_markdown_by_year/2010/2010-10-28_BAG_2 AZR 392_08.md`, Zeile 93)
+
+Geschützt wird der Arbeitnehmer aber nur vor **willkürlichen oder auf sachfremden (z.B. diskriminierenden) Motiven** beruhenden Kündigungen; die Grundsätze der Sozialauswahl aus § 1 KSchG gelten nicht entsprechend. Im entschiedenen Fall waren keine Umstände vorgetragen, die eine willkürliche Ernennung der Fremdgeschäftsführer zur Umgehung des KSchG oder sonst eine Treuwidrigkeit begründen könnten (Rn. 30).
+
+## Zusammenfassung
+
+| Prüfungspunkt | Ergebnis |
+|---|---|
+| Anwendbarkeit KSchG (§ 23 Abs. 1 S. 3) | (–) nur 8,5 Arbeitnehmer, Schwelle „mehr als 10"" nicht überschritten |
+| Mitzählung der Fremdgeschäftsführer | (–) keine Arbeitnehmer i.S.v. § 23 Abs. 1 S. 3 KSchG |
+| Soziale Rechtfertigung nach § 1 KSchG | nicht erforderlich |
+| §§ 138, 242 BGB (Mindestschutz) | kein Verstoß mangels willkürlicher/sachfremder Gründe |
+| **Kündigung vom 21.06.2019 zum 31.07.2019** | **wirksam** |
+
+Die Kündigungsschutzklage ist daher unbegründet – so auch die rechtskräftige Entscheidung des BAG (2 AZR 540/20).";9;"Die Antwort ist inhaltlich mit der Gold-Antwort weitgehend deckungsgleich und juristisch korrekt: Sie stellt zutreffend heraus, dass das KSchG wegen Unterschreitens des Schwellenwerts des § 23 Abs. 1 S. 3 KSchG nicht anwendbar ist, weil Fremdgeschäftsführer bei der Mitarbeiterzählung grundsätzlich nicht mitzählen. Sie verweist inhaltlich richtig auf die Rechtsprechung des BAG (insb. 2 AZR 540/20) und die typisierende Einordnung von Fremdgeschäftsführern als nicht Arbeitnehmer sowie darauf, dass eine abweichende Bewertung nur in extremen Ausnahmefällen möglich ist. Auch die Ausführungen zur fehlenden unionsrechtlichen Determination des allgemeinen Kündigungsschutzrechts und zum Mindestkündigungsschutz über §§ 138, 242 BGB sind zutreffend. Geringfügige Abstriche ergeben sich allenfalls daraus, dass die negative Fiktion des § 14 Abs. 1 Nr. 1 KSchG und ihr Verhältnis zu § 23 KSchG nicht so deutlich wie in der Gold-Antwort herausgearbeitet werden; materiellrechtlich führt die Antwort jedoch zum richtigen Ergebnis.";;71.9s;;-1;;;0.0s;agent
+BAG, 27.04.2021, 2 AZR 342/20;"Die Parteien streiten über die Erteilung einer Datenkopie.    Der Kläger war bei der Beklagten im Januar 2019 als Wirtschaftsjurist beschäftigt. Mit seiner Klage hat er ua. Auskunft über seine von der Beklagten verarbeiteten personenbezogenen Daten sowie die Überlassung einer Kopie dieser Daten gem. Art. 15 Abs. 3 der Verordnung (EU) 2016/679 (Datenschutz-Grundverordnung; im Folgenden DSGVO) verlangt. Nachdem die Beklagte ihm am 21. Mai 2019 Auskunft erteilte, haben die Parteien den Rechtsstreit insoweit für erledigt erklärt. Das Landesarbeitsgericht hat die Revision für den Kläger zugelassen, soweit er die Erteilung einer Kopie seines E-Mail-Verkehrs begehrt hat sowie der E-Mails, die ihn namentlich erwähnen.";1. Der Umfang, in dem das Berufungsurteil mit der Revision angefochten ist, bestimmt sich nach dem Begehren des Revisionsklägers, das entsprechend § 133 BGB unter Berücksichtigung seines Revisionsantrags und der innerhalb der Frist zur Begründung der Revision eingegangenen Revisionsbegründung auszulegen ist, wenn ein Revisionsantrag - wie hier - erstmals mit der Revisionsbegründung formuliert wird. 2. Ein Klageantrag ist hinreichend bestimmt, wenn er den erhobenen Anspruch durch Bezifferung oder gegenständliche Beschreibung so konkret bezeichnet, dass der Rahmen der gerichtlichen Entscheidungsbefugnis (§ 308 ZPO) klar abgegrenzt ist, Inhalt und Umfang der materiellen Rechtskraft der begehrten Entscheidung (§ 322 ZPO) erkennbar sind, das Risiko des eventuell teilweisen Unterliegens des Klägers nicht durch vermeidbare Ungenauigkeit auf den Beklagten abgewälzt und eine etwaige Zwangsvollstreckung nicht mit einer Fortsetzung des Streits im Vollstreckungsverfahren belastet wird. Es genügt nicht, sich auf gesetzliche Vorschriften zu berufen, die den erhobenen Anspruch vorsehen, vielmehr müssen die sich aus den Normen ergebenden Konsequenzen im Einzelfall von der klagenden Partei bei der Formulierung ihres Klageantrags berücksichtigt werden. 3. Die bloße Wiederholung des Wortlauts von Art 15 Abs 3 S 1 DSGVO lässt nicht erkennen, von welchen personenbezogenen Daten eine Kopie verlangt wird, zumal dann, wenn - wie hier - streitig ist, welches die von der Beklagten verarbeiteten personenbezogenen Daten des Klägers sind. Eine daraufhin ergehende Verurteilung wäre nicht vollstreckbar. 4. Nach ständiger Rechtsprechung des Gerichtshofs der Europäischen Union ist es mangels einschlägiger unionsrechtlicher Vorschriften nach dem Grundsatz der Verfahrensautonomie Sache der innerstaatlichen Rechtsordnung jedes Mitgliedstaats, die Verfahrensmodalitäten für Klagen, die den Schutz der dem Einzelnen aus dem Unionsrecht erwachsenden Rechte gewährleisten sollen, zu regeln, wobei die betreffenden Anforderungen jedoch nicht ungünstiger sein dürfen als diejenigen, die gleichartige, dem innerstaatlichen Recht unterliegende Sachverhalte regeln (Äquivalenzgrundsatz), und die Ausübung der durch das Unionsrecht verliehenen Rechte nicht praktisch unmöglich machen oder übermäßig erschweren dürfen (Effektivitätsgrundsatz). Ein Klageantrag auf Überlassung einer Kopie von E-Mails ist nicht hinreichend bestimmt iSv. § 253 Abs. 2 Nr. 2 ZPO, wenn die E-Mails, von denen eine Kopie zur Verfügung gestellt werden soll, nicht so genau bezeichnet sind, dass im Vollstreckungsverfahren unzweifelhaft ist, auf welche E-Mails sich die Verurteilung bezieht.;"Ich habe alle benötigten Informationen. Hier ist die Antwort:
+
+## Antwort
+
+Der geschilderte Sachverhalt entspricht wortgleich dem Ausgangsfall der Entscheidung des **Bundesarbeitsgerichts vom 27. April 2021 – 2 AZR 342/20** („Überlassung einer Datenkopie – Bestimmtheit des Klageantrags""; ECLI:DE:BAG:2021:270421.U.2AZR342.20.0).
+
+### Ergebnis
+Das BAG hat die Revision des Klägers zurückgewiesen. Der Antrag auf Überlassung einer Kopie des E-Mail-Verkehrs sowie der E-Mails, die den Kläger namentlich erwähnen, ist **nicht hinreichend bestimmt iSv. § 253 Abs. 2 Nr. 2 ZPO** und damit unzulässig.
+
+### Leitsatz (amtlich)
+> „Ein Klageantrag auf Überlassung einer Kopie von E-Mails ist nicht hinreichend bestimmt iSv. § 253 Abs. 2 Nr. 2 ZPO, wenn die E-Mails, von denen eine Kopie zur Verfügung gestellt werden soll, nicht so genau bezeichnet sind, dass im Vollstreckungsverfahren unzweifelhaft ist, auf welche E-Mails sich die Verurteilung bezieht.""
+> (Quelle: `urteile_markdown_by_year/2021/2021-04-27_BAG_2 AZR 342_20.md`, Zeile 14)
+
+### Tragende Gründe
+
+**1. Unbestimmtheit des Antrags (Rn. 18–20)**
+> „Selbst in dieser weiter konkretisierten Auslegung ist der Antrag nicht hinreichend bestimmt. Die E-Mails, von denen eine Kopie zur Verfügung gestellt werden soll, sind nicht in einer Weise bezeichnet, dass im Vollstreckungsverfahren unzweifelhaft wäre, auf welche elektronischen Nachrichten sich die Verurteilung konkret bezieht.""
+
+Die bloß abstrakte Nennung von **Kategorien** (E-Mails von/an die dienstliche Adresse oder solche mit namentlicher Erwähnung) genügt nicht. Bei einer Verurteilung wäre unklar, auf welche konkreten E-Mails sie sich bezieht und wann der Anspruch erfüllt wäre – der Streit würde in vermeidbarer Weise ins Vollstreckungsverfahren verlagert.
+
+**2. Lösungsweg: Stufenklage (Rn. 20)**
+> „Um dies zu vermeiden ist der Kläger – soweit er selbst zu einer genaueren Bezeichnung außer Stande ist – gehalten, sein Begehren mittels einer Stufenklage (§ 254 ZPO) durchzusetzen. Diese ist zunächst auf Erteilung einer Auskunft zu richten, welche E-Mails der fraglichen Kategorien die Beklagte verarbeitet, auf der zweiten Stufe ggf. auf Versicherung an Eides statt, dass die Auskunft zutreffend und vollständig ist, und schließlich auf Überlassung einer Kopie der sich aus der Auskunft ergebenden E-Mails.""
+
+**3. Form der Kopie (Rn. 17)**
+Das Begehren auf eine „Kopie"" nach Art. 15 Abs. 3 DSGVO ist mangels näherer Bestimmung so zu verstehen, dass der Verantwortliche **nach seiner Wahl** entweder einen Papierausdruck oder eine elektronische Datenkopie überlassen kann.
+
+**4. Kein Vorabentscheidungsersuchen (Rn. 22–25)**
+Eine Vorlage an den EuGH war nicht erforderlich. Nach dem Grundsatz der **Verfahrensautonomie** sind die Verfahrensmodalitäten Sache des nationalen Rechts; Art. 79 Abs. 1 DSGVO enthält keine näheren Vorgaben. Das Bestimmtheitserfordernis des § 253 Abs. 2 Nr. 2 ZPO nebst Möglichkeit der Stufenklage nach § 254 ZPO verletzt weder den Äquivalenz- noch den Effektivitätsgrundsatz.
+
+### Einordnung
+Diese Entscheidung ist mittlerweile ständige Rechtsprechung und wurde vom BAG im Urteil vom 16. Dezember 2021 – 2 AZR 235/21 (Rn. 32 f.) sowie im Urteil vom 20. Juni 2024 – 8 AZR 91/22 bestätigt. Für Arbeitnehmer, die Datenkopien nach Art. 15 Abs. 3 DSGVO herausverlangen wollen, ist die **Stufenklage** (§ 254 ZPO) der prozessuale Regelweg.
+
+**Fundstelle:** BAG, Urteil vom 27.04.2021 – 2 AZR 342/20, `urteile_markdown_by_year/2021/2021-04-27_BAG_2 AZR 342_20.md`, Zeilen 14 ff. (Leitsatz), 20 ff. (Tatbestand), 55–70 (Entscheidungsgründe).";9;"Die Antwort trifft den Kern der Gold-Antwort sehr genau: Sie ordnet den Fall zutreffend dem BAG, Urt. v. 27.04.2021 – 2 AZR 342/20, zu und gibt die tragende Aussage wieder, dass ein Klageantrag auf Überlassung einer Kopie von E‑Mails mangels hinreichender Bestimmtheit (§ 253 Abs. 2 Nr. 2 ZPO) unzulässig ist, wenn die betroffenen E‑Mails nicht konkret bezeichnet sind. Sie arbeitet richtig die Vollstreckbarkeitsproblematik, die Unzulänglichkeit der bloßen Wiederholung des Wortlauts von Art. 15 Abs. 3 DSGVO sowie die unionsrechtliche Verfahrensautonomie unter Wahrung von Äquivalenz- und Effektivitätsgrundsatz heraus und erwähnt zutreffend die Stufenklage als prozessualen Weg. Dies entspricht den Punkten 2–4 der Gold-Antwort. Kleinere Abweichungen/Marginalien: Die Antwort greift zusätzliche Detailaspekte (Formatwahl der Kopie) auf, die nicht im Widerspruch stehen, aber für die vorliegende Fragestellung nicht tragend sind; außerdem werden spätere Bestätigungsentscheidungen genannt, deren Genauigkeit hier nicht verifiziert ist. Der Aspekt der Auslegung des Revisionsbegehrens nach § 133 BGB (Punkt 1 der Gold-Antwort) wird nicht angesprochen, was aber die juristische Richtigkeit des dargelegten Kernergebnisses nicht beeinträchtigt. Insgesamt ist die rechtliche Bewertung weitgehend deckungsgleich mit der Gold-Antwort und korrekt.";;84.8s;"Ich habe alle benötigten Informationen. Hier ist die Antwort:
+
+## Antwort
+
+Der geschilderte Sachverhalt entspricht wortgleich dem Ausgangsfall der Entscheidung des **Bundesarbeitsgerichts vom 27. April 2021 – 2 AZR 342/20** („Überlassung einer Datenkopie – Bestimmtheit des Klageantrags""; ECLI:DE:BAG:2021:270421.U.2AZR342.20.0).
+
+### Ergebnis
+Das BAG hat die Revision des Klägers zurückgewiesen. Der Antrag auf Überlassung einer Kopie des E-Mail-Verkehrs sowie der E-Mails, die den Kläger namentlich erwähnen, ist **nicht hinreichend bestimmt iSv. § 253 Abs. 2 Nr. 2 ZPO** und damit unzulässig.
+
+### Leitsatz (amtlich)
+> „Ein Klageantrag auf Überlassung einer Kopie von E-Mails ist nicht hinreichend bestimmt iSv. § 253 Abs. 2 Nr. 2 ZPO, wenn die E-Mails, von denen eine Kopie zur Verfügung gestellt werden soll, nicht so genau bezeichnet sind, dass im Vollstreckungsverfahren unzweifelhaft ist, auf welche E-Mails sich die Verurteilung bezieht.""
+> (Quelle: `urteile_markdown_by_year/2021/2021-04-27_BAG_2 AZR 342_20.md`, Zeile 14)
+
+### Tragende Gründe
+
+**1. Unbestimmtheit des Antrags (Rn. 18–20)**
+> „Selbst in dieser weiter konkretisierten Auslegung ist der Antrag nicht hinreichend bestimmt. Die E-Mails, von denen eine Kopie zur Verfügung gestellt werden soll, sind nicht in einer Weise bezeichnet, dass im Vollstreckungsverfahren unzweifelhaft wäre, auf welche elektronischen Nachrichten sich die Verurteilung konkret bezieht.""
+
+Die bloß abstrakte Nennung von **Kategorien** (E-Mails von/an die dienstliche Adresse oder solche mit namentlicher Erwähnung) genügt nicht. Bei einer Verurteilung wäre unklar, auf welche konkreten E-Mails sie sich bezieht und wann der Anspruch erfüllt wäre – der Streit würde in vermeidbarer Weise ins Vollstreckungsverfahren verlagert.
+
+**2. Lösungsweg: Stufenklage (Rn. 20)**
+> „Um dies zu vermeiden ist der Kläger – soweit er selbst zu einer genaueren Bezeichnung außer Stande ist – gehalten, sein Begehren mittels einer Stufenklage (§ 254 ZPO) durchzusetzen. Diese ist zunächst auf Erteilung einer Auskunft zu richten, welche E-Mails der fraglichen Kategorien die Beklagte verarbeitet, auf der zweiten Stufe ggf. auf Versicherung an Eides statt, dass die Auskunft zutreffend und vollständig ist, und schließlich auf Überlassung einer Kopie der sich aus der Auskunft ergebenden E-Mails.""
+
+**3. Form der Kopie (Rn. 17)**
+Das Begehren auf eine „Kopie"" nach Art. 15 Abs. 3 DSGVO ist mangels näherer Bestimmung so zu verstehen, dass der Verantwortliche **nach seiner Wahl** entweder einen Papierausdruck oder eine elektronische Datenkopie überlassen kann.
+
+**4. Kein Vorabentscheidungsersuchen (Rn. 22–25)**
+Eine Vorlage an den EuGH war nicht erforderlich. Nach dem Grundsatz der **Verfahrensautonomie** sind die Verfahrensmodalitäten Sache des nationalen Rechts; Art. 79 Abs. 1 DSGVO enthält keine näheren Vorgaben. Das Bestimmtheitserfordernis des § 253 Abs. 2 Nr. 2 ZPO nebst Möglichkeit der Stufenklage nach § 254 ZPO verletzt weder den Äquivalenz- noch den Effektivitätsgrundsatz.
+
+### Einordnung
+Diese Entscheidung ist mittlerweile ständige Rechtsprechung und wurde vom BAG im Urteil vom 16. Dezember 2021 – 2 AZR 235/21 (Rn. 32 f.) sowie im Urteil vom 20. Juni 2024 – 8 AZR 91/22 bestätigt. Für Arbeitnehmer, die Datenkopien nach Art. 15 Abs. 3 DSGVO herausverlangen wollen, ist die **Stufenklage** (§ 254 ZPO) der prozessuale Regelweg.
+
+**Fundstelle:** BAG, Urteil vom 27.04.2021 – 2 AZR 342/20, `urteile_markdown_by_year/2021/2021-04-27_BAG_2 AZR 342_20.md`, Zeilen 14 ff. (Leitsatz), 20 ff. (Tatbestand), 55–70 (Entscheidungsgründe).";9;"Die Antwort trifft den Kern der Gold-Antwort sehr genau: Sie ordnet den Fall zutreffend dem BAG, Urt. v. 27.04.2021 – 2 AZR 342/20, zu und gibt die tragende Aussage wieder, dass ein Klageantrag auf Überlassung einer Kopie von E‑Mails mangels hinreichender Bestimmtheit (§ 253 Abs. 2 Nr. 2 ZPO) unzulässig ist, wenn die betroffenen E‑Mails nicht konkret bezeichnet sind. Sie arbeitet richtig die Vollstreckbarkeitsproblematik, die Unzulänglichkeit der bloßen Wiederholung des Wortlauts von Art. 15 Abs. 3 DSGVO sowie die unionsrechtliche Verfahrensautonomie unter Wahrung von Äquivalenz- und Effektivitätsgrundsatz heraus und erwähnt zutreffend die Stufenklage als prozessualen Weg. Dies entspricht den Punkten 2–4 der Gold-Antwort. Kleinere Abweichungen/Marginalien: Die Antwort greift zusätzliche Detailaspekte (Formatwahl der Kopie) auf, die nicht im Widerspruch stehen, aber für die vorliegende Fragestellung nicht tragend sind; außerdem werden spätere Bestätigungsentscheidungen genannt, deren Genauigkeit hier nicht verifiziert ist. Der Aspekt der Auslegung des Revisionsbegehrens nach § 133 BGB (Punkt 1 der Gold-Antwort) wird nicht angesprochen, was aber die juristische Richtigkeit des dargelegten Kernergebnisses nicht beeinträchtigt. Insgesamt ist die rechtliche Bewertung weitgehend deckungsgleich mit der Gold-Antwort und korrekt.";;84.8s;;-1;;;0.0s;agent
+BAG, 27.04.2021, 9 AZR 662/19;Gewerkschaftssekretär gegen Gewerkschaft. Der Kläger begehrt von der Beklagten die Erteilung einer „Tätigkeitsbeschreibung als Syndikusrechtsanwältin / Syndikusrechtsanwalt“, die er für einen Antrag auf Zulassung als Syndikusrechtsanwalt gegenüber der Rechtsanwaltskammer zu verwenden beabsichtigt. Der Kläger besitzt die Befähigung zum Richteramt und ist seit dem 1. März 2013 für die Beklagte in deren Landesbezirk Hessen als Gewerkschaftssekretär mit Rechtsschutzaufgaben beschäftigt. Mit Schreiben vom 22. November 2017 forderte der Kläger die Beklagte zur Unterzeichnung und Rücksendung eines von ihm bereits überwiegend ausgefüllten und unterschriebenen Formulars auf, das mit „Tätigkeitsbeschreibung als Syndikusrechtsanwältin / Syndikusrechtsanwalt“ überschrieben war. Darin heißt es: siehe Anlage.  Die Beklagte lehnte es mit Schreiben vom 9. Januar 2018 ab, dem Kläger die gewünschte Bestätigung zu erteilen. Er sei als Gewerkschaftssekretär eingestellt und als gewerkschaftlicher Interessenvertreter tendenzbezogen und arbeitsvertraglich weisungsabhängig tätig.  Anderen Gewerkschaftssekretären mit Rechtsschutzaufgaben oder in anderen Tätigkeiten hatte die Beklagte es ermöglicht, als Syndikusrechtsanwalt dem Versorgungswerk der Rechtsanwälte beizutreten.  Der Kläger hat die Auffassung vertreten, er könne die Mitwirkung der Beklagten bei seiner Zulassung als Syndikusrechtsanwalt nach dem arbeitsrechtlichen Gleichbehandlungsgrundsatz verlangen. Die Beklagte beschäftige mindestens 19 Arbeitnehmer in dieser Funktion. Auch nach Erhebung seiner Klage habe sie noch weiteren Beschäftigten die Zulassung ermöglicht.;1. Der arbeitsrechtliche Gleichbehandlungsgrundsatz ist nicht nur dann anwendbar, wenn der Arbeitgeber Leistungen nach einem bestimmten erkennbaren und generalisierenden Prinzip gewährt, sondern grundsätzlich auch dann, wenn er - nicht auf besondere Einzelfälle beschränkt - nach Gutdünken oder nach nicht sachgerechten oder nicht bestimmbaren Kriterien leistet. 2. Der Arbeitgeber hat aufgrund des arbeitsrechtlichen Gleichbehandlungsgrundsatzes eine Gleichbehandlung betriebsübergreifend zu gewährleisten, wenn seine verteilende Entscheidung nicht auf den einzelnen Betrieb begrenzt ist, sondern sich auf alle oder mehrere Betriebe des Unternehmens bezieht. Eine Unterscheidung zwischen den einzelnen Betrieben ist nur zulässig, wenn es hierfür sachliche Gründe gibt.;"Ich habe alle notwendigen Informationen. Ich kann jetzt die Antwort formulieren.
+
+## Antwort
+
+Der geschilderte Sachverhalt entspricht exakt dem vom **Bundesarbeitsgericht mit Urteil vom 15. Dezember 2021 – 10 AZR 410/20** entschiedenen Fall (Vorinstanz: Hessisches Landesarbeitsgericht vom 18.09.2019 – 18 Sa 1225/18; ArbG Offenbach am Main vom 25.07.2018 – 10 Ca 48/18).
+
+### Entscheidung des BAG
+
+Die Revision des Klägers hatte **Erfolg**. Das BAG hat das klageabweisende Berufungsurteil aufgehoben und die Sache zur neuen Verhandlung an das LAG zurückverwiesen.
+
+> „Auf die Revision des Klägers wird das Urteil des Hessischen Landesarbeitsgerichts vom 18. September 2019 – 18 Sa 1225/18 – insoweit aufgehoben … Im Umfang der Aufhebung wird die Sache zur neuen Verhandlung und Entscheidung … an das Berufungsgericht zurückverwiesen.""
+> (*2021.md*, Z. 3–5)
+
+### Wesentliche Rechtsgrundsätze
+
+**1. Anspruchsgrundlage: Arbeitsrechtlicher Gleichbehandlungsgrundsatz**
+
+Aus dem arbeitsrechtlichen Gleichbehandlungsgrundsatz kann sich ein Anspruch auf **Abgabe einer Willenserklärung** ergeben (§ 894 Satz 1 ZPO). Denn die Tätigkeitsbeschreibung ist nicht bloß eine Urkundenherausgabe, sondern enthält Erklärungen, die Bestandteil des Arbeitsvertrags werden – es handelt sich also um eine **Vertragsänderung** (Rn. 15).
+
+> „Der arbeitsrechtliche Gleichbehandlungsgrundsatz, aus dem sich auch ein Anspruch auf Abgabe einer Willenserklärung ergeben kann … gebietet dem Arbeitgeber, Arbeitnehmer oder Gruppen von Arbeitnehmern, die sich in vergleichbarer Lage befinden, bei Anwendung einer selbst gegebenen Regelung gleich zu behandeln."" (Rn. 17)
+
+**2. Keine strengen Anforderungen an ein „generalisierendes Prinzip""**
+
+Das LAG hatte die Klage abgewiesen, weil die bisherige Zulassungspraxis der Beklagten „uneinheitlich und teilweise ohne genauere Prüfung"" erfolgt sei. Das BAG korrigiert:
+
+> „Das Fehlen eines generalisierenden Prinzips und einer – hier in Betracht kommenden – Leistungsgewährung nach Gutdünken an eine Mehrzahl von Arbeitnehmern steht der Anwendung des arbeitsrechtlichen Gleichbehandlungsgrundsatzes nicht entgegen. Die Beklagte darf nicht willkürlich darüber entscheiden, welchen – vergleichbaren – Mitarbeitern sie eine Zulassung als Syndikusrechtsanwalt … ermöglicht und welchen nicht."" (Rn. 18)
+
+**3. Betriebsübergreifende Geltung (wichtig für das Tendenzunternehmen-/Landesbezirk-Argument)**
+
+Die Beklagte wollte einwenden, der Gleichbehandlungsgrundsatz gelte nur betriebs- (d.h. landesbezirks-)bezogen. Dem tritt das BAG entgegen:
+
+> „Der Arbeitgeber hat aufgrund des arbeitsrechtlichen Gleichbehandlungsgrundsatzes eine Gleichbehandlung betriebsübergreifend zu gewährleisten, wenn seine verteilende Entscheidung nicht auf den einzelnen Betrieb begrenzt ist, sondern sich auf alle oder mehrere Betriebe des Unternehmens bezieht. Eine Unterscheidung zwischen den einzelnen Betrieben ist nur zulässig, wenn es hierfür sachliche Gründe gibt."" (Rn. 20)
+
+Die bloße konjunktivische Annahme des LAG, interne Regelungen der Landesbezirke „dürften nicht identisch sein"", genügt nicht als Tatsachenfeststellung (Rn. 21).
+
+### Folgen für den Fall
+
+- Das LAG muss nun **tatsächlich feststellen**, ob die Entscheidung über die Ermöglichung der Syndikuszulassung unternehmensweit oder nur in den Landesbezirken getroffen wird.
+- Es muss prüfen, ob der Kläger mit den anderen – mindestens 19 – Gewerkschaftssekretären, denen die Zulassung ermöglicht wurde, **vergleichbar** ist und ob sachliche Gründe für die Ungleichbehandlung bestehen.
+- Das Argument der Beklagten, der Kläger sei „tendenzbezogen"" und „arbeitsvertraglich weisungsabhängig"" tätig, greift gerade deshalb nicht durch, weil die Beklagte anderen Gewerkschaftssekretären mit Rechtsschutzaufgaben die Zulassung ermöglicht hat – bei identischer tendenzbezogener Stellung.
+
+### Zitation
+
+- BAG, Urteil vom 15.12.2021 – 10 AZR 410/20, Tatbestand und Rn. 10–21 (Quelle: `/home/sten/legalgenius/data/urteile_markdown_by_year/2021.md`, Zeilen 3–67).
+- Grundlegend zum Gleichbehandlungsgrundsatz bei Willenserklärungen: BAG 19.09.2017 – 9 AZR 36/17; BAG 13.12.2016 – 9 AZR 606/15.
+- Zur betriebsübergreifenden Geltung: BAG 26.09.2017 – 1 ABR 27/16; BAG 03.12.2008 – 5 AZR 74/08.
+
+**Fazit:** Der Kläger hat gute Aussichten, die begehrte Tätigkeitsbeschreibung zu erhalten, sofern im weiteren Verfahren festgestellt wird, dass die Zulassungspraxis der Beklagten unternehmensweit erfolgt und keine sachlichen Gründe die Ungleichbehandlung gegenüber den anderen 19 Gewerkschaftssekretären rechtfertigen.";9;"Die Antwort ist inhaltlich weitgehend korrekt: Sie identifiziert zutreffend das BAG-Urteil (10 AZR 410/20), stellt das Ergebnis (Aufhebung und Zurückverweisung) richtig dar und trifft die beiden Kernaussagen der Goldantwort präzise: (1) Der arbeitsrechtliche Gleichbehandlungsgrundsatz greift auch ohne generalisierendes Prinzip bzw. bei Gewährungen nach Gutdünken; (2) die Gleichbehandlung kann betriebsübergreifend zu gewährleisten sein, wenn die Verteilungsentscheidung sich unternehmensweit bezieht. Kleinere Einschränkungen: Die Charakterisierung der verlangten Tätigkeitsbeschreibung als Vertragsänderung und die Heranziehung von § 894 ZPO (Willenserklärung) ist zumindest diskutabel und nicht tragender Teil der hier einschlägigen Leitsätze; zudem wird an einer Stelle tendenziell überpointiert, dass das Tendenz-/Weisungsargument 'nicht durchgreift', obwohl das BAG die Sache zur Prüfung von Vergleichbarkeit und sachlichen Gründen zurückverwiesen hat. Diese Punkte mindern jedoch nur geringfügig die juristische Korrektheit im Verhältnis zur Goldantwort.";;62.9s;"Ich habe alle notwendigen Informationen. Ich kann jetzt die Antwort formulieren.
+
+## Antwort
+
+Der geschilderte Sachverhalt entspricht exakt dem vom **Bundesarbeitsgericht mit Urteil vom 15. Dezember 2021 – 10 AZR 410/20** entschiedenen Fall (Vorinstanz: Hessisches Landesarbeitsgericht vom 18.09.2019 – 18 Sa 1225/18; ArbG Offenbach am Main vom 25.07.2018 – 10 Ca 48/18).
+
+### Entscheidung des BAG
+
+Die Revision des Klägers hatte **Erfolg**. Das BAG hat das klageabweisende Berufungsurteil aufgehoben und die Sache zur neuen Verhandlung an das LAG zurückverwiesen.
+
+> „Auf die Revision des Klägers wird das Urteil des Hessischen Landesarbeitsgerichts vom 18. September 2019 – 18 Sa 1225/18 – insoweit aufgehoben … Im Umfang der Aufhebung wird die Sache zur neuen Verhandlung und Entscheidung … an das Berufungsgericht zurückverwiesen.""
+> (*2021.md*, Z. 3–5)
+
+### Wesentliche Rechtsgrundsätze
+
+**1. Anspruchsgrundlage: Arbeitsrechtlicher Gleichbehandlungsgrundsatz**
+
+Aus dem arbeitsrechtlichen Gleichbehandlungsgrundsatz kann sich ein Anspruch auf **Abgabe einer Willenserklärung** ergeben (§ 894 Satz 1 ZPO). Denn die Tätigkeitsbeschreibung ist nicht bloß eine Urkundenherausgabe, sondern enthält Erklärungen, die Bestandteil des Arbeitsvertrags werden – es handelt sich also um eine **Vertragsänderung** (Rn. 15).
+
+> „Der arbeitsrechtliche Gleichbehandlungsgrundsatz, aus dem sich auch ein Anspruch auf Abgabe einer Willenserklärung ergeben kann … gebietet dem Arbeitgeber, Arbeitnehmer oder Gruppen von Arbeitnehmern, die sich in vergleichbarer Lage befinden, bei Anwendung einer selbst gegebenen Regelung gleich zu behandeln."" (Rn. 17)
+
+**2. Keine strengen Anforderungen an ein „generalisierendes Prinzip""**
+
+Das LAG hatte die Klage abgewiesen, weil die bisherige Zulassungspraxis der Beklagten „uneinheitlich und teilweise ohne genauere Prüfung"" erfolgt sei. Das BAG korrigiert:
+
+> „Das Fehlen eines generalisierenden Prinzips und einer – hier in Betracht kommenden – Leistungsgewährung nach Gutdünken an eine Mehrzahl von Arbeitnehmern steht der Anwendung des arbeitsrechtlichen Gleichbehandlungsgrundsatzes nicht entgegen. Die Beklagte darf nicht willkürlich darüber entscheiden, welchen – vergleichbaren – Mitarbeitern sie eine Zulassung als Syndikusrechtsanwalt … ermöglicht und welchen nicht."" (Rn. 18)
+
+**3. Betriebsübergreifende Geltung (wichtig für das Tendenzunternehmen-/Landesbezirk-Argument)**
+
+Die Beklagte wollte einwenden, der Gleichbehandlungsgrundsatz gelte nur betriebs- (d.h. landesbezirks-)bezogen. Dem tritt das BAG entgegen:
+
+> „Der Arbeitgeber hat aufgrund des arbeitsrechtlichen Gleichbehandlungsgrundsatzes eine Gleichbehandlung betriebsübergreifend zu gewährleisten, wenn seine verteilende Entscheidung nicht auf den einzelnen Betrieb begrenzt ist, sondern sich auf alle oder mehrere Betriebe des Unternehmens bezieht. Eine Unterscheidung zwischen den einzelnen Betrieben ist nur zulässig, wenn es hierfür sachliche Gründe gibt."" (Rn. 20)
+
+Die bloße konjunktivische Annahme des LAG, interne Regelungen der Landesbezirke „dürften nicht identisch sein"", genügt nicht als Tatsachenfeststellung (Rn. 21).
+
+### Folgen für den Fall
+
+- Das LAG muss nun **tatsächlich feststellen**, ob die Entscheidung über die Ermöglichung der Syndikuszulassung unternehmensweit oder nur in den Landesbezirken getroffen wird.
+- Es muss prüfen, ob der Kläger mit den anderen – mindestens 19 – Gewerkschaftssekretären, denen die Zulassung ermöglicht wurde, **vergleichbar** ist und ob sachliche Gründe für die Ungleichbehandlung bestehen.
+- Das Argument der Beklagten, der Kläger sei „tendenzbezogen"" und „arbeitsvertraglich weisungsabhängig"" tätig, greift gerade deshalb nicht durch, weil die Beklagte anderen Gewerkschaftssekretären mit Rechtsschutzaufgaben die Zulassung ermöglicht hat – bei identischer tendenzbezogener Stellung.
+
+### Zitation
+
+- BAG, Urteil vom 15.12.2021 – 10 AZR 410/20, Tatbestand und Rn. 10–21 (Quelle: `/home/sten/legalgenius/data/urteile_markdown_by_year/2021.md`, Zeilen 3–67).
+- Grundlegend zum Gleichbehandlungsgrundsatz bei Willenserklärungen: BAG 19.09.2017 – 9 AZR 36/17; BAG 13.12.2016 – 9 AZR 606/15.
+- Zur betriebsübergreifenden Geltung: BAG 26.09.2017 – 1 ABR 27/16; BAG 03.12.2008 – 5 AZR 74/08.
+
+**Fazit:** Der Kläger hat gute Aussichten, die begehrte Tätigkeitsbeschreibung zu erhalten, sofern im weiteren Verfahren festgestellt wird, dass die Zulassungspraxis der Beklagten unternehmensweit erfolgt und keine sachlichen Gründe die Ungleichbehandlung gegenüber den anderen 19 Gewerkschaftssekretären rechtfertigen.";9;"Die Antwort ist inhaltlich weitgehend korrekt: Sie identifiziert zutreffend das BAG-Urteil (10 AZR 410/20), stellt das Ergebnis (Aufhebung und Zurückverweisung) richtig dar und trifft die beiden Kernaussagen der Goldantwort präzise: (1) Der arbeitsrechtliche Gleichbehandlungsgrundsatz greift auch ohne generalisierendes Prinzip bzw. bei Gewährungen nach Gutdünken; (2) die Gleichbehandlung kann betriebsübergreifend zu gewährleisten sein, wenn die Verteilungsentscheidung sich unternehmensweit bezieht. Kleinere Einschränkungen: Die Charakterisierung der verlangten Tätigkeitsbeschreibung als Vertragsänderung und die Heranziehung von § 894 ZPO (Willenserklärung) ist zumindest diskutabel und nicht tragender Teil der hier einschlägigen Leitsätze; zudem wird an einer Stelle tendenziell überpointiert, dass das Tendenz-/Weisungsargument 'nicht durchgreift', obwohl das BAG die Sache zur Prüfung von Vergleichbarkeit und sachlichen Gründen zurückverwiesen hat. Diese Punkte mindern jedoch nur geringfügig die juristische Korrektheit im Verhältnis zur Goldantwort.";;62.9s;;-1;;;0.0s;agent
+BAG, 31.03.2021, 5 AZR 197/20;Der AN, Lehrer, war häufig kurzzeitig erkrankt. Der AG leistete deshalb Lohnfortzahlung für die Zeit zum 12.05.2017. Die Krankenkasse teilte der Beklagten zusammengefasst mit, dass sie aufgrund anzurechnender 'Vorerkrankungen' vom 20. Februar bis zum 7. April 2017 vom „Ende der Entgeltfortzahlung“ am 9. April 2017 ausgehe und sie der Beklagten für die Zeit vom 10. April bis zum 12. Mai 2017 Krankengeld nachzahlen werde. Daraufhin forderte 3.520 Euro vom AN zurück mit der Behauptung, von den Umständen, die den Rückzahlungsanspruch begründen, habe das für die Berechnung und Zahlung des Entgelts allein zuständige LBV erst im Zusammenhang mit den Mitteilungen der Krankenkasse der Beklagten von Oktober/November 2018 Kenntnis erlangt.  Die AN hat die Auffassung vertreten, der geltend gemachte Anspruch sei verfallen, weil das klagende Land die Ausschlussfrist des § 37 TV-L nicht eingehalten habe. § 37 Ausschlussfrist (1) 1Ansprüche aus dem Arbeitsverhältnis verfallen, wenn sie nicht innerhalb einer Ausschlussfrist von sechs Monaten nach Fälligkeit von den Beschäftigten oder vom Arbeitgeber schriftlich geltend gemacht werden. 2Für denselben Sachverhalt reicht die einmalige Geltendmachung des Anspruchs auch für später fällige Leistungen aus. (2) Absatz 1 gilt nicht für Ansprüche aus einem Sozialplan.;"Der Bereicherungsanspruch des klagenden Landes ist nicht nach § 814 BGB ausgeschlossen. Nach dieser Bestimmung kann das zum Zweck der Erfüllung einer Verbindlichkeit Geleistete nicht zurückgefordert werden, wenn der Leistende gewusst hat, dass er zur Leistung nicht verpflichtet war. Erforderlich ist die positive Kenntnis der Rechtslage im Zeitpunkt der Leistung. 1. Ist der Arbeitnehmer innerhalb der Zeiträume des § 3 Abs 1 S 2 Nr 1 und Nr 2 EntgFG länger als sechs Wochen an der Erbringung der Arbeitsleistung verhindert, gilt eine abgestufte Darlegungs- und Beweislast.(Rn.26)  2. Hieraus ergibt sich nicht eine Obliegenheit des Arbeitgebers, immer dann, wenn der Arbeitnehmer nach vorangegangener, sechswöchiger Arbeitsunfähigkeit innerhalb der Zeiträume des § 3 Abs 1 S 2 Nr 1 und Nr 2 EntgFG erneut arbeitsunfähig erkrankt, von sich aus Auskünfte über das Bestehen einer Fortsetzungserkrankung einzuholen, um gegebenenfalls im Anschluss einen Rückzahlungsanspruch gegenüber dem Arbeitnehmer innerhalb geltender Ausschlussfristen beziffern zu können.(Rn.27)  3. Der Zweck von Ausschlussfristen gebietet es nicht, im Rahmen der Ausfüllung des Begriffs der ""Fälligkeit"" von einer Erkundigungspflicht des Arbeitgebers auszugehen.(Rn.28) 4. Eine Erkundigungsobliegenheit des Arbeitgebers zum Vorliegen einer Fortsetzungserkrankung kann allenfalls in Betracht kommen, wenn er -neben dem Wissen um die Tatsache, dass der Arbeitnehmer nach vorangegangener Sechswöchiger Arbeitsunfähigkeit innerhalb der Zeiträume des § 3 Abs 1 S 2 Nr 1 und Nr 2 EntgFG erneut arbeitsunfähig erkrankt ist - Kenntnis von Umständen hat, aus denen sich konkrete Anhaltspunkte dafür ergeben, dass die neuerliche Krankheit des Arbeitnehmers auf denselben Krankheitsursachen wie eine vorausgehende Erkrankung beruht, durch die der Entgeltfortzahlungszeitraum bereits erschöpft ist.(Rn.29)";"Ich habe alle relevanten Informationen. Der Fall entspricht exakt dem BAG-Urteil vom 31. März 2021 - 5 AZR 197/20.
+
+## Antwort
+
+Der geschilderte Fall entspricht fast wörtlich dem Urteil des **Bundesarbeitsgerichts vom 31. März 2021 – 5 AZR 197/20** („Überzahltes Entgelt – Verfall des Rückzahlungsanspruchs""). Das BAG hat entschieden, dass der Rückzahlungsanspruch des Landes **nicht verfallen** ist. Die zentralen Erwägungen:
+
+### 1. Bestehen des Rückzahlungsanspruchs
+Das klagende Land hat gegen die Arbeitnehmerin einen Anspruch aus **§ 812 Abs. 1 Satz 1 Alt. 1 BGB** auf Rückzahlung von 3.535,01 Euro. Da wegen der Fortsetzungserkrankung (§ 22 Abs. 1 Satz 2 TV-L i.V.m. § 3 Abs. 1 Satz 2 EFZG) der Sechs-Wochen-Zeitraum bereits am 9. April 2017 erschöpft war, wurde das Entgelt vom 10. April bis 12. Mai 2017 **ohne Rechtsgrund** gezahlt (Rn. 12–13).
+
+### 2. Fälligkeit i.S.d. § 37 Abs. 1 TV-L
+Der Anspruch ist zwar mit Auszahlung der Vergütung Ende April und Mai 2017 **entstanden**, aber erst mit Zugang des Schreibens der Krankenkasse (Oktober/November 2018) **fällig** geworden:
+
+> „Der Begriff der Fälligkeit in Ausschlussfristen ist unter Einbeziehung des Kenntnisstands des Gläubigers und subjektiver Zurechnungsgesichtspunkte interessengerecht auszulegen. Es muss dem Gläubiger tatsächlich möglich sein, seinen Anspruch geltend zu machen."" (Rn. 20)
+
+### 3. Keine Erkundigungsobliegenheit
+Entscheidend: Das BAG verneint eine generelle Pflicht des Arbeitgebers, bei länger als sechs Wochen andauernder Arbeitsunfähigkeit **""ins Blaue hinein""** nachzufragen, ob eine Fortsetzungserkrankung vorliegt:
+
+> „Der Arbeitgeber [müsste sonst], auch wenn er subjektiv keine Zweifel an seiner Entgeltfortzahlungspflicht hegt, zur Wahrung seiner Rechte […] ‚ins Blaue hinein' Erkundigungen über das Vorliegen einer Fortsetzungserkrankung einholen […]. Die vom Landesarbeitsgericht angenommene Nachfrageobliegenheit führt […] nicht zu mehr Rechtssicherheit, sondern belastet das Arbeitsverhältnis ohne triftigen Grund und ist deshalb insgesamt nicht interessengerecht."" (Rn. 28)
+
+Die AU-Bescheinigungen (§ 5 Abs. 1 Satz 2 EFZG) enthalten keine Krankheitsursachen; eine Fortsetzungserkrankung war daher für das Land nicht erkennbar. Die neue AU-Bescheinigung vom 11. April 2017 war zudem als **„Erstbescheinigung""** gekennzeichnet (Rn. 24, 30).
+
+Eine Erkundigungsobliegenheit kommt nur ausnahmsweise in Betracht, wenn der Arbeitgeber **konkrete Anhaltspunkte** für eine Fortsetzungserkrankung hat (Rn. 29) – solche lagen hier nicht vor.
+
+### 4. Fristwahrung
+Mit der Zahlungsaufforderung vom **7. Dezember 2018** hat das Land die sechsmonatige Ausschlussfrist gewahrt, da diese erst mit dem Zugang des Krankenkassen-Schreibens im Oktober/November 2018 zu laufen begann (Rn. 31).
+
+### Ergebnis
+Die Auffassung der Arbeitnehmerin, der Anspruch sei nach § 37 TV-L verfallen, trifft **nicht zu**. Das Land kann die 3.520 Euro (im Originalurteil: 3.535,01 Euro) zurückfordern.
+
+**Fundstelle:** BAG, Urteil vom 31.03.2021 – 5 AZR 197/20, Rn. 18–31  
+(Datei: `/home/sten/legalgenius/data/urteile_markdown_by_year/2021/2021-03-31_BAG_5 AZR 197_20.md`)";9;"Die Antwort trifft die maßgeblichen rechtlichen Kernaussagen des BAG-Urteils 5 AZR 197/20 zutreffend: Kein Verfall nach § 37 TV‑L, weil die Ausschlussfrist erst mit der Kenntnis durch die Krankenkassenmitteilung (Okt./Nov. 2018) zu laufen begann; keine generelle Erkundigungsobliegenheit des Arbeitgebers zur Fortsetzungserkrankung; eine solche kommt nur bei konkreten Anhaltspunkten in Betracht. Auch die Einordnung des Rückzahlungsanspruchs aus § 812 Abs. 1 S. 1 Alt. 1 BGB ist richtig. Die Begründung entspricht den vom BAG hervorgehobenen Erwägungen zur Fälligkeit im Sinne von § 37 TV‑L und zur abgestuften Darlegungs- und Beweislast. Kleinere Abstriche: Die Antwort behandelt § 814 BGB (vom BAG ausdrücklich verneint) nicht, was aber für die hier entscheidende Ausschlussfrist-Frage nicht ausschlaggebend ist. Im Übrigen ist die rechtliche Würdigung konsistent und korrekt.";;70.4s;"Ich habe alle relevanten Informationen. Der Fall entspricht exakt dem BAG-Urteil vom 31. März 2021 - 5 AZR 197/20.
+
+## Antwort
+
+Der geschilderte Fall entspricht fast wörtlich dem Urteil des **Bundesarbeitsgerichts vom 31. März 2021 – 5 AZR 197/20** („Überzahltes Entgelt – Verfall des Rückzahlungsanspruchs""). Das BAG hat entschieden, dass der Rückzahlungsanspruch des Landes **nicht verfallen** ist. Die zentralen Erwägungen:
+
+### 1. Bestehen des Rückzahlungsanspruchs
+Das klagende Land hat gegen die Arbeitnehmerin einen Anspruch aus **§ 812 Abs. 1 Satz 1 Alt. 1 BGB** auf Rückzahlung von 3.535,01 Euro. Da wegen der Fortsetzungserkrankung (§ 22 Abs. 1 Satz 2 TV-L i.V.m. § 3 Abs. 1 Satz 2 EFZG) der Sechs-Wochen-Zeitraum bereits am 9. April 2017 erschöpft war, wurde das Entgelt vom 10. April bis 12. Mai 2017 **ohne Rechtsgrund** gezahlt (Rn. 12–13).
+
+### 2. Fälligkeit i.S.d. § 37 Abs. 1 TV-L
+Der Anspruch ist zwar mit Auszahlung der Vergütung Ende April und Mai 2017 **entstanden**, aber erst mit Zugang des Schreibens der Krankenkasse (Oktober/November 2018) **fällig** geworden:
+
+> „Der Begriff der Fälligkeit in Ausschlussfristen ist unter Einbeziehung des Kenntnisstands des Gläubigers und subjektiver Zurechnungsgesichtspunkte interessengerecht auszulegen. Es muss dem Gläubiger tatsächlich möglich sein, seinen Anspruch geltend zu machen."" (Rn. 20)
+
+### 3. Keine Erkundigungsobliegenheit
+Entscheidend: Das BAG verneint eine generelle Pflicht des Arbeitgebers, bei länger als sechs Wochen andauernder Arbeitsunfähigkeit **""ins Blaue hinein""** nachzufragen, ob eine Fortsetzungserkrankung vorliegt:
+
+> „Der Arbeitgeber [müsste sonst], auch wenn er subjektiv keine Zweifel an seiner Entgeltfortzahlungspflicht hegt, zur Wahrung seiner Rechte […] ‚ins Blaue hinein' Erkundigungen über das Vorliegen einer Fortsetzungserkrankung einholen […]. Die vom Landesarbeitsgericht angenommene Nachfrageobliegenheit führt […] nicht zu mehr Rechtssicherheit, sondern belastet das Arbeitsverhältnis ohne triftigen Grund und ist deshalb insgesamt nicht interessengerecht."" (Rn. 28)
+
+Die AU-Bescheinigungen (§ 5 Abs. 1 Satz 2 EFZG) enthalten keine Krankheitsursachen; eine Fortsetzungserkrankung war daher für das Land nicht erkennbar. Die neue AU-Bescheinigung vom 11. April 2017 war zudem als **„Erstbescheinigung""** gekennzeichnet (Rn. 24, 30).
+
+Eine Erkundigungsobliegenheit kommt nur ausnahmsweise in Betracht, wenn der Arbeitgeber **konkrete Anhaltspunkte** für eine Fortsetzungserkrankung hat (Rn. 29) – solche lagen hier nicht vor.
+
+### 4. Fristwahrung
+Mit der Zahlungsaufforderung vom **7. Dezember 2018** hat das Land die sechsmonatige Ausschlussfrist gewahrt, da diese erst mit dem Zugang des Krankenkassen-Schreibens im Oktober/November 2018 zu laufen begann (Rn. 31).
+
+### Ergebnis
+Die Auffassung der Arbeitnehmerin, der Anspruch sei nach § 37 TV-L verfallen, trifft **nicht zu**. Das Land kann die 3.520 Euro (im Originalurteil: 3.535,01 Euro) zurückfordern.
+
+**Fundstelle:** BAG, Urteil vom 31.03.2021 – 5 AZR 197/20, Rn. 18–31  
+(Datei: `/home/sten/legalgenius/data/urteile_markdown_by_year/2021/2021-03-31_BAG_5 AZR 197_20.md`)";9;"Die Antwort trifft die maßgeblichen rechtlichen Kernaussagen des BAG-Urteils 5 AZR 197/20 zutreffend: Kein Verfall nach § 37 TV‑L, weil die Ausschlussfrist erst mit der Kenntnis durch die Krankenkassenmitteilung (Okt./Nov. 2018) zu laufen begann; keine generelle Erkundigungsobliegenheit des Arbeitgebers zur Fortsetzungserkrankung; eine solche kommt nur bei konkreten Anhaltspunkten in Betracht. Auch die Einordnung des Rückzahlungsanspruchs aus § 812 Abs. 1 S. 1 Alt. 1 BGB ist richtig. Die Begründung entspricht den vom BAG hervorgehobenen Erwägungen zur Fälligkeit im Sinne von § 37 TV‑L und zur abgestuften Darlegungs- und Beweislast. Kleinere Abstriche: Die Antwort behandelt § 814 BGB (vom BAG ausdrücklich verneint) nicht, was aber für die hier entscheidende Ausschlussfrist-Frage nicht ausschlaggebend ist. Im Übrigen ist die rechtliche Würdigung konsistent und korrekt.";;70.4s;;-1;;;0.0s;agent
