@@ -22,12 +22,13 @@ Current leaderboard as of `2026-04-20`.
 | 2 | OpenRouter | `z-ai/glm-5.1` | `91/100` | `10/10` | `9.10` |
 | 3 | OpenRouter | `openai/gpt-5.4` | `87/100` | `10/10` | `8.70` |
 | 4 | OpenRouter | `z-ai/glm-5` | `86/100` | `10/10` | `8.60` |
-| 5 | OpenRouter | `qwen/qwen3.5-122b-a10b` | `51/100` | `9/10` | `5.67` |
-| 6 | OpenRouter | `mistralai/mistral-small-3.2-24b-instruct` | `29/100` | `10/10` | `2.90` |
-| 7 | Nebius | `PrimeIntellect/INTELLECT-3` | `25/100` | `8/10` | `3.12` |
-| 8 | Nebius | `NousResearch/Hermes-4-405B` | `21/100` | `10/10` | `2.10` |
-| 9 | Nebius | `zai-org/GLM-5` | `16/100` | `8/10` | `2.00` |
-| 10 | Nebius | `NousResearch/Hermes-4-70B` | `16/100` | `10/10` | `1.60` |
+| 5 | OpenRouter | `qwen/qwen3.5-397b-a17b` | `80/100` | `10/10` | `8.00` |
+| 6 | OpenRouter | `qwen/qwen3.5-122b-a10b` | `51/100` | `9/10` | `5.67` |
+| 7 | OpenRouter | `mistralai/mistral-small-3.2-24b-instruct` | `29/100` | `10/10` | `2.90` |
+| 8 | Nebius | `PrimeIntellect/INTELLECT-3` | `25/100` | `8/10` | `3.12` |
+| 9 | Nebius | `NousResearch/Hermes-4-405B` | `21/100` | `10/10` | `2.10` |
+| 10 | Nebius | `zai-org/GLM-5` | `16/100` | `8/10` | `2.00` |
+| 11 | Nebius | `NousResearch/Hermes-4-70B` | `16/100` | `10/10` | `1.60` |
 
 ## Method
 
@@ -45,6 +46,7 @@ Current leaderboard as of `2026-04-20`.
 - [results/openrouter_glm51.csv](results/openrouter_glm51.csv)
 - [results/openrouter_gpt54.csv](results/openrouter_gpt54.csv)
 - [results/openrouter_glm5.csv](results/openrouter_glm5.csv)
+- [results/openrouter_qwen35_397b_a17b.csv](results/openrouter_qwen35_397b_a17b.csv)
 - [results/openrouter_qwen35_122b_a10b.csv](results/openrouter_qwen35_122b_a10b.csv)
 - [results/openrouter_mistral_small_32_24b.csv](results/openrouter_mistral_small_32_24b.csv)
 - [results/nebius_intellect3.csv](results/nebius_intellect3.csv)
