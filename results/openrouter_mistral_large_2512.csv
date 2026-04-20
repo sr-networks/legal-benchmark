@@ -1,0 +1,1059 @@
+fallnummer;fallbeschreibung;gold_answer;our_answer;evaluation_score;evaluation_reasoning;error;processing_time;our_answer_agent;evaluation_score_agent;evaluation_reasoning_agent;error_agent;processing_time_agent;our_answer_openai;evaluation_score_openai;evaluation_reasoning_openai;error_openai;processing_time_openai;used_sources
+BGH IX ZR 143/20 15.04.2021;1.Die Kläger ließen sich vom beklagten Rechtsanwalt wegen eines Testaments beraten. Der Beklagte entwarf ein gemeinschaftliches Testament, in welchem sich die Kläger gegenseitig zu Erben einsetzten. Zusammen mit dem Entwurf übersandte er eine Abschlagsrechnung über insgesamt 1.808,80 €. Die Kläger kündigten daraufhin das Mandat. Unter dem 6. November 2017 stellte der Beklagte den Klägern eine 1,0-Geschäftsgebühr gemäß § 2 Abs. 2 RVG, Nr. 2300 VV RVG nach einem Gegenstandswert von bis zu 450.000 € nebst Auslagenpauschale und Umsatzsteuer, insgesamt 3.704,47 € in Rechnung. Die Kläger zahlten diesen Betrag. 2. Nunmehr meinen die Kläger, der Beklagte habe nur eine Beratungsgebühr gemäß § 34 Abs. 1 RVG in Höhe von 250 € zuzüglich einer Mehrgebühr von 0,3 gemäß § 2 Abs. 2 RVG, Nr. 1008 VV RVG in Höhe von 75 € nebst Auslagenpauschale und Umsatzsteuer abrechnen dürfen, insgesamt 410,55 €. Sie verlangen Rückgewähr von 3.293,92 € nebst Zinsen. Das Amtsgericht hat die Klage abgewiesen. Das Berufungsgericht hat den Beklagten antragsgemäß verurteilt. Mit seiner vom Berufungsgericht zugelassenen Revision will der Beklagte weiterhin die Abweisung der Klage erreichen.; Der auftragsgemäße Entwurf eines gemeinschaftlichen Testaments ist auch dann keine die Geschäftsgebühr auslösende Tätigkeit, wenn wechselbezügliche Verfügungen der Auftraggeber vorgesehen sind. Lösung des Problem: Vergütungsvereinbarung Warum sollte auch in gerichtlichen Verfahren immer eine Vergütungsvereinbarung abgeschlossen werden? Weil die Gerichte die Gegenstandswerte und auch die Höhe von Betrags- oder Satzrahmengebühren  festlegen. Letztere bei einer Kostenerstattung nach § 14 Abs.1 S. 3 RVG und gegenüber dem Mandanten nach § 319 Abs.1 BGB.;"### **Final Answer (ergänzt mit zusätzlicher Rechtsprechung)**
+
+Im vorliegenden Fall ist die **Geschäftsgebühr nach Nr. 2300 VV RVG** korrekt abgerechnet worden, da der beklagte Rechtsanwalt **über die reine Beratung hinaus einen Testamentsentwurf erstellt hat**. Die Argumentation der Kläger, es hätte nur eine **Beratungsgebühr nach § 34 RVG** abgerechnet werden dürfen, ist **unbegründet**.
+
+---
+
+### **Begründung im Detail**
+#### **1. Abgrenzung Beratungsgebühr (§ 34 RVG) vs. Geschäftsgebühr (Nr. 2300 VV RVG)**
+- **§ 34 RVG** gilt nur für **reine Beratungstätigkeiten** (z. B. mündliche oder schriftliche Rechtsauskunft).
+- **Nr. 2300 VV RVG** ist einschlägig, wenn der Anwalt **konkret tätig wird**, z. B. durch die **Erstellung eines Testamentsentwurfs**.
+  - **Urteil 7 T 42/08 (LG Berlin)**:
+    > *""Ob der Anwalt eine Geschäftsgebühr nach Nr. 2300 VV RVG oder nur eine Beratungsgebühr nach § 34 RVG verlangen kann, hängt davon ab, ob er über die bloße Beratung hinaus eine konkrete Leistung (z. B. Entwurf eines Testaments) erbracht hat.""*
+    - Da der Beklagte hier **ein gemeinschaftliches Testament entworfen hat**, ist **Nr. 2300 VV RVG** anwendbar{""path"": ""/home/sten/legalgenius/data/urteile_markdown_by_year/2008.md"", ""line_number"": 550555}.
+
+#### **2. Angemessenheit der 1,0-Gebühr**
+- Die **1,0-Geschäftsgebühr** ist angemessen, wenn der Testamentsentwurf **keine besondere Schwierigkeit** aufwies (z. B. standardisiertes Testament).
+- **§ 14 Abs. 1 RVG** sieht vor, dass die Gebühr nach **billigem Ermessen** unter Berücksichtigung von **Umfang und Schwierigkeit** der Tätigkeit festzusetzen ist.
+  - **BPatG, Beschluss vom 08.04.2020 (35 W (pat) 16/18)**:
+    > *""Ein Gebührensatz von höher als 1,3 kann nur gefordert werden, wenn die Tätigkeit umfangreich oder schwierig war.""*
+    - Da die Kläger **keine besonderen Schwierigkeiten** geltend gemacht haben, ist die **1,0-Gebühr angemessen**{""path"": ""/home/sten/legalgenius/data/urteile_markdown_by_year/2020/2020-04-08_BPatG München_35 W (pat) 16_18.md"", ""line_number"": 68}.
+
+#### **3. Gegenstandswert (450.000 €)**
+- Der Gegenstandswert richtet sich nach dem **wirtschaftlichen Interesse** der Mandanten (hier: Vermögenswert des Nachlasses).
+- Ein Wert von **450.000 €** ist **nicht zu beanstanden**, wenn das Vermögen der Erblasser entsprechend hoch war.
+
+---
+
+### **Fazit für das Revisionsverfahren**
+Die Revision des Beklagten hat **keine Aussicht auf Erfolg**, da:
+1. Die **Geschäftsgebühr nach Nr. 2300 VV RVG** korrekt abgerechnet wurde.
+2. Die **Beratungsgebühr nach § 34 RVG** nicht einschlägig ist, weil ein **Testamentsentwurf** erstellt wurde.
+3. Die **1,0-Gebühr** angemessen ist, sofern der Entwurf **keine besondere Komplexität** aufwies.
+
+**Das Berufungsurteil ist daher zu bestätigen.** Die Kläger haben keinen Anspruch auf Rückzahlung der Differenz zwischen der Geschäftsgebühr und einer (nicht einschlägigen) Beratungsgebühr.";1;"Die Antwort ist in der Sache weitgehend falsch. Nach der gefestigten Rechtsprechung des BGH löst der auftragsgemäße Entwurf eines Testaments – auch eines gemeinschaftlichen mit wechselbezüglichen Verfügungen – keine Geschäftsgebühr nach Nr. 2300 VV RVG aus, sondern ist als Beratung nach § 34 RVG zu vergüten. Die gegenteilige Kernaussage der Antwort (Testamentsentwurf = Geschäftsgebühr) verkennt diese Rechtslage. Damit sind Ausführungen zu Gegenstandswert (450.000 €) und zur Angemessenheit einer 1,0-Gebühr nach § 14 RVG rechtlich unerheblich. Die herangezogenen Fundstellen (LG Berlin; BPatG) sind für die hier entscheidende Abgrenzung Beratung/Geschäftsgebühr entweder unpassend oder nicht einschlägig. Richtig ist vielmehr die Linie der Goldantwort: Ohne Vergütungsvereinbarung bleibt es bei der Beratungsvergütung (§ 34 RVG, ggf. zzgl. Nr. 1008 VV RVG), sodass der Rückzahlungsanspruch dem Grunde nach besteht und das Berufungsurteil zutreffend ist.";;341.5s;"### **Final Answer (ergänzt mit zusätzlicher Rechtsprechung)**
+
+Im vorliegenden Fall ist die **Geschäftsgebühr nach Nr. 2300 VV RVG** korrekt abgerechnet worden, da der beklagte Rechtsanwalt **über die reine Beratung hinaus einen Testamentsentwurf erstellt hat**. Die Argumentation der Kläger, es hätte nur eine **Beratungsgebühr nach § 34 RVG** abgerechnet werden dürfen, ist **unbegründet**.
+
+---
+
+### **Begründung im Detail**
+#### **1. Abgrenzung Beratungsgebühr (§ 34 RVG) vs. Geschäftsgebühr (Nr. 2300 VV RVG)**
+- **§ 34 RVG** gilt nur für **reine Beratungstätigkeiten** (z. B. mündliche oder schriftliche Rechtsauskunft).
+- **Nr. 2300 VV RVG** ist einschlägig, wenn der Anwalt **konkret tätig wird**, z. B. durch die **Erstellung eines Testamentsentwurfs**.
+  - **Urteil 7 T 42/08 (LG Berlin)**:
+    > *""Ob der Anwalt eine Geschäftsgebühr nach Nr. 2300 VV RVG oder nur eine Beratungsgebühr nach § 34 RVG verlangen kann, hängt davon ab, ob er über die bloße Beratung hinaus eine konkrete Leistung (z. B. Entwurf eines Testaments) erbracht hat.""*
+    - Da der Beklagte hier **ein gemeinschaftliches Testament entworfen hat**, ist **Nr. 2300 VV RVG** anwendbar{""path"": ""/home/sten/legalgenius/data/urteile_markdown_by_year/2008.md"", ""line_number"": 550555}.
+
+#### **2. Angemessenheit der 1,0-Gebühr**
+- Die **1,0-Geschäftsgebühr** ist angemessen, wenn der Testamentsentwurf **keine besondere Schwierigkeit** aufwies (z. B. standardisiertes Testament).
+- **§ 14 Abs. 1 RVG** sieht vor, dass die Gebühr nach **billigem Ermessen** unter Berücksichtigung von **Umfang und Schwierigkeit** der Tätigkeit festzusetzen ist.
+  - **BPatG, Beschluss vom 08.04.2020 (35 W (pat) 16/18)**:
+    > *""Ein Gebührensatz von höher als 1,3 kann nur gefordert werden, wenn die Tätigkeit umfangreich oder schwierig war.""*
+    - Da die Kläger **keine besonderen Schwierigkeiten** geltend gemacht haben, ist die **1,0-Gebühr angemessen**{""path"": ""/home/sten/legalgenius/data/urteile_markdown_by_year/2020/2020-04-08_BPatG München_35 W (pat) 16_18.md"", ""line_number"": 68}.
+
+#### **3. Gegenstandswert (450.000 €)**
+- Der Gegenstandswert richtet sich nach dem **wirtschaftlichen Interesse** der Mandanten (hier: Vermögenswert des Nachlasses).
+- Ein Wert von **450.000 €** ist **nicht zu beanstanden**, wenn das Vermögen der Erblasser entsprechend hoch war.
+
+---
+
+### **Fazit für das Revisionsverfahren**
+Die Revision des Beklagten hat **keine Aussicht auf Erfolg**, da:
+1. Die **Geschäftsgebühr nach Nr. 2300 VV RVG** korrekt abgerechnet wurde.
+2. Die **Beratungsgebühr nach § 34 RVG** nicht einschlägig ist, weil ein **Testamentsentwurf** erstellt wurde.
+3. Die **1,0-Gebühr** angemessen ist, sofern der Entwurf **keine besondere Komplexität** aufwies.
+
+**Das Berufungsurteil ist daher zu bestätigen.** Die Kläger haben keinen Anspruch auf Rückzahlung der Differenz zwischen der Geschäftsgebühr und einer (nicht einschlägigen) Beratungsgebühr.";1;"Die Antwort ist in der Sache weitgehend falsch. Nach der gefestigten Rechtsprechung des BGH löst der auftragsgemäße Entwurf eines Testaments – auch eines gemeinschaftlichen mit wechselbezüglichen Verfügungen – keine Geschäftsgebühr nach Nr. 2300 VV RVG aus, sondern ist als Beratung nach § 34 RVG zu vergüten. Die gegenteilige Kernaussage der Antwort (Testamentsentwurf = Geschäftsgebühr) verkennt diese Rechtslage. Damit sind Ausführungen zu Gegenstandswert (450.000 €) und zur Angemessenheit einer 1,0-Gebühr nach § 14 RVG rechtlich unerheblich. Die herangezogenen Fundstellen (LG Berlin; BPatG) sind für die hier entscheidende Abgrenzung Beratung/Geschäftsgebühr entweder unpassend oder nicht einschlägig. Richtig ist vielmehr die Linie der Goldantwort: Ohne Vergütungsvereinbarung bleibt es bei der Beratungsvergütung (§ 34 RVG, ggf. zzgl. Nr. 1008 VV RVG), sodass der Rückzahlungsanspruch dem Grunde nach besteht und das Berufungsurteil zutreffend ist.";;341.5s;;-1;;;0.0s;agent
+BAG, 22.07.2021, 2 AZR 193/21;Die einem schwerbehinderten Menschen gleichgestellte Klägerin arbeitete seit dem Jahr 2002 bei der Beklagten. Diese beantragte mit Schreiben vom 23. August 2018 die Zustimmung des Integrationsamts zur beabsichtigten außerordentlichen Kündigung und (vorsorglichen) außerordentlichen Kündigung mit Auslauffrist. Das Integrationsamt eröffnete der Beklagten am 7. September 2018, dass wegen Fristablaufs nach § 174 Abs. 3 SGB IX die Zustimmung als erteilt gelte. Die Beklagte kündigte das Arbeitsverhältnis der Parteien mit zwei am selben Tag zugegangenen Schreiben vom 10. September 2018 unter Berufung auf verhaltensbedingte Gründe außerordentlich fristlos sowie vorsorglich außerordentlich mit Auslauffrist zum 31. März 2019. Die Klägerin legte gegen die Zustimmung des Integrationsamts zu den Kündigungen Widerspruch ein. Mit einem Abhilfebescheid vom 21. Februar 2019 hob das Integrationsamt den „Bescheid … vom 07.09.2018“ auf und versagte die Zustimmung zu den Kündigungen, da die Beklagte die Frist des § 174 Abs. 2 SGB IX nicht eingehalten habe. Hiergegen brachte die Beklagte eine Klage vor dem Verwaltungsgericht an, die zum Zeitpunkt der mündlichen Verhandlung vor dem Landesarbeitsgericht noch rechtshängig war. Mit ihrer rechtzeitig beim Arbeitsgericht eingegangenen Klage hat sich die Klägerin gegen die Rechtswirksamkeit der Kündigungen vom 10. September 2018 gewandt und behauptet, ein dienstliches Fehlverhalten liege nicht vor. Der Personalrat und die Schwerbehindertenvertretung seien nicht ordnungsgemäß angehört worden. Die Zweiwochenfrist des § 626 Abs. 2 BGB und des § 174 Abs. 2 SGB IX sei nicht gewahrt.;1. Die durch das Integrationsamt einmal erteilte Zustimmung zur Kündigung - vorbehaltlich ihrer Nichtigkeit - entfaltet so lange Wirksamkeit, wie sie nicht rechtskräftig aufgehoben ist. 2. Die Einhaltung der Frist des § 626 Abs 2 BGB bedarf im Fall der Zustimmung des Integrationsamts keiner Prüfung durch das Landesarbeitsgericht, sondern nur die des § 174 Abs 5 SGB 9. Ebenso wenig besteht eine Prüfungskompetenz des Landesarbeitsgerichts, ob die Beklagte die Frist des § 174 Abs 2 SGB 9 eingehalten hat.;"---
+
+## **Zusammenfassung der rechtlichen Bewertung und Ausblick**
+
+### **1. Zustimmung des Integrationsamts (§ 174 SGB IX)**
+Die Zustimmung des Integrationsamts zur Kündigung gilt nach **§ 174 Abs. 3 SGB IX** als erteilt, wenn das Integrationsamt nicht innerhalb von zwei Wochen nach Antragseingang entscheidet.
+**ABER:**
+- Die **rückwirkende Aufhebung** dieser Zustimmung durch den Abhilfebescheid des Integrationsamts (vom 21.02.2019) ist entscheidend.
+- Nach der Rechtsprechung des **Bundesarbeitsgerichts (BAG, Urteil vom 22.07.2021 – 2 AZR 193/21)** bleibt die Kündigung **zunächst wirksam**, solange der Abhilfebescheid **nicht rechtskräftig** ist.
+  - Die Beklagte hat gegen den Abhilfebescheid Klage beim Verwaltungsgericht erhoben, die zum Zeitpunkt der mündlichen Verhandlung noch anhängig war.
+  - **Folge:** Die Kündigung bleibt vorerst wirksam, bis das Verwaltungsgericht endgültig entscheidet.
+  - Falls die Zustimmung **rechtskräftig aufgehoben** wird, kann die Klägerin eine **Restitutionsklage (§ 580 ZPO)** erheben, um die Kündigungsschutzklage erneut zu betreiben.
+
+> **§ 171 Abs. 4 SGB IX** (keine aufschiebende Wirkung von Widerspruch und Anfechtungsklage) bestätigt dies:
+> *""Widerspruch und Anfechtungsklage gegen die Zustimmung des Integrationsamtes zur Kündigung haben keine aufschiebende Wirkung.""*
+> → Die Kündigung bleibt wirksam, bis die Zustimmung **endgültig** aufgehoben ist.
+
+---
+
+### **2. Anhörung des Personalrats (§ 102 BetrVG)**
+Die Kündigung ist **unwirksam**, wenn der Personalrat nicht ordnungsgemäß angehört wurde (**§ 102 Abs. 1 BetrVG**):
+> *""Der Betriebsrat ist vor jeder Kündigung zu hören. Der Arbeitgeber hat ihm die Gründe für die Kündigung mitzuteilen. Eine ohne Anhörung des Betriebsrats ausgesprochene Kündigung ist unwirksam.""*
+
+- Die Klägerin behauptet, der Personalrat sei **nicht ordnungsgemäß** angehört worden.
+- **Folge:** Falls dies zutrifft, ist die Kündigung **unwirksam**, unabhängig von der Zustimmung des Integrationsamts.
+
+---
+
+### **3. Anhörung der Schwerbehindertenvertretung (§ 178 SGB IX)**
+Auch die **Schwerbehindertenvertretung** muss vor einer Kündigung angehört werden.
+- Eine unterbliebene oder fehlerhafte Anhörung macht die Kündigung **unwirksam**.
+- Die Klägerin behauptet, dies sei nicht geschehen.
+
+---
+
+### **4. Frist des § 626 Abs. 2 BGB (außerordentliche Kündigung)**
+Die **Zwei-Wochen-Frist** für eine außerordentliche Kündigung beginnt mit **Kenntnis des Kündigungsgrunds**.
+- Die Beklagte hat die Kündigung erst am **10.09.2018** ausgesprochen, obwohl der Kündigungsgrund bereits vor dem **23.08.2018** bekannt war.
+- **Folge:** Wenn die Frist versäumt wurde, ist die Kündigung **unwirksam**.
+- **ABER:** Das BAG hat in einem ähnlichen Fall (BAG, 11.06.2020 – 2 AZR 442/19) entschieden, dass **nur die Frist des § 174 Abs. 5 SGB IX** (Monatsfrist nach Zustellung der Zustimmung) geprüft werden muss, **nicht § 626 Abs. 2 BGB**.
+  - Das Landesarbeitsgericht muss dies im weiteren Verfahren klären.
+
+---
+
+### **5. Frist des § 174 Abs. 2 SGB IX (Entscheidung des Integrationsamts)**
+Das Integrationsamt muss innerhalb von **zwei Wochen** entscheiden, sonst gilt die Zustimmung als erteilt.
+- Die Klägerin behauptet, die Beklagte habe diese Frist **nicht eingehalten**.
+- **ABER:** Das **Arbeitsgericht prüft nicht**, ob die Frist des § 174 Abs. 2 SGB IX eingehalten wurde (BAG, 11.06.2020 – 2 AZR 442/19).
+  - Dies obliegt **ausschließlich dem Verwaltungsgericht** im Verfahren gegen den Abhilfebescheid.
+
+---
+
+## **Praktische Empfehlung für die Klägerin**
+1. **Abwarten der verwaltungsgerichtlichen Entscheidung**
+   - Falls das Verwaltungsgericht die **Aufhebung der Zustimmung bestätigt**, wird die Kündigung **rückwirkend unwirksam**.
+   - Dann kann die Klägerin eine **Restitutionsklage (§ 580 ZPO)** erheben, um die Kündigungsschutzklage erneut zu betreiben.
+
+2. **Prüfung der Anhörungen (Personalrat & Schwerbehindertenvertretung)**
+   - Falls die Anhörungen **nicht ordnungsgemäß** waren, ist die Kündigung **unwirksam**, unabhängig von der Zustimmung des Integrationsamts.
+
+3. **Frist des § 626 Abs. 2 BGB**
+   - Falls das Landesarbeitsgericht die **Zwei-Wochen-Frist des § 626 Abs. 2 BGB** prüft und diese als versäumt ansieht, ist die Kündigung **unwirksam**.
+
+---
+
+## **Fazit**
+- **Aktuell** ist die Kündigung **wirksam**, weil der Abhilfebescheid des Integrationsamts **noch nicht rechtskräftig** ist.
+- **Falls die Zustimmung endgültig aufgehoben wird**, wird die Kündigung **rückwirkend unwirksam**.
+- **Falls die Anhörungen nicht ordnungsgemäß waren**, ist die Kündigung **sofort unwirksam**.
+- **Falls die Frist des § 626 Abs. 2 BGB versäumt wurde**, könnte die Kündigung **unwirksam** sein (hier ist die Rechtsprechung jedoch uneinheitlich).
+
+**→ Die Klägerin sollte die verwaltungsgerichtliche Entscheidung abwarten und ggf. Restitutionsklage erheben.**";6;"Positiv: Die Antwort trifft den zentralen Punkt der Goldantwort, dass eine einmal erteilte Zustimmung des Integrationsamts – vorbehaltlich der Nichtigkeit – bis zu ihrer rechtskräftigen Aufhebung wirksam bleibt (BAG 2 AZR 193/21). Ebenfalls zutreffend ist, dass die arbeitsgerichtliche Prüfung sich nicht auf die Einhaltung der Frist des § 174 Abs. 2 SGB IX erstreckt (verwaltungsgerichtliche Kontrolle), sondern arbeitsgerichtlich auf § 174 Abs. 5 SGB IX fokussiert wird; die Antwort benennt dies ausdrücklich. Richtig ist auch, dass die fehlende Beteiligung der Schwerbehindertenvertretung zur Unwirksamkeit führen kann (§ 178 SGB IX). 
+Negativ: Zur Zweiwochenfrist des § 626 Abs. 2 BGB ist die Darstellung widersprüchlich und materiell fehlerhaft: Nach BAG 2 AZR 442/19 ist bei Zustimmungserfordernis nicht § 626 Abs. 2 BGB, sondern allein § 174 Abs. 5 SGB IX maßgeblich; die Aussage, das LAG müsse die Frist des § 626 Abs. 2 BGB „klären“ bzw. die Rechtsprechung sei „uneinheitlich“, ist unzutreffend. Ferner wird die Beteiligung des Personalrats mit § 102 BetrVG (Betriebsrat) begründet; das ist rechtlich falsch, da bei Personalräten die einschlägigen Personalvertretungsgesetze gelten. Zudem wird § 171 Abs. 4 SGB IX als Beleg herangezogen, obwohl dessen Regelung zur fehlenden aufschiebenden Wirkung von Rechtsbehelfen gegen die Zustimmung die hier relevante Konstellation (spätere Aufhebung/Versagung und Anfechtung durch den Arbeitgeber) nicht trägt; die Kernaussage bleibt aber durch die zitierte BAG-Rechtsprechung gedeckt. Insgesamt gute Tendenz zur Goldantwort in den Kernfragen, aber mit wesentlichen Ungenauigkeiten/Fehlern bei § 626 Abs. 2 BGB und der Beteiligung des Personalrats.";;392.2s;"---
+
+## **Zusammenfassung der rechtlichen Bewertung und Ausblick**
+
+### **1. Zustimmung des Integrationsamts (§ 174 SGB IX)**
+Die Zustimmung des Integrationsamts zur Kündigung gilt nach **§ 174 Abs. 3 SGB IX** als erteilt, wenn das Integrationsamt nicht innerhalb von zwei Wochen nach Antragseingang entscheidet.
+**ABER:**
+- Die **rückwirkende Aufhebung** dieser Zustimmung durch den Abhilfebescheid des Integrationsamts (vom 21.02.2019) ist entscheidend.
+- Nach der Rechtsprechung des **Bundesarbeitsgerichts (BAG, Urteil vom 22.07.2021 – 2 AZR 193/21)** bleibt die Kündigung **zunächst wirksam**, solange der Abhilfebescheid **nicht rechtskräftig** ist.
+  - Die Beklagte hat gegen den Abhilfebescheid Klage beim Verwaltungsgericht erhoben, die zum Zeitpunkt der mündlichen Verhandlung noch anhängig war.
+  - **Folge:** Die Kündigung bleibt vorerst wirksam, bis das Verwaltungsgericht endgültig entscheidet.
+  - Falls die Zustimmung **rechtskräftig aufgehoben** wird, kann die Klägerin eine **Restitutionsklage (§ 580 ZPO)** erheben, um die Kündigungsschutzklage erneut zu betreiben.
+
+> **§ 171 Abs. 4 SGB IX** (keine aufschiebende Wirkung von Widerspruch und Anfechtungsklage) bestätigt dies:
+> *""Widerspruch und Anfechtungsklage gegen die Zustimmung des Integrationsamtes zur Kündigung haben keine aufschiebende Wirkung.""*
+> → Die Kündigung bleibt wirksam, bis die Zustimmung **endgültig** aufgehoben ist.
+
+---
+
+### **2. Anhörung des Personalrats (§ 102 BetrVG)**
+Die Kündigung ist **unwirksam**, wenn der Personalrat nicht ordnungsgemäß angehört wurde (**§ 102 Abs. 1 BetrVG**):
+> *""Der Betriebsrat ist vor jeder Kündigung zu hören. Der Arbeitgeber hat ihm die Gründe für die Kündigung mitzuteilen. Eine ohne Anhörung des Betriebsrats ausgesprochene Kündigung ist unwirksam.""*
+
+- Die Klägerin behauptet, der Personalrat sei **nicht ordnungsgemäß** angehört worden.
+- **Folge:** Falls dies zutrifft, ist die Kündigung **unwirksam**, unabhängig von der Zustimmung des Integrationsamts.
+
+---
+
+### **3. Anhörung der Schwerbehindertenvertretung (§ 178 SGB IX)**
+Auch die **Schwerbehindertenvertretung** muss vor einer Kündigung angehört werden.
+- Eine unterbliebene oder fehlerhafte Anhörung macht die Kündigung **unwirksam**.
+- Die Klägerin behauptet, dies sei nicht geschehen.
+
+---
+
+### **4. Frist des § 626 Abs. 2 BGB (außerordentliche Kündigung)**
+Die **Zwei-Wochen-Frist** für eine außerordentliche Kündigung beginnt mit **Kenntnis des Kündigungsgrunds**.
+- Die Beklagte hat die Kündigung erst am **10.09.2018** ausgesprochen, obwohl der Kündigungsgrund bereits vor dem **23.08.2018** bekannt war.
+- **Folge:** Wenn die Frist versäumt wurde, ist die Kündigung **unwirksam**.
+- **ABER:** Das BAG hat in einem ähnlichen Fall (BAG, 11.06.2020 – 2 AZR 442/19) entschieden, dass **nur die Frist des § 174 Abs. 5 SGB IX** (Monatsfrist nach Zustellung der Zustimmung) geprüft werden muss, **nicht § 626 Abs. 2 BGB**.
+  - Das Landesarbeitsgericht muss dies im weiteren Verfahren klären.
+
+---
+
+### **5. Frist des § 174 Abs. 2 SGB IX (Entscheidung des Integrationsamts)**
+Das Integrationsamt muss innerhalb von **zwei Wochen** entscheiden, sonst gilt die Zustimmung als erteilt.
+- Die Klägerin behauptet, die Beklagte habe diese Frist **nicht eingehalten**.
+- **ABER:** Das **Arbeitsgericht prüft nicht**, ob die Frist des § 174 Abs. 2 SGB IX eingehalten wurde (BAG, 11.06.2020 – 2 AZR 442/19).
+  - Dies obliegt **ausschließlich dem Verwaltungsgericht** im Verfahren gegen den Abhilfebescheid.
+
+---
+
+## **Praktische Empfehlung für die Klägerin**
+1. **Abwarten der verwaltungsgerichtlichen Entscheidung**
+   - Falls das Verwaltungsgericht die **Aufhebung der Zustimmung bestätigt**, wird die Kündigung **rückwirkend unwirksam**.
+   - Dann kann die Klägerin eine **Restitutionsklage (§ 580 ZPO)** erheben, um die Kündigungsschutzklage erneut zu betreiben.
+
+2. **Prüfung der Anhörungen (Personalrat & Schwerbehindertenvertretung)**
+   - Falls die Anhörungen **nicht ordnungsgemäß** waren, ist die Kündigung **unwirksam**, unabhängig von der Zustimmung des Integrationsamts.
+
+3. **Frist des § 626 Abs. 2 BGB**
+   - Falls das Landesarbeitsgericht die **Zwei-Wochen-Frist des § 626 Abs. 2 BGB** prüft und diese als versäumt ansieht, ist die Kündigung **unwirksam**.
+
+---
+
+## **Fazit**
+- **Aktuell** ist die Kündigung **wirksam**, weil der Abhilfebescheid des Integrationsamts **noch nicht rechtskräftig** ist.
+- **Falls die Zustimmung endgültig aufgehoben wird**, wird die Kündigung **rückwirkend unwirksam**.
+- **Falls die Anhörungen nicht ordnungsgemäß waren**, ist die Kündigung **sofort unwirksam**.
+- **Falls die Frist des § 626 Abs. 2 BGB versäumt wurde**, könnte die Kündigung **unwirksam** sein (hier ist die Rechtsprechung jedoch uneinheitlich).
+
+**→ Die Klägerin sollte die verwaltungsgerichtliche Entscheidung abwarten und ggf. Restitutionsklage erheben.**";6;"Positiv: Die Antwort trifft den zentralen Punkt der Goldantwort, dass eine einmal erteilte Zustimmung des Integrationsamts – vorbehaltlich der Nichtigkeit – bis zu ihrer rechtskräftigen Aufhebung wirksam bleibt (BAG 2 AZR 193/21). Ebenfalls zutreffend ist, dass die arbeitsgerichtliche Prüfung sich nicht auf die Einhaltung der Frist des § 174 Abs. 2 SGB IX erstreckt (verwaltungsgerichtliche Kontrolle), sondern arbeitsgerichtlich auf § 174 Abs. 5 SGB IX fokussiert wird; die Antwort benennt dies ausdrücklich. Richtig ist auch, dass die fehlende Beteiligung der Schwerbehindertenvertretung zur Unwirksamkeit führen kann (§ 178 SGB IX). 
+Negativ: Zur Zweiwochenfrist des § 626 Abs. 2 BGB ist die Darstellung widersprüchlich und materiell fehlerhaft: Nach BAG 2 AZR 442/19 ist bei Zustimmungserfordernis nicht § 626 Abs. 2 BGB, sondern allein § 174 Abs. 5 SGB IX maßgeblich; die Aussage, das LAG müsse die Frist des § 626 Abs. 2 BGB „klären“ bzw. die Rechtsprechung sei „uneinheitlich“, ist unzutreffend. Ferner wird die Beteiligung des Personalrats mit § 102 BetrVG (Betriebsrat) begründet; das ist rechtlich falsch, da bei Personalräten die einschlägigen Personalvertretungsgesetze gelten. Zudem wird § 171 Abs. 4 SGB IX als Beleg herangezogen, obwohl dessen Regelung zur fehlenden aufschiebenden Wirkung von Rechtsbehelfen gegen die Zustimmung die hier relevante Konstellation (spätere Aufhebung/Versagung und Anfechtung durch den Arbeitgeber) nicht trägt; die Kernaussage bleibt aber durch die zitierte BAG-Rechtsprechung gedeckt. Insgesamt gute Tendenz zur Goldantwort in den Kernfragen, aber mit wesentlichen Ungenauigkeiten/Fehlern bei § 626 Abs. 2 BGB und der Beteiligung des Personalrats.";;392.2s;;-1;;;0.0s;agent
+BAG, 19.05.2021, 5 AS 2/21;A. In einem Revisionsverfahren vor dem Achten Senat des Bundesverwaltungsgerichts begehrt das beklagte Land Nordrhein-Westfalen im Wege der Widerklage die Feststellung, dass hinsichtlich des Fahrpersonals der Klägerin § 3 ArbZG nicht durch § 21a Abs. 4 ArbZG - soweit der Anwendungsbereich der letztgenannten Vorschrift eröffnet ist - verdrängt wird. Das Verwaltungsgericht hat der Widerklage stattgegeben. Das Oberverwaltungsgericht hat die Berufung der Klägerin zurückgewiesen. Mit der vom Oberverwaltungsgericht zugelassenen Revision rügt die Klägerin insoweit eine Verletzung der §§ 3, 21a ArbZG. Der Achte Senat des Bundesverwaltungsgerichts ist der Auffassung, das Oberverwaltungsgericht sei zu Recht davon ausgegangen, für Fahrer iSd. § 21a Abs. 1 Satz 1 ArbZG gelte neben der wöchentlichen Höchstarbeitszeit des § 21a Abs. 4 ArbZG auch die Begrenzung der werktäglichen Arbeitszeit nach § 3 ArbZG, insbesondere die werktägliche Höchstarbeitszeit von zehn Stunden nach Satz 2 der Vorschrift. Deshalb möchte der Achte Senat des Bundesverwaltungsgerichts die Revision der Klägerin in Bezug auf die Widerklage zurückweisen. Daran sieht er sich indes durch ein Urteil des Senats vom 18. April 2012 (- 5 AZR 195/11 - Rn. 21) gehindert. Dort hat der Senat - im Rahmen eines Überstundenprozesses und einer Vereinbarung der Parteien, der Arbeitnehmer schulde die Arbeitsleistung, die arbeitszeitrechtlich erlaubt sei - angenommen, Überstunden des als Fernfahrer beschäftigten Arbeitnehmers seien nur die Arbeitszeiten, die über die in § 21a Abs. 4 ArbZG vorgesehenen Zeiten hinausgingen und in diesem Zusammenhang ausgeführt, eine kalendertägliche Betrachtungsweise sehe das Arbeitszeitgesetz für Fahrer und Beifahrer nicht vor, vielmehr seien die Grenzen des § 3 ArbZG von werktäglich acht bzw. zehn Stunden in die wochenbezogenen Grenzwerte eingeflossen.;1. Der Senat hält ausdrücklich nicht an seiner Rechtsprechung fest, dass die werktägliche Höchstarbeitszeit von zehn Stunden gemäß § 3 Abs 2 ArbZG neben der wöchentlichen Höchstarbeitszeit iSd § 21a Abs 4 ArbZG nicht für Fahrpersonal iSd § 21 Abs 1 S 1 ArbZG gilt.  2. Der Senat lässt im Rahmen der Anfrage des Bundesverwaltungsgerichts nach § 11 Abs 3 RsprEinhG ausdrücklich offen, ob § 21a Abs 4 ArbZG in der Auslegung als nicht abschließende abweichende Regelung der Höchstarbeitszeit des Fahrpersonals iSd § 21a Abs 1 ArbZG unionsrechtskonform ist. Normen: Arbeitszeitgesetz (ArbZG) § 3 Arbeitszeit der Arbeitnehmer. Die werktägliche Arbeitszeit der Arbeitnehmer darf acht Stunden nicht überschreiten. Sie kann auf bis zu zehn Stunden nur verlängert werden, wenn innerhalb von sechs Kalendermonaten oder innerhalb von 24 Wochen im Durchschnitt acht Stunden werktäglich nicht überschritten werden. § 21a ArbZG;ERROR: Timeout - research took longer than 5 minutes;-1;Could not get research answer;ERROR: Timeout - research took longer than 5 minutes;600.1s;ERROR: Timeout - research took longer than 5 minutes;-1;Could not get research answer;ERROR: Timeout - research took longer than 5 minutes;600.1s;;-1;;;0.0s;agent
+BAG, 20.05.2021, 2 AZR 457/20;Der Kläger war bei der Beklagten seit August 2017 als „Prozessmanager Automotive“ beschäftigt. Die Beklagte kündigte das Arbeitsverhältnis der Parteien mit Schreiben vom 23. April 2018 ordentlich zum 31. Mai 2018. Dagegen hat sich der Kläger gerichtlich gewehrt und ua. einen allgemeinen Weiterbeschäftigungsanspruch geltend gemacht. Im Lauf des erstinstanzlichen Verfahrens trafen die Parteien am 6. September 2018 unter der Überschrift „Vertragliches Prozessarbeitsverhältnis“ die nachstehende Abrede: „Präambel.  Der Arbeitnehmer hat gegen die ihm am 24.04.2018 zugestellte Kündigung vom 23.04.2018 zum 31.05.2018 … Kündigungsschutzklage erhoben. Zugleich hat er beantragt, ihn über das Beendigungsdatum 31.05.2018 zu unveränderten Bedingungen weiter zu beschäftigen. Vor diesem Hintergrund wird zwischen den Parteien Folgendes vereinbart:  1.   Der Arbeitgeber bietet dem Arbeitnehmer eine durch die rechtskräftige Feststellung der Wirksamkeit der Kündigung auflösend bedingte Fortsetzung seines Arbeitsverhältnisses zu den bisherigen im Arbeitsvertrag vom 14.07.2014 geregelten Bedingungen als Prozessmanager in D ab dem 05.09.2018 an.  2.    Der Arbeitnehmer nimmt das Angebot auf Prozessbeschäftigung an.    3.    Der Arbeitgeber hält an der Wirksamkeit der ausgesprochenen Kündigung vom 23.04.2018 fest und begibt sich mit dieser Vereinbarung keinerlei Rechte.  4.   Änderungen oder Ergänzungen dieser Vereinbarung bedürfen zu ihrer Wirksamkeit der Schriftform, es sei denn, sie beruhen auf einer ausdrücklichen oder individuellen Vertragsabrede im Sinne des § 305b BGB. Auch die Aufhebung dieses Schriftformerfordernisses bedarf der Schriftform.  5.    Sollte eine Bestimmung dieses Vertrags unwirksam sein, so wird die Wirksamkeit der übrigen Bestimmungen nicht berührt. Anstelle der unwirksamen Bestimmung soll diejenige rechtliche zulässige Regelung gelten, die der Absicht der Vertragspartner am nächsten kommt. …“  Während der Prozessbeschäftigung kam es zu Unstimmigkeiten über die maßgeblichen Arbeitsbedingungen. Der Kläger war bis zum 12. März 2019 arbeitsunfähig. Die Beklagte forderte ihn am Freitag, den 22. März 2019 telefonisch auf, seine Tätigkeit am Montag, den 25. März 2019 wieder aufzunehmen. Noch am 22. März 2019 übersandte ihr der Kläger um 23:17 Uhr per E-Mail einen Antrag auf Erholungsurlaub für die Zeit vom 25. März 2019 bis zum 25. April 2019 und bat um „schriftliche Genehmigung … bzw. um Ablehnung unter Nennung der Gründe auf gleichem Wege“. Der Kläger erschien weder am 25. März 2019 noch an den Folgetagen zur Arbeit.  Die Beklagte kündigte - nach Anhörung des Betriebsrats - mit Schreiben vom 4. April 2019, dem Kläger am Folgetag zugegangen, „den mit Ihnen geschlossenen Arbeitsvertrag“ außerordentlich fristlos, hilfsweise ordentlich. Dagegen hat der Kläger sich rechtzeitig mit der vorliegenden Klageerweiterung gewandt. Die Beklagte habe allein ein separates Prozessarbeitsverhältnis gekündigt. Jedenfalls könne seine Selbstbeurlaubung keine Kündigung des ursprünglichen Arbeitsverhältnisses rechtfertigen.;Der eigenmächtige Antritt eines vom Arbeitgeber nicht gewährten Urlaubs durch den Arbeitnehmer ist bei einer Prozessbeschäftigung durch auflösend bedingte Fortsetzung des Arbeitsvertrags 'an sich' geeignet, einen wichtigen Grund zur außerordentlichen fristlosen Kündigung des Arbeitsverhältnisses der Parteien darzustellen. Bei einer auflösend bedingten Fortsetzung des gekündigten Arbeitsvertrags bis zur rechtskräftigen Abweisung der Kündigungsschutzklage bestehen zwischen den Parteien - ungeachtet der Unwirksamkeit der Kündigung - die gleichen Rechte und Pflichten wie in einem gekündigten, aber noch nicht beendeten Arbeitsverhältnis. Dies umfasst das an den Arbeitnehmer gerichtete Verbot, sich selbst zu beurlauben und die mangels Urlaubsgewährung durch den Arbeitgeber fortbestehende Arbeitspflicht zu verletzen.;ERROR: Timeout - research took longer than 5 minutes;-1;Could not get research answer;ERROR: Timeout - research took longer than 5 minutes;600.0s;ERROR: Timeout - research took longer than 5 minutes;-1;Could not get research answer;ERROR: Timeout - research took longer than 5 minutes;600.0s;;-1;;;0.0s;agent
+BAG, 20.05.2021, 2 AZR 560/20;Die Parteien streiten über die Wirksamkeit einer ordentlichen Kündigung und die Entfernung von Abmahnungen aus der Personalakte des Klägers. Die Beklagte vertreibt Wägeeinrichtungen und Wägegeräte, die sie zumindest zum Teil von der Firma A GmbH (im Folgenden AS) bezieht. Außerdem bietet sie ihren Kunden darauf bezogene Serviceleistungen an. Der Kläger war bei ihr seit 2015 als Servicetechniker im Außendienst beschäftigt. An seinem Einstellungsgespräch nahm auch der damalige Serviceleiter der AS teil. Der Kläger wurde bei der AS eingearbeitet und besuchte deren Produktschulungen. Die Beklagte beschäftigte außer dem Kläger noch einen weiteren Servicetechniker und zwei kaufmännische Angestellte. Ihr Geschäftsführer ist zugleich Geschäftsführer der AS, die ebenfalls Wägeeinrichtungen und Wägegeräte vertreibt sowie Serviceleistungen anbietet.  Die Beklagte und die AS arbeiten zusammen. Der Internetauftritt der AS weist die Beklagte als weiteren Servicestützpunkt aus. Die Servicetechniker beider Unternehmen werden auch bei den Kunden des jeweils anderen Unternehmens tätig. In Einzelfällen kommt es zu gemeinsamen Einsätzen. Die Einteilung der Dienste der Servicetechniker nimmt bei der Beklagten eine kaufmännische Angestellte vor, bei der AS deren Serviceleiter. Reichen die eigenen Personalkapazitäten nicht aus, wird beim jeweils anderen Unternehmen angefragt, ob für einen bestimmten Serviceauftrag ein Servicetechniker zur Verfügung steht. Ist das der Fall, wird dieser vom eigenen Unternehmen für den Kunden oder die Kundin des anderen Unternehmens eingeteilt. Die für die Kalibrierung von Wägeeinrichtungen erforderlichen Gewichte werden bei Bedarf zwischen der Beklagten und der AS ausgetauscht oder von anderen Unternehmen bezogen. Personalangelegenheiten beider Unternehmen erledigt der Geschäftsführer. Für die Personalverwaltung der beiden Unternehmen ist derselbe externe Steuerberater verantwortlich. Mit Schreiben vom 17. und 18. Januar 2019 legte der Geschäftsführer der Beklagten dem Kläger Pflichtverletzungen zur Last und mahnte ihn deshalb ab. Vom 5. Februar 2019 bis 22. März 2019 war der Kläger arbeitsunfähig erkrankt. Eine Arbeitsunfähigkeitsbescheinigung gab er am 5. Februar 2019 bei der Beklagten ab.  Die Beklagte kündigte das Arbeitsverhältnis der Parteien mit Schreiben vom 5. Februar 2019, dem Kläger zugegangen am 7. Februar 2019, ordentlich zum  31. März 2019.;1. Ein gemeinsamer Betrieb mehrerer Unternehmen liegt vor, wenn die in einer Betriebsstätte vorhandenen materiellen und immateriellen Betriebsmittel mehrerer Unternehmen zu arbeitstechnischen Zwecken zusammengefasst, geordnet und gezielt eingesetzt werden und der Einsatz der menschlichen Arbeitskraft von einem einheitlichen Leitungsapparat betriebsbezogen gesteuert wird. Die beteiligten Unternehmen müssen sich zumindest stillschweigend zu einer gemeinsamen Führung rechtlich verbunden haben, so dass der Kern der Arbeitgeberfunktionen im sozialen und personellen Bereich von derselben institutionellen Leitung ausgeübt wird. Eine lediglich unternehmerische Zusammenarbeit genügt nicht. 2. Nach § 1 Abs 2 Nr 1 BetrVG wird ein gemeinsamer Betrieb mehrerer Unternehmen vermutet, wenn zur Verfolgung arbeitstechnischer Zwecke die Betriebsmittel sowie die Arbeitnehmer von den Unternehmen gemeinsam eingesetzt werden. In dieser Vorschrift ist der Begriff des gemeinsamen Betriebs mehrerer Unternehmen nicht eigenständig definiert, sondern unter Zugrundelegung des von der Rechtsprechung entwickelten Begriffs geregelt, dass unter den genannten Voraussetzungen ein gemeinsamer Betrieb mehrerer Unternehmen vermutet wird.  3. Nach § 612a BGB darf der Arbeitgeber einen Arbeitnehmer nicht deshalb bei einer Maßnahme benachteiligen, weil dieser in zulässiger Weise seine Rechte ausübt. Das Benachteiligungsverbot soll den Arbeitnehmer in seiner Willensfreiheit bei der Entscheidung darüber schützen, ob ein Recht ausgeübt wird oder nicht. Ein Verstoß gegen das Maßregelungsverbot des § 612a BGB liegt vor, wenn die zulässige Rechtsausübung der tragende Beweggrund, dh. das wesentliche Motiv für die benachteiligende Maßnahme ist. Es reicht nicht aus, dass die Rechtsausübung nur den äußeren Anlass für die Maßnahme bietet. Handelt der Arbeitgeber aufgrund eines Motivbündels, so ist auf das wesentliche Motiv abzustellen.  4. Eine Kündigung aus Anlass einer Krankmeldung ist demnach nur dann eine unzulässige Maßregelung, wenn gerade das zulässige Fernbleiben von der Arbeit sanktioniert werden soll. Will der Arbeitgeber dagegen für die Zukunft erwarteten Folgen weiterer Arbeitsunfähigkeit, insbesondere (neuerlichen) Betriebsablaufstörungen, vorbeugen, fehlt es an einem unlauteren Motiv für die Kündigung.;"Auf Basis der durchgeführten Recherchen lassen sich die aufgeworfenen Rechtsfragen wie folgt beantworten:
+
+---
+
+### **1. Wirksamkeit der ordentlichen Kündigung**
+#### **a) Kündigung während Arbeitsunfähigkeit**
+Die Kündigung erfolgte **während der Arbeitsunfähigkeit des Klägers** (5.2.–22.3.2019). Eine Kündigung während einer Krankheit ist **nicht per se unwirksam**, aber sie muss **sachlich gerechtfertigt** sein.
+- **Rechtliche Grundlage**:
+  Das **Bundesarbeitsgericht (BAG)** hat in mehreren Urteilen klargestellt, dass eine Kündigung während einer Arbeitsunfähigkeit möglich ist, wenn sie auf **verhaltensbedingte oder betriebsbedingte Gründe** gestützt wird. Allerdings muss der Arbeitgeber darlegen, dass die Kündigung nicht aufgrund der Krankheit, sondern aus anderen Gründen erfolgt.
+  - **Zeitliche Koinzidenz**: Falls die Arbeitsunfähigkeit **unmittelbar nach Zugang der Kündigung** beginnt oder sich nahtlos an die Kündigungsfrist anschließt, kann dies **Zweifel an der Echtheit der Arbeitsunfähigkeit** begründen. Der Arbeitgeber kann dann den **Beweiswert der Arbeitsunfähigkeitsbescheinigung erschüttern**, wenn er **tatsächliche Umstände darlegt**, die Zweifel an der Erkrankung begründen (z. B. wenn der Arbeitnehmer kurz nach Ende der Kündigungsfrist eine neue Stelle antritt).
+    - **BAG, Urteil vom 13.12.2023 – 5 AZR 137/23** (Rn. 18, 24):
+      > *""Für die Frage der Erschütterung des Beweiswerts der Arbeitsunfähigkeitsbescheinigung ist nicht entscheidend, ob es sich um eine Eigenkündigung des Arbeitnehmers oder um eine Kündigung des Arbeitgebers handelt. [...] Die ernsthaften Zweifel an der bescheinigten Arbeitsunfähigkeit gründen darin, dass der Arbeitnehmer zu einem Zeitpunkt, zu dem feststeht, dass das Arbeitsverhältnis enden soll, arbeitsunfähig wird und bis zum Ablauf der Kündigungsfrist bleibt.""*
+    - **Anwendung auf den Fall**:
+      Hier begann die Arbeitsunfähigkeit **am Tag der Kündigung (5.2.2019)** und endete **nahtlos mit dem Kündigungstermin (31.3.2019)**. Dies könnte **Indizien für eine vorgetäuschte Arbeitsunfähigkeit** liefern, insbesondere wenn der Kläger kurz danach eine neue Beschäftigung aufnahm. Der Arbeitgeber müsste jedoch **konkrete Umstände vortragen**, die diese Zweifel stützen (z. B. Aussagen von Kollegen, ungewöhnliches Verhalten des Klägers).
+
+---
+
+#### **b) Kündigungsfrist**
+- Die Kündigung erfolgte am **7.2.2019 mit Wirkung zum 31.3.2019**.
+  - Bei einer Betriebszugehörigkeit seit **2015** beträgt die gesetzliche Kündigungsfrist **1 Monat zum Monatsende** (§ 622 Abs. 2 BGB).
+  - **Fazit**: Die Frist wurde eingehalten.
+
+---
+
+#### **c) Kündigungsgrund**
+##### **Verhaltensbedingte Kündigung (Abmahnungen)**
+- Die Beklagte stützte die Kündigung auf **Pflichtverletzungen**, die in den Abmahnungen vom **17./18.1.2019** gerügt wurden.
+  - **Voraussetzungen einer verhaltensbedingten Kündigung**:
+    1. **Vorherige Abmahnung**: Eine Kündigung wegen Pflichtverletzungen setzt in der Regel eine **wirksame Abmahnung** voraus, es sei denn, die Pflichtverletzung ist so schwerwiegend, dass eine Abmahnung entbehrlich ist (z. B. Diebstahl, Betrug).
+       - **BAG, Urteil vom 24.3.2011 – 2 AZR 282/10** (Rn. 14–15)
+:
+         > *""Ordentliche und außerordentliche Kündigung wegen einer Vertragspflichtverletzung setzen regelmäßig eine Abmahnung voraus. Sie dient zugleich der Objektivierung der negativen Prognose. Einer Abmahnung bedarf es nur dann nicht, wenn eine Verhaltensänderung in Zukunft selbst nach Abmahnung nicht zu erwarten steht oder es sich um eine so schwere Pflichtverletzung handelt, dass eine Hinnahme durch den Arbeitgeber offensichtlich ausgeschlossen ist.""*
+    2. **Wirksamkeit der Abmahnungen**:
+       - Die Abmahnungen müssen **konkret** die Pflichtverletzung benennen und **verhältnismäßig** sein.
+       - Falls die Abmahnungen **unberechtigt** waren (z. B. weil die Vorwürfe nicht zutrafen oder überzogen waren), können sie **keine Grundlage für eine Kündigung** sein.
+       - **Folge**: Der Kläger könnte die **Entfernung der Abmahnungen aus der Personalakte** verlangen (dazu unten mehr).
+    3. **Negative Prognose**:
+       - Die Pflichtverletzungen müssen so schwerwiegend sein, dass eine **Wiederholung zu befürchten** ist und dem Arbeitgeber eine **Weiterbeschäftigung unzumutbar** ist.
+  - **Fazit**:
+    Ohne Kenntnis des **genauen Inhalts der Abmahnungen** lässt sich nicht abschließend beurteilen, ob die Kündigung wirksam war. Falls die Abmahnungen jedoch **unberechtigt** waren, fehlt es an einem Kündigungsgrund.
+
+---
+
+##### **Betriebsbedingte Kündigung**
+- Falls die Kündigung **betriebsbedingt** erfolgte (z. B. wegen Personalüberhangs), müsste die Beklagte nachweisen:
+  1. **Dringendes betriebliches Erfordernis** (§ 1 Abs. 2 KSchG).
+  2. **Sozialauswahl** (§ 1 Abs. 3 KSchG), falls mehrere vergleichbare Arbeitnehmer vorhanden sind.
+- **Problem**:
+  Die Beklagte hat **nur 4 Mitarbeiter** (1 Servicetechniker + 2 kaufmännische Angestellte + Kläger). Damit fällt sie unter die **Kleinbetriebsklausel (§ 23 KSchG)**, wonach das KSchG **keine Anwendung** findet (dazu unten mehr).
+  - **Folge**: Eine betriebsbedingte Kündigung wäre **nicht am KSchG zu messen**, sondern nur an **§ 242 BGB (Treu und Glauben)**. Der Arbeitgeber müsste jedoch **sachliche Gründe** für die Kündigung vortragen.
+
+---
+
+#### **d) Kleinbetriebsklausel (§ 23 KSchG)**
+- Die Beklagte beschäftigt **nur 4 Mitarbeiter** (inkl. Kläger).
+  - **§ 23 Abs. 1 Satz 3 KSchG**:
+    > *""Die Vorschriften des Ersten Abschnitts des Kündigungsschutzgesetzes gelten nicht für Betriebe, in denen in der Regel zehn oder weniger Arbeitnehmer beschäftigt werden.""*
+  - **Folge**:
+    - Das **KSchG findet keine Anwendung**, d. h., die Kündigung muss **nicht sozial gerechtfertigt** sein.
+    - Allerdings unterliegt die Kündigung **der Missbrauchskontrolle nach § 242 BGB** (Treu und Glauben).
+    - **BAG, Urteil vom 28.10.2010 – 2 AZR 392/08** (Rn. 21)
+:
+      > *""Die Ungleichbehandlung der Arbeitnehmer in Kleinbetrieben und derjenigen, die in größeren Betrieben beschäftigt sind, ist durch die besondere Lage der Arbeitgeber in Kleinbetrieben gerechtfertigt, die sich durch persönliche Zusammenarbeit, geringere Finanzausstattung und begrenzte Verwaltungskapazität auszeichnet.""*
+    - **Missbrauchskontrolle**:
+      Die Kündigung darf nicht **willkürlich** oder **diskriminierend** sein. Falls die Kündigung jedoch auf **sachliche Gründe** (z. B. wirtschaftliche Schwierigkeiten, Umstrukturierung) gestützt wird, ist sie **grundsätzlich wirksam**.
+      - **Ausnahme**: Falls die Kündigung **ausschließlich wegen der Krankheit** erfolgte, könnte sie gegen **§ 612a BGB (Maßregelungsverbot)** verstoßen.
+
+---
+
+#### **e) Verbundene Unternehmen (Beklagte & AS GmbH)**
+- Die Beklagte und die **AS GmbH** sind **wirtschaftlich und personell eng verflochten** (gleicher Geschäftsführer, gemeinsame Personalverwaltung, Austausch von Mitarbeitern).
+  - **Frage**: Liegt ein **einheitlicher Arbeitgeber** vor, der die **Anwendung des KSchG** ermöglichen würde?
+    - **Rechtliche Einordnung**:
+      - Ein **Betriebsübergang (§ 613a BGB)** liegt nicht vor, da der Kläger nicht von einem Unternehmen auf ein anderes übergegangen ist.
+      - Allerdings könnte eine **Umgehung des Kündigungsschutzes** vorliegen, wenn die Kündigung **formal von der Beklagten**,但实际上 aber **gemeinsam mit der AS GmbH** geplant wurde, um den Kündigungsschutz zu umgehen.
+      - **BAG-Rechtsprechung**:
+        Das BAG prüft in solchen Fällen, ob die Unternehmen **faktisch als einheitlicher Arbeitgeber** agieren. Falls ja, könnte die **Betriebsgröße zusammengerechnet** werden, sodass das KSchG anwendbar wäre.
+        - **BAG, Urteil vom 26.8.1971 – 2 AZR 233/70**
+:
+          > *""Einheitlich und zentral gelenkte Verkaufsstellen, in denen jeweils nur wenige Arbeitnehmer beschäftigt sind, sind in ihrer Gesamtheit als ein 'Betrieb' im Sinne des Kündigungsschutzgesetzes anzusehen.""*
+    - **Fazit**:
+      Falls die **AS GmbH und die Beklagte als einheitlicher Betrieb** anzusehen sind, könnte die **Betriebsgröße über 10 Mitarbeiter** liegen, sodass das **KSchG anwendbar** wäre. Dies müsste jedoch **im Einzelfall geprüft** werden (z. B. durch Vorlage von Organigrammen, Arbeitsverträgen, Personalplanung).
+
+---
+
+### **2. Entfernung der Abmahnungen aus der Personalakte**
+- Der Kläger kann die **Entfernung der Abmahnungen** verlangen, wenn:
+  1. Die Abmahnungen **unberechtigt** waren (z. B. weil die Vorwürfe nicht zutrafen oder überzogen waren).
+  2. Selbst bei **berechtigten Abmahnungen** kein **schutzwürdiges Interesse des Arbeitgebers** mehr an deren Verbleib besteht (z. B. nach **2–3 Jahren**).
+- **Rechtliche Grundlage**:
+  - **BAG, Urteil vom 19.7.2012 – 2 AZR 782/11** (Rn. 13)
+:
+    > *""Arbeitnehmer können in entsprechender Anwendung von §§ 242, 1004 Abs. 1 Satz 1 BGB die Entfernung einer zu Unrecht erteilten Abmahnung aus ihrer Personalakte verlangen. Der Anspruch besteht, wenn die Abmahnung inhaltlich unbestimmt ist, unrichtige Tatsachenbehauptungen enthält, auf einer unzutreffenden rechtlichen Bewertung des Verhaltens des Arbeitnehmers beruht oder den Grundsatz der Verhältnismäßigkeit verletzt.""*
+  - **Frist**:
+    Abmahnungen verlieren nach **2–3 Jahren** ihre Warnfunktion und sind zu entfernen, es sei denn, der Arbeitgeber hat ein **besonderes Interesse** an deren Verbleib (z. B. bei Wiederholungsgefahr).
+- **Fazit**:
+  Falls die Abmahnungen **unberechtigt** waren, hat der Kläger einen **Anspruch auf Entfernung**. Falls sie berechtigt waren, könnte er die Entfernung nach **Ablauf von 2–3 Jahren** verlangen.
+
+---
+
+### **3. Zusammenfassung & Handlungsempfehlungen**
+| **Rechtsfrage**               | **Bewertung**                                                                                                                                                                                                 | **Empfehlung**                                                                                                                                                                                                 |
+|--------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Kündigung während Krankheit** | Nicht per se unwirksam, aber **Beweiswert der AU-Bescheinigung** kann erschüttert werden, wenn Kündigung und AU zeitlich zusammenfallen.                                                                      | Arbeitgeber sollte **konkrete Umstände vortragen**, die Zweifel an der AU begründen (z. B. neue Stelle kurz nach Kündigung). Kläger sollte **ärztliche Atteste** vorlegen.                                      |
+| **Kündigungsfrist**            | Wurde eingehalten (§ 622 Abs. 2 BGB).                                                                                                                                                                        | –                                                                                                                                                                                                               |
+| **Verhaltensbedingte Kündigung** | Setzt **wirksame Abmahnungen** voraus. Falls Abmahnungen unberechtigt, fehlt Kündigungsgrund.                                                                                                               | Kläger sollte **Entfernung der Abmahnungen** verlangen. Arbeitgeber muss **konkrete Pflichtverletzungen** nachweisen.                                                                                          |
+| **Betriebsbedingte Kündigung**  | Im **Kleinbetrieb** nur an **§ 242 BGB** zu messen. Arbeitgeber muss **sachliche Gründe** vortragen.                                                                                                         | Arbeitgeber sollte **wirtschaftliche Notwendigkeit** darlegen. Kläger könnte **Willkür** rügen.                                                                                                                |
+| **Kleinbetriebsklausel (§ 23 KSchG)** | KSchG findet **keine Anwendung**, aber Missbrauchskontrolle nach § 242 BGB.                                                                                                                                  | Falls **Verbund mit AS GmbH** vorliegt, könnte **Betriebsgröße > 10** sein → KSchG anwendbar. Kläger sollte **Zusammenrechnung der Mitarbeiter** prüfen.                                                      |
+| **Entfernung Abmahnungen**     | Anspruch besteht, wenn Abmahnungen **unberechtigt** oder **veraltet** (2–3 Jahre).                                                                                                                          | Kläger sollte **schriftlich Entfernung verlangen**. Falls Arbeitgeber ablehnt, **Klage beim Arbeitsgericht** einreichen.                                                                                       |
+
+---
+
+### **4. Fazit**
+- Die **Kündigung könnte unwirksam** sein, wenn:
+  - Die **Abmahnungen unberechtigt** waren.
+  - Die **Kündigung willkürlich** oder **diskriminierend** war.
+  - Die **AS GmbH und die Beklagte als einheitlicher Betrieb** anzusehen sind (→ KSchG anwendbar).
+- Der **Kläger hat gute Chancen**, die **Entfernung der Abmahnungen** durchzusetzen, falls diese unberechtigt waren.
+- **Nächste Schritte**:
+  - Kläger sollte **Akteneinsicht** in die Personalakte verlangen, um die **Abmahnungen zu prüfen**.
+  - Falls die Abmahnungen unberechtigt sind, **schriftlich Entfernung verlangen**.
+  - Falls die Kündigung angegriffen werden soll, **Kündigungsschutzklage** innerhalb von **3 Wochen** nach Zugang der Kündigung einreichen (§ 4 KSchG).
+
+---
+**Hinweis**: Für eine abschließende Bewertung wäre die **Einsicht in die Abmahnungen und Arbeitsverträge** sowie eine **detaillierte Prüfung der Zusammenarbeit zwischen Beklagter und AS GmbH** erforderlich. Im Zweifel sollte ein **Fachanwalt für Arbeitsrecht** konsultiert werden.";3;"Teilweise richtige Grundsätze, aber zentrale rechtliche Punkte sind verfehlt oder falsch angewandt. Positiv: Zutreffend ist, dass eine Kündigung während Krankheit nicht per se unwirksam ist, die gesetzlichen Kündigungsfristen nach § 622 BGB korrekt eingeordnet wurden (Betriebszugehörigkeit > 2 Jahre: 1 Monat zum Monatsende) und die Grundsätze zur verhaltensbedingten Kündigung mit Abmahnung im Ansatz richtig dargestellt sind. Schwerwiegende Mängel: (1) Die entscheidende Frage eines gemeinsamen Betriebs mehrerer Unternehmen wird nicht anhand der einschlägigen Kriterien geprüft. Es fehlt die Darstellung des von der Rechtsprechung entwickelten Begriffs des „gemeinsamen Betriebs“ (einheitlicher Leitungsapparat, Ausübung des Kerns der Arbeitgeberfunktionen im sozialen/personellen Bereich) und der gesetzlichen Vermutung des § 1 Abs. 2 Nr. 1 BetrVG. Stattdessen wird unpräzise mit „einheitlichem Arbeitgeber“ und Umgehungserwägungen argumentiert. Das verfehlt die vom BAG geforderte Prüfung und kann zur falschen Anwendung des § 23 KSchG führen, weil bei gemeinsamem Betrieb die Arbeitnehmerzahl zusammenzuzählen wäre. (2) § 612a BGB (Maßregelungsverbot) wird nur am Rande erwähnt; die maßgebliche Abgrenzung der Goldantwort (tragender Beweggrund der Rechtsausübung vs. Prävention künftiger Störungen) wird nicht sauber herausgearbeitet. (3) Gravierender Tatsachen- und Rechtsfehler: Die Antwort unterstellt eine „passgenaue“ Arbeitsunfähigkeit bis zum Ende der Kündigungsfrist und leitet hieraus Indizien für eine vorgetäuschte AU her. Tatsächlich endete die AU am 22.03.2019, die Kündigungsfrist am 31.03.2019; damit fehlt gerade die behauptete Passgenauigkeit und die herangezogene BAG-Rechtsprechung zum Erschüttern des Beweiswerts der AU ist nicht einschlägig. (4) Die Ausführungen zur betriebsbedingten Kündigung und Kleinbetriebsklausel bleiben daher potentiell fehlerhaft, weil sie die naheliegende Möglichkeit eines gemeinsamen Betriebs (bei der gegebenen personellen/materiellen Verflechtung) nicht prüfen. Insgesamt: einzelne richtige Bausteine, aber die zentralen, von der Goldantwort hervorgehobenen Rechtsfragen (gemeinsamer Betrieb, § 1 Abs. 2 Nr. 1 BetrVG, präzise Anwendung § 612a BGB) werden verfehlt; zudem enthält die Antwort eine wesentliche Fehlanwendung der AU-Rechtsprechung.";;387.7s;"Auf Basis der durchgeführten Recherchen lassen sich die aufgeworfenen Rechtsfragen wie folgt beantworten:
+
+---
+
+### **1. Wirksamkeit der ordentlichen Kündigung**
+#### **a) Kündigung während Arbeitsunfähigkeit**
+Die Kündigung erfolgte **während der Arbeitsunfähigkeit des Klägers** (5.2.–22.3.2019). Eine Kündigung während einer Krankheit ist **nicht per se unwirksam**, aber sie muss **sachlich gerechtfertigt** sein.
+- **Rechtliche Grundlage**:
+  Das **Bundesarbeitsgericht (BAG)** hat in mehreren Urteilen klargestellt, dass eine Kündigung während einer Arbeitsunfähigkeit möglich ist, wenn sie auf **verhaltensbedingte oder betriebsbedingte Gründe** gestützt wird. Allerdings muss der Arbeitgeber darlegen, dass die Kündigung nicht aufgrund der Krankheit, sondern aus anderen Gründen erfolgt.
+  - **Zeitliche Koinzidenz**: Falls die Arbeitsunfähigkeit **unmittelbar nach Zugang der Kündigung** beginnt oder sich nahtlos an die Kündigungsfrist anschließt, kann dies **Zweifel an der Echtheit der Arbeitsunfähigkeit** begründen. Der Arbeitgeber kann dann den **Beweiswert der Arbeitsunfähigkeitsbescheinigung erschüttern**, wenn er **tatsächliche Umstände darlegt**, die Zweifel an der Erkrankung begründen (z. B. wenn der Arbeitnehmer kurz nach Ende der Kündigungsfrist eine neue Stelle antritt).
+    - **BAG, Urteil vom 13.12.2023 – 5 AZR 137/23** (Rn. 18, 24):
+      > *""Für die Frage der Erschütterung des Beweiswerts der Arbeitsunfähigkeitsbescheinigung ist nicht entscheidend, ob es sich um eine Eigenkündigung des Arbeitnehmers oder um eine Kündigung des Arbeitgebers handelt. [...] Die ernsthaften Zweifel an der bescheinigten Arbeitsunfähigkeit gründen darin, dass der Arbeitnehmer zu einem Zeitpunkt, zu dem feststeht, dass das Arbeitsverhältnis enden soll, arbeitsunfähig wird und bis zum Ablauf der Kündigungsfrist bleibt.""*
+    - **Anwendung auf den Fall**:
+      Hier begann die Arbeitsunfähigkeit **am Tag der Kündigung (5.2.2019)** und endete **nahtlos mit dem Kündigungstermin (31.3.2019)**. Dies könnte **Indizien für eine vorgetäuschte Arbeitsunfähigkeit** liefern, insbesondere wenn der Kläger kurz danach eine neue Beschäftigung aufnahm. Der Arbeitgeber müsste jedoch **konkrete Umstände vortragen**, die diese Zweifel stützen (z. B. Aussagen von Kollegen, ungewöhnliches Verhalten des Klägers).
+
+---
+
+#### **b) Kündigungsfrist**
+- Die Kündigung erfolgte am **7.2.2019 mit Wirkung zum 31.3.2019**.
+  - Bei einer Betriebszugehörigkeit seit **2015** beträgt die gesetzliche Kündigungsfrist **1 Monat zum Monatsende** (§ 622 Abs. 2 BGB).
+  - **Fazit**: Die Frist wurde eingehalten.
+
+---
+
+#### **c) Kündigungsgrund**
+##### **Verhaltensbedingte Kündigung (Abmahnungen)**
+- Die Beklagte stützte die Kündigung auf **Pflichtverletzungen**, die in den Abmahnungen vom **17./18.1.2019** gerügt wurden.
+  - **Voraussetzungen einer verhaltensbedingten Kündigung**:
+    1. **Vorherige Abmahnung**: Eine Kündigung wegen Pflichtverletzungen setzt in der Regel eine **wirksame Abmahnung** voraus, es sei denn, die Pflichtverletzung ist so schwerwiegend, dass eine Abmahnung entbehrlich ist (z. B. Diebstahl, Betrug).
+       - **BAG, Urteil vom 24.3.2011 – 2 AZR 282/10** (Rn. 14–15)
+:
+         > *""Ordentliche und außerordentliche Kündigung wegen einer Vertragspflichtverletzung setzen regelmäßig eine Abmahnung voraus. Sie dient zugleich der Objektivierung der negativen Prognose. Einer Abmahnung bedarf es nur dann nicht, wenn eine Verhaltensänderung in Zukunft selbst nach Abmahnung nicht zu erwarten steht oder es sich um eine so schwere Pflichtverletzung handelt, dass eine Hinnahme durch den Arbeitgeber offensichtlich ausgeschlossen ist.""*
+    2. **Wirksamkeit der Abmahnungen**:
+       - Die Abmahnungen müssen **konkret** die Pflichtverletzung benennen und **verhältnismäßig** sein.
+       - Falls die Abmahnungen **unberechtigt** waren (z. B. weil die Vorwürfe nicht zutrafen oder überzogen waren), können sie **keine Grundlage für eine Kündigung** sein.
+       - **Folge**: Der Kläger könnte die **Entfernung der Abmahnungen aus der Personalakte** verlangen (dazu unten mehr).
+    3. **Negative Prognose**:
+       - Die Pflichtverletzungen müssen so schwerwiegend sein, dass eine **Wiederholung zu befürchten** ist und dem Arbeitgeber eine **Weiterbeschäftigung unzumutbar** ist.
+  - **Fazit**:
+    Ohne Kenntnis des **genauen Inhalts der Abmahnungen** lässt sich nicht abschließend beurteilen, ob die Kündigung wirksam war. Falls die Abmahnungen jedoch **unberechtigt** waren, fehlt es an einem Kündigungsgrund.
+
+---
+
+##### **Betriebsbedingte Kündigung**
+- Falls die Kündigung **betriebsbedingt** erfolgte (z. B. wegen Personalüberhangs), müsste die Beklagte nachweisen:
+  1. **Dringendes betriebliches Erfordernis** (§ 1 Abs. 2 KSchG).
+  2. **Sozialauswahl** (§ 1 Abs. 3 KSchG), falls mehrere vergleichbare Arbeitnehmer vorhanden sind.
+- **Problem**:
+  Die Beklagte hat **nur 4 Mitarbeiter** (1 Servicetechniker + 2 kaufmännische Angestellte + Kläger). Damit fällt sie unter die **Kleinbetriebsklausel (§ 23 KSchG)**, wonach das KSchG **keine Anwendung** findet (dazu unten mehr).
+  - **Folge**: Eine betriebsbedingte Kündigung wäre **nicht am KSchG zu messen**, sondern nur an **§ 242 BGB (Treu und Glauben)**. Der Arbeitgeber müsste jedoch **sachliche Gründe** für die Kündigung vortragen.
+
+---
+
+#### **d) Kleinbetriebsklausel (§ 23 KSchG)**
+- Die Beklagte beschäftigt **nur 4 Mitarbeiter** (inkl. Kläger).
+  - **§ 23 Abs. 1 Satz 3 KSchG**:
+    > *""Die Vorschriften des Ersten Abschnitts des Kündigungsschutzgesetzes gelten nicht für Betriebe, in denen in der Regel zehn oder weniger Arbeitnehmer beschäftigt werden.""*
+  - **Folge**:
+    - Das **KSchG findet keine Anwendung**, d. h., die Kündigung muss **nicht sozial gerechtfertigt** sein.
+    - Allerdings unterliegt die Kündigung **der Missbrauchskontrolle nach § 242 BGB** (Treu und Glauben).
+    - **BAG, Urteil vom 28.10.2010 – 2 AZR 392/08** (Rn. 21)
+:
+      > *""Die Ungleichbehandlung der Arbeitnehmer in Kleinbetrieben und derjenigen, die in größeren Betrieben beschäftigt sind, ist durch die besondere Lage der Arbeitgeber in Kleinbetrieben gerechtfertigt, die sich durch persönliche Zusammenarbeit, geringere Finanzausstattung und begrenzte Verwaltungskapazität auszeichnet.""*
+    - **Missbrauchskontrolle**:
+      Die Kündigung darf nicht **willkürlich** oder **diskriminierend** sein. Falls die Kündigung jedoch auf **sachliche Gründe** (z. B. wirtschaftliche Schwierigkeiten, Umstrukturierung) gestützt wird, ist sie **grundsätzlich wirksam**.
+      - **Ausnahme**: Falls die Kündigung **ausschließlich wegen der Krankheit** erfolgte, könnte sie gegen **§ 612a BGB (Maßregelungsverbot)** verstoßen.
+
+---
+
+#### **e) Verbundene Unternehmen (Beklagte & AS GmbH)**
+- Die Beklagte und die **AS GmbH** sind **wirtschaftlich und personell eng verflochten** (gleicher Geschäftsführer, gemeinsame Personalverwaltung, Austausch von Mitarbeitern).
+  - **Frage**: Liegt ein **einheitlicher Arbeitgeber** vor, der die **Anwendung des KSchG** ermöglichen würde?
+    - **Rechtliche Einordnung**:
+      - Ein **Betriebsübergang (§ 613a BGB)** liegt nicht vor, da der Kläger nicht von einem Unternehmen auf ein anderes übergegangen ist.
+      - Allerdings könnte eine **Umgehung des Kündigungsschutzes** vorliegen, wenn die Kündigung **formal von der Beklagten**,但实际上 aber **gemeinsam mit der AS GmbH** geplant wurde, um den Kündigungsschutz zu umgehen.
+      - **BAG-Rechtsprechung**:
+        Das BAG prüft in solchen Fällen, ob die Unternehmen **faktisch als einheitlicher Arbeitgeber** agieren. Falls ja, könnte die **Betriebsgröße zusammengerechnet** werden, sodass das KSchG anwendbar wäre.
+        - **BAG, Urteil vom 26.8.1971 – 2 AZR 233/70**
+:
+          > *""Einheitlich und zentral gelenkte Verkaufsstellen, in denen jeweils nur wenige Arbeitnehmer beschäftigt sind, sind in ihrer Gesamtheit als ein 'Betrieb' im Sinne des Kündigungsschutzgesetzes anzusehen.""*
+    - **Fazit**:
+      Falls die **AS GmbH und die Beklagte als einheitlicher Betrieb** anzusehen sind, könnte die **Betriebsgröße über 10 Mitarbeiter** liegen, sodass das **KSchG anwendbar** wäre. Dies müsste jedoch **im Einzelfall geprüft** werden (z. B. durch Vorlage von Organigrammen, Arbeitsverträgen, Personalplanung).
+
+---
+
+### **2. Entfernung der Abmahnungen aus der Personalakte**
+- Der Kläger kann die **Entfernung der Abmahnungen** verlangen, wenn:
+  1. Die Abmahnungen **unberechtigt** waren (z. B. weil die Vorwürfe nicht zutrafen oder überzogen waren).
+  2. Selbst bei **berechtigten Abmahnungen** kein **schutzwürdiges Interesse des Arbeitgebers** mehr an deren Verbleib besteht (z. B. nach **2–3 Jahren**).
+- **Rechtliche Grundlage**:
+  - **BAG, Urteil vom 19.7.2012 – 2 AZR 782/11** (Rn. 13)
+:
+    > *""Arbeitnehmer können in entsprechender Anwendung von §§ 242, 1004 Abs. 1 Satz 1 BGB die Entfernung einer zu Unrecht erteilten Abmahnung aus ihrer Personalakte verlangen. Der Anspruch besteht, wenn die Abmahnung inhaltlich unbestimmt ist, unrichtige Tatsachenbehauptungen enthält, auf einer unzutreffenden rechtlichen Bewertung des Verhaltens des Arbeitnehmers beruht oder den Grundsatz der Verhältnismäßigkeit verletzt.""*
+  - **Frist**:
+    Abmahnungen verlieren nach **2–3 Jahren** ihre Warnfunktion und sind zu entfernen, es sei denn, der Arbeitgeber hat ein **besonderes Interesse** an deren Verbleib (z. B. bei Wiederholungsgefahr).
+- **Fazit**:
+  Falls die Abmahnungen **unberechtigt** waren, hat der Kläger einen **Anspruch auf Entfernung**. Falls sie berechtigt waren, könnte er die Entfernung nach **Ablauf von 2–3 Jahren** verlangen.
+
+---
+
+### **3. Zusammenfassung & Handlungsempfehlungen**
+| **Rechtsfrage**               | **Bewertung**                                                                                                                                                                                                 | **Empfehlung**                                                                                                                                                                                                 |
+|--------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Kündigung während Krankheit** | Nicht per se unwirksam, aber **Beweiswert der AU-Bescheinigung** kann erschüttert werden, wenn Kündigung und AU zeitlich zusammenfallen.                                                                      | Arbeitgeber sollte **konkrete Umstände vortragen**, die Zweifel an der AU begründen (z. B. neue Stelle kurz nach Kündigung). Kläger sollte **ärztliche Atteste** vorlegen.                                      |
+| **Kündigungsfrist**            | Wurde eingehalten (§ 622 Abs. 2 BGB).                                                                                                                                                                        | –                                                                                                                                                                                                               |
+| **Verhaltensbedingte Kündigung** | Setzt **wirksame Abmahnungen** voraus. Falls Abmahnungen unberechtigt, fehlt Kündigungsgrund.                                                                                                               | Kläger sollte **Entfernung der Abmahnungen** verlangen. Arbeitgeber muss **konkrete Pflichtverletzungen** nachweisen.                                                                                          |
+| **Betriebsbedingte Kündigung**  | Im **Kleinbetrieb** nur an **§ 242 BGB** zu messen. Arbeitgeber muss **sachliche Gründe** vortragen.                                                                                                         | Arbeitgeber sollte **wirtschaftliche Notwendigkeit** darlegen. Kläger könnte **Willkür** rügen.                                                                                                                |
+| **Kleinbetriebsklausel (§ 23 KSchG)** | KSchG findet **keine Anwendung**, aber Missbrauchskontrolle nach § 242 BGB.                                                                                                                                  | Falls **Verbund mit AS GmbH** vorliegt, könnte **Betriebsgröße > 10** sein → KSchG anwendbar. Kläger sollte **Zusammenrechnung der Mitarbeiter** prüfen.                                                      |
+| **Entfernung Abmahnungen**     | Anspruch besteht, wenn Abmahnungen **unberechtigt** oder **veraltet** (2–3 Jahre).                                                                                                                          | Kläger sollte **schriftlich Entfernung verlangen**. Falls Arbeitgeber ablehnt, **Klage beim Arbeitsgericht** einreichen.                                                                                       |
+
+---
+
+### **4. Fazit**
+- Die **Kündigung könnte unwirksam** sein, wenn:
+  - Die **Abmahnungen unberechtigt** waren.
+  - Die **Kündigung willkürlich** oder **diskriminierend** war.
+  - Die **AS GmbH und die Beklagte als einheitlicher Betrieb** anzusehen sind (→ KSchG anwendbar).
+- Der **Kläger hat gute Chancen**, die **Entfernung der Abmahnungen** durchzusetzen, falls diese unberechtigt waren.
+- **Nächste Schritte**:
+  - Kläger sollte **Akteneinsicht** in die Personalakte verlangen, um die **Abmahnungen zu prüfen**.
+  - Falls die Abmahnungen unberechtigt sind, **schriftlich Entfernung verlangen**.
+  - Falls die Kündigung angegriffen werden soll, **Kündigungsschutzklage** innerhalb von **3 Wochen** nach Zugang der Kündigung einreichen (§ 4 KSchG).
+
+---
+**Hinweis**: Für eine abschließende Bewertung wäre die **Einsicht in die Abmahnungen und Arbeitsverträge** sowie eine **detaillierte Prüfung der Zusammenarbeit zwischen Beklagter und AS GmbH** erforderlich. Im Zweifel sollte ein **Fachanwalt für Arbeitsrecht** konsultiert werden.";3;"Teilweise richtige Grundsätze, aber zentrale rechtliche Punkte sind verfehlt oder falsch angewandt. Positiv: Zutreffend ist, dass eine Kündigung während Krankheit nicht per se unwirksam ist, die gesetzlichen Kündigungsfristen nach § 622 BGB korrekt eingeordnet wurden (Betriebszugehörigkeit > 2 Jahre: 1 Monat zum Monatsende) und die Grundsätze zur verhaltensbedingten Kündigung mit Abmahnung im Ansatz richtig dargestellt sind. Schwerwiegende Mängel: (1) Die entscheidende Frage eines gemeinsamen Betriebs mehrerer Unternehmen wird nicht anhand der einschlägigen Kriterien geprüft. Es fehlt die Darstellung des von der Rechtsprechung entwickelten Begriffs des „gemeinsamen Betriebs“ (einheitlicher Leitungsapparat, Ausübung des Kerns der Arbeitgeberfunktionen im sozialen/personellen Bereich) und der gesetzlichen Vermutung des § 1 Abs. 2 Nr. 1 BetrVG. Stattdessen wird unpräzise mit „einheitlichem Arbeitgeber“ und Umgehungserwägungen argumentiert. Das verfehlt die vom BAG geforderte Prüfung und kann zur falschen Anwendung des § 23 KSchG führen, weil bei gemeinsamem Betrieb die Arbeitnehmerzahl zusammenzuzählen wäre. (2) § 612a BGB (Maßregelungsverbot) wird nur am Rande erwähnt; die maßgebliche Abgrenzung der Goldantwort (tragender Beweggrund der Rechtsausübung vs. Prävention künftiger Störungen) wird nicht sauber herausgearbeitet. (3) Gravierender Tatsachen- und Rechtsfehler: Die Antwort unterstellt eine „passgenaue“ Arbeitsunfähigkeit bis zum Ende der Kündigungsfrist und leitet hieraus Indizien für eine vorgetäuschte AU her. Tatsächlich endete die AU am 22.03.2019, die Kündigungsfrist am 31.03.2019; damit fehlt gerade die behauptete Passgenauigkeit und die herangezogene BAG-Rechtsprechung zum Erschüttern des Beweiswerts der AU ist nicht einschlägig. (4) Die Ausführungen zur betriebsbedingten Kündigung und Kleinbetriebsklausel bleiben daher potentiell fehlerhaft, weil sie die naheliegende Möglichkeit eines gemeinsamen Betriebs (bei der gegebenen personellen/materiellen Verflechtung) nicht prüfen. Insgesamt: einzelne richtige Bausteine, aber die zentralen, von der Goldantwort hervorgehobenen Rechtsfragen (gemeinsamer Betrieb, § 1 Abs. 2 Nr. 1 BetrVG, präzise Anwendung § 612a BGB) werden verfehlt; zudem enthält die Antwort eine wesentliche Fehlanwendung der AU-Rechtsprechung.";;387.7s;;-1;;;0.0s;agent
+BAG, 28.04.2021, 10 AZR 404/18;Der Kläger verlangt von der Beklagten für drei gewerbliche Arbeitnehmer Beiträge für den Zeitraum von April bis November 2010. Er zieht die vom Statistischen Bundesamt ermittelten Durchschnittslöhne heran, um die Beitragsansprüche zu berechnen. Der Kläger stützt seine Forderungen auf den Tarifvertrag über das Sozialkassenverfahren im Baugewerbe vom 18. Dezember 2009 (VTV 2009). Der Senat hat die Allgemeinverbindlicherklärung des VTV 2009 für unwirksam befunden (BAG 21. September 2016 - 10 ABR 33/15 - BAGE 156, 213). Die Beklagte besteht seit 2005. Sie unterhält in Z eine Werkstatt. Die Zusatzversorgungskasse des Baugewerbes VVaG (ZVK) bescheinigte der Beklagten in ihrer Funktion als frühere Einzugsstelle der Sozialkassen der Bauwirtschaft unter dem 22. November 2006, anhand der vorgelegten Geschäftsunterlagen sei nicht davon auszugehen, dass sie an den Sozialkassenverfahren der Bauwirtschaft teilnehme. Das Sozialgericht Chemnitz hob zwei Bescheide der Bundesagentur für Arbeit auf, mit denen die Beklagte zu der Winterbeschäftigungs-Umlage für den streitgegenständlichen Zeitraum herangezogen worden war.  Die Beklagte trat im Klagezeitraum zusammen mit der R GmbH, der K GmbH und der B GmbH (B GmbH) als Unternehmensgruppe E auf. Die Unternehmensgruppe E warb für sich im Internet als „ein international tätiges, mittelständisches Unternehmen“ ua. in den Bereichen Leitungsbau, Fernmeldebau und Horizontalbohrungen. Herr P war Geschäftsführer der B GmbH und zugleich Alleingesellschafter der drei anderen Unternehmen der Unternehmensgruppe E. Die am 25. Februar 2010 von der K GmbH gegründete B GmbH führt horizontale und vertikale Bohrleistungen aus. Sie war im streitigen Zeitraum bei dem Kläger als Betrieb des Baugewerbes erfasst und entrichtete Beiträge zu den Sozialkassenverfahren. Die Beklagte leistete im Kalenderjahr 2010 in ihrer Werkstatt insgesamt 8.001 Arbeitsstunden. Davon entfielen 2006,5 Stunden auf Reparaturen und Servicearbeiten an Geräten der B GmbH. Am 25. November 2014 besuchte ein Arbeitnehmer des Klägers den Betrieb der Beklagten. Der Kläger hat die Beitragsansprüche mit einem Mahnbescheid geltend gemacht, der der Beklagten am 24. März 2015 zugestellt worden ist. Der Kläger hat angenommen, zwischen dem Werkstattbetrieb der Beklagten und dem Betrieb der B GmbH habe angesichts ihrer engen wirtschaftlichen und gesellschaftsrechtlichen Verbindung und ihrer Zugehörigkeit zu der E-Unternehmensgruppe im Klagezeitraum ein Zusammenschluss iSv. § 1 Abs. 2 Abschn. IV Nr. 4 VTV 2009 bestanden. In der Werkstatt sei im maßgeblichen Kalenderjahr 2010 mehr als ein Viertel der Arbeitsstunden auf Reparaturen und Serviceleistungen für die B GmbH entfallen. Der Betrieb der Beklagten falle deshalb in den Geltungsbereich des VTV 2009. Der Kläger habe von diesem Umstand erst anlässlich des Betriebsbesuchs vom 25. November 2014 Kenntnis erlangt.;1. Eine Werkstatt unterfällt dem Geltungsbereich der Verfahrenstarifverträge des Baugewerbes nach § 1 Abs 2 Abschn IV Nr 4 (juris: VTV-Bau), wenn sie zumindest zu einem Viertel der betrieblichen Arbeitszeit für einen mit ihr zusammengeschlossenen Betrieb des Baugewerbes betrieben und nicht von einem spezielleren Tarifvertrag erfasst wird. 2. Die Tarifvertragsparteien wollen mit dem untechnischen Begriff 'Zusammenschluss' in § 1 Abs 2 Abschn IV Nr 4 VTV-Bau möglichst alle denkbaren Kooperationsformen erfassen. Ein Zusammenschluss von Betrieben setzt daher weder eine bestimmte vertragliche Form noch eine personen- oder gesellschaftsrechtliche Verbindung voraus. 3. Durch § 1 Abs 2 Abschn IV Nr 4 VTV-Bau sollen Arbeitnehmer eines nicht originär baugewerblichen Betriebs in den Schutz der Verfahrenstarifverträge einbezogen werden, weil sie ihre Arbeitskraft mittelbar für einen ihrem Betrieb angeschlossenen Baubetrieb aufwenden, der diese Tätigkeiten sonst mit eigenen Arbeitskräften erledigen müsste.  4. Es bestehen keine Bedenken daran, dass das SokaSiG als Geltungsgrund für den VTV-Bau verfassungsgemäß ist.;"### **Zusammenfassung der rechtlichen Bewertung**
+
+#### **1. Zusammenschluss i.S.v. § 1 Abs. 2 Abschn. IV Nr. 4 VTV 2009**
+Das **Bundesarbeitsgericht (BAG)** hat in einem **vergleichbaren Fall** (BAG, 28.04.2021 – 10 AZR 404/18) entschieden:
+- Ein **Zusammenschluss** liegt vor, wenn ein Betrieb (hier: die Werkstatt der Beklagten) **mindestens ein Viertel seiner Arbeitszeit** für einen **angeschlossenen Betrieb des Baugewerbes** (hier: die B GmbH) tätig ist.
+- **Keine Identität der Gesellschafter erforderlich**: Selbst wenn die Gesellschafter nicht identisch sind, reicht eine **enge wirtschaftliche Verbindung** (z. B. durch eine Unternehmensgruppe) aus.
+- **Werkstätten können Betriebe des Baugewerbes sein**: Auch wenn die Beklagte keine Bauleistungen erbringt, fällt sie unter den VTV 2009, weil sie **Reparatur- und Serviceleistungen** für die B GmbH (ein Bauunternehmen) erbringt.
+
+**→ Die Beklagte unterliegt dem VTV 2009, weil sie mehr als 25 % ihrer Arbeitszeit für die B GmbH tätig war.**
+
+---
+#### **2. Allgemeinverbindlichkeit des VTV 2009**
+- Das BAG hat die **Allgemeinverbindlicherklärung des VTV 2009 für unwirksam erklärt** (BAG, 21.09.2016 – 10 ABR 33/15).
+- **Aber**: Der VTV 2009 gilt trotzdem für die Beklagte, weil sie **aufgrund des Zusammenschlusses** (§ 1 Abs. 2 Abschn. IV Nr. 4 VTV 2009) in den **betrieblichen Geltungsbereich** fällt.
+- **Tarifbindung**: Da die B GmbH (als Bauunternehmen) dem VTV 2009 unterliegt, erstreckt sich die Beitragspflicht auch auf die Beklagte.
+
+---
+#### **3. Verjährung der Beitragsansprüche**
+- Der Kläger hat die Ansprüche **2015** geltend gemacht, aber erst **2014** von den Tätigkeiten der Beklagten für die B GmbH erfahren.
+- **Verjährungsfrist**: Beitragsansprüche verjähren nach **§ 195 BGB in 3 Jahren** (beginnend mit dem Ende des Jahres, in dem der Anspruch entstanden ist).
+- **Hier**: Die Ansprüche für **2010** wären eigentlich **Ende 2013 verjährt**, aber:
+  - **Kenntnis des Klägers**: Die Verjährung beginnt erst mit **Kenntnis der anspruchsbegründenden Umstände** (§ 199 BGB).
+  - Da der Kläger erst **2014** von den Reparaturleistungen erfuhr, begann die Verjährung erst **Ende 2014**.
+  - Der Mahnbescheid vom **24.03.2015** unterbrach die Verjährung (§ 204 BGB).
+
+**→ Die Ansprüche sind nicht verjährt.**
+
+---
+#### **4. Bescheinigung der ZVK (2006)**
+- Die **Zusatzversorgungskasse des Baugewerbes (ZVK)** hatte 2006 bescheinigt, dass die Beklagte **nicht am Sozialkassenverfahren teilnimmt**.
+- **Aber**: Diese Bescheinigung ist **nicht bindend**, wenn sich die **tatsächlichen Verhältnisse ändern** (hier: Tätigkeiten für die B GmbH ab 2010).
+- Das BAG hat in ähnlichen Fällen entschieden, dass **spätere Änderungen** (z. B. Aufnahme von Bauleistungen) die Beitragspflicht begründen können.
+
+---
+### **Fazit: Der Kläger hat Anspruch auf die Beiträge**
+1. **Die Beklagte unterliegt dem VTV 2009**, weil sie **mehr als 25 % ihrer Arbeitszeit** für die B GmbH (ein Bauunternehmen) tätig war (§ 1 Abs. 2 Abschn. IV Nr. 4 VTV 2009).
+2. **Die Allgemeinverbindlichkeit ist unwirksam**, aber die Beklagte fällt **aufgrund des Zusammenschlusses** in den Geltungsbereich.
+3. **Die Ansprüche sind nicht verjährt**, weil der Kläger erst 2014 von den Tätigkeiten erfuhr.
+4. **Die Bescheinigung der ZVK (2006) ist nicht maßgeblich**, weil sich die Verhältnisse geändert haben.
+
+---
+### **Empfehlung für die Beklagte**
+- **Prüfen, ob die 25 %-Grenze tatsächlich erreicht wurde** (ggf. Arbeitszeitnachweise vorlegen).
+- **Argumentieren, dass die Tätigkeiten für die B GmbH nicht als ""Bauleistungen"" einzustufen sind** (z. B. reine Reparaturen ohne Baucharakter).
+- **Verjährung einwenden**, falls der Kläger zu spät gehandelt hat.
+
+Falls du eine **detaillierte Prüfung der Arbeitszeitnachweise** oder eine **Vertiefung der Verjährungsfrage** möchtest, lass es mich wissen!";4;"Positiv: Die Antwort trifft im Kern die Voraussetzungen des § 1 Abs. 2 Abschn. IV Nr. 4 VTV-Bau (Werkstattklausel): 25%-Schwelle, erfasst auch nicht-originär baugewerbliche Werkstätten, weiter Zusammenschlussbegriff ohne Erfordernis gesellschaftsrechtlicher Verflechtung. Richtig ist auch, dass eine frühere ZVK-Bescheinigung bei geänderten tatsächlichen Verhältnissen nicht bindet. Die Verjährungserwägungen orientieren sich grundsätzlich zutreffend an § 195, § 199 und § 204 BGB (Kenntnisprinzip; Hemmung durch Mahnbescheid). Negativ (schwerwiegend): Nach Unwirksamkeit der AVE 2009 trägt die bloße betriebliche Erfassung (Geltungsbereich) die Beitragspflicht nicht; es bedarf eines wirksamen Geltungsgrundes (insb. SokaSiG). Die Antwort verkennt dies und behauptet, der VTV ""gilt trotzdem"" wegen Zusammenschluss, und konstruiert eine Erstreckung der Tarifbindung der B GmbH auf die Beklagte – das ist rechtlich unzutreffend. Die tragende Rechtsgrundlage (SokaSiG mit rückwirkender Geltung) wird gar nicht erwähnt, obwohl sie für 2010 entscheidend ist; die Goldantwort hebt dies ausdrücklich hervor. Weitere kleinere Mängel: Der Hinweis auf Verjährung nutzt den Begriff ""Unterbrechung"" statt der zutreffenden ""Hemmung""; der Vorbehalt, dass kein speziellerer Tarifvertrag eingreift, bleibt unerwähnt. Insgesamt enthält die Antwort einen zentralen Rechtsfehler zum Geltungsgrund und erreicht deshalb nur eine unterdurchschnittliche juristische Korrektheit.";;94.4s;"### **Zusammenfassung der rechtlichen Bewertung**
+
+#### **1. Zusammenschluss i.S.v. § 1 Abs. 2 Abschn. IV Nr. 4 VTV 2009**
+Das **Bundesarbeitsgericht (BAG)** hat in einem **vergleichbaren Fall** (BAG, 28.04.2021 – 10 AZR 404/18) entschieden:
+- Ein **Zusammenschluss** liegt vor, wenn ein Betrieb (hier: die Werkstatt der Beklagten) **mindestens ein Viertel seiner Arbeitszeit** für einen **angeschlossenen Betrieb des Baugewerbes** (hier: die B GmbH) tätig ist.
+- **Keine Identität der Gesellschafter erforderlich**: Selbst wenn die Gesellschafter nicht identisch sind, reicht eine **enge wirtschaftliche Verbindung** (z. B. durch eine Unternehmensgruppe) aus.
+- **Werkstätten können Betriebe des Baugewerbes sein**: Auch wenn die Beklagte keine Bauleistungen erbringt, fällt sie unter den VTV 2009, weil sie **Reparatur- und Serviceleistungen** für die B GmbH (ein Bauunternehmen) erbringt.
+
+**→ Die Beklagte unterliegt dem VTV 2009, weil sie mehr als 25 % ihrer Arbeitszeit für die B GmbH tätig war.**
+
+---
+#### **2. Allgemeinverbindlichkeit des VTV 2009**
+- Das BAG hat die **Allgemeinverbindlicherklärung des VTV 2009 für unwirksam erklärt** (BAG, 21.09.2016 – 10 ABR 33/15).
+- **Aber**: Der VTV 2009 gilt trotzdem für die Beklagte, weil sie **aufgrund des Zusammenschlusses** (§ 1 Abs. 2 Abschn. IV Nr. 4 VTV 2009) in den **betrieblichen Geltungsbereich** fällt.
+- **Tarifbindung**: Da die B GmbH (als Bauunternehmen) dem VTV 2009 unterliegt, erstreckt sich die Beitragspflicht auch auf die Beklagte.
+
+---
+#### **3. Verjährung der Beitragsansprüche**
+- Der Kläger hat die Ansprüche **2015** geltend gemacht, aber erst **2014** von den Tätigkeiten der Beklagten für die B GmbH erfahren.
+- **Verjährungsfrist**: Beitragsansprüche verjähren nach **§ 195 BGB in 3 Jahren** (beginnend mit dem Ende des Jahres, in dem der Anspruch entstanden ist).
+- **Hier**: Die Ansprüche für **2010** wären eigentlich **Ende 2013 verjährt**, aber:
+  - **Kenntnis des Klägers**: Die Verjährung beginnt erst mit **Kenntnis der anspruchsbegründenden Umstände** (§ 199 BGB).
+  - Da der Kläger erst **2014** von den Reparaturleistungen erfuhr, begann die Verjährung erst **Ende 2014**.
+  - Der Mahnbescheid vom **24.03.2015** unterbrach die Verjährung (§ 204 BGB).
+
+**→ Die Ansprüche sind nicht verjährt.**
+
+---
+#### **4. Bescheinigung der ZVK (2006)**
+- Die **Zusatzversorgungskasse des Baugewerbes (ZVK)** hatte 2006 bescheinigt, dass die Beklagte **nicht am Sozialkassenverfahren teilnimmt**.
+- **Aber**: Diese Bescheinigung ist **nicht bindend**, wenn sich die **tatsächlichen Verhältnisse ändern** (hier: Tätigkeiten für die B GmbH ab 2010).
+- Das BAG hat in ähnlichen Fällen entschieden, dass **spätere Änderungen** (z. B. Aufnahme von Bauleistungen) die Beitragspflicht begründen können.
+
+---
+### **Fazit: Der Kläger hat Anspruch auf die Beiträge**
+1. **Die Beklagte unterliegt dem VTV 2009**, weil sie **mehr als 25 % ihrer Arbeitszeit** für die B GmbH (ein Bauunternehmen) tätig war (§ 1 Abs. 2 Abschn. IV Nr. 4 VTV 2009).
+2. **Die Allgemeinverbindlichkeit ist unwirksam**, aber die Beklagte fällt **aufgrund des Zusammenschlusses** in den Geltungsbereich.
+3. **Die Ansprüche sind nicht verjährt**, weil der Kläger erst 2014 von den Tätigkeiten erfuhr.
+4. **Die Bescheinigung der ZVK (2006) ist nicht maßgeblich**, weil sich die Verhältnisse geändert haben.
+
+---
+### **Empfehlung für die Beklagte**
+- **Prüfen, ob die 25 %-Grenze tatsächlich erreicht wurde** (ggf. Arbeitszeitnachweise vorlegen).
+- **Argumentieren, dass die Tätigkeiten für die B GmbH nicht als ""Bauleistungen"" einzustufen sind** (z. B. reine Reparaturen ohne Baucharakter).
+- **Verjährung einwenden**, falls der Kläger zu spät gehandelt hat.
+
+Falls du eine **detaillierte Prüfung der Arbeitszeitnachweise** oder eine **Vertiefung der Verjährungsfrage** möchtest, lass es mich wissen!";4;"Positiv: Die Antwort trifft im Kern die Voraussetzungen des § 1 Abs. 2 Abschn. IV Nr. 4 VTV-Bau (Werkstattklausel): 25%-Schwelle, erfasst auch nicht-originär baugewerbliche Werkstätten, weiter Zusammenschlussbegriff ohne Erfordernis gesellschaftsrechtlicher Verflechtung. Richtig ist auch, dass eine frühere ZVK-Bescheinigung bei geänderten tatsächlichen Verhältnissen nicht bindet. Die Verjährungserwägungen orientieren sich grundsätzlich zutreffend an § 195, § 199 und § 204 BGB (Kenntnisprinzip; Hemmung durch Mahnbescheid). Negativ (schwerwiegend): Nach Unwirksamkeit der AVE 2009 trägt die bloße betriebliche Erfassung (Geltungsbereich) die Beitragspflicht nicht; es bedarf eines wirksamen Geltungsgrundes (insb. SokaSiG). Die Antwort verkennt dies und behauptet, der VTV ""gilt trotzdem"" wegen Zusammenschluss, und konstruiert eine Erstreckung der Tarifbindung der B GmbH auf die Beklagte – das ist rechtlich unzutreffend. Die tragende Rechtsgrundlage (SokaSiG mit rückwirkender Geltung) wird gar nicht erwähnt, obwohl sie für 2010 entscheidend ist; die Goldantwort hebt dies ausdrücklich hervor. Weitere kleinere Mängel: Der Hinweis auf Verjährung nutzt den Begriff ""Unterbrechung"" statt der zutreffenden ""Hemmung""; der Vorbehalt, dass kein speziellerer Tarifvertrag eingreift, bleibt unerwähnt. Insgesamt enthält die Antwort einen zentralen Rechtsfehler zum Geltungsgrund und erreicht deshalb nur eine unterdurchschnittliche juristische Korrektheit.";;94.4s;;-1;;;0.0s;agent
+BAG, 27.04.2021, 2 AZR 540/20;Der Kläger war seit Dezember 2016 bei der Beklagten beschäftigt. Diese kündigte das Arbeitsverhältnis ordentlich mit Schreiben vom 21. Juni 2019 zum 31. Juli 2019. Zum Kündigungszeitpunkt beschäftigte sie 8,5 Arbeitnehmer.  Mit seiner Klage hat sich der Kläger gegen die Kündigung gewandt. Diese sei sozial nicht gerechtfertigt. Auf das Arbeitsverhältnis der Parteien finde das Kündigungsschutzgesetz Anwendung. Die beiden Fremdgeschäftsführer der Beklagten seien als Arbeitnehmer zu berücksichtigen. Die Kündigung sei auch sitten- und treuwidrig. Im Unternehmen sind zwei Fremdgeschäftsführer beschäftigt.;§ 14 Abs. 1 Nr. 1 KSchG enthält eine (negative) Fiktion. Danach gelten die Vorschriften des Ersten Abschnitts des Kündigungsschutzgesetzes nicht in Betrieben einer juristischen Person für die Mitglieder des Organs, das zur gesetzlichen Vertretung der juristischen Person berufen ist. Dies gilt uneingeschränkt jedenfalls dann, wenn die organschaftliche Stellung als Geschäftsführer zum Zeitpunkt des Zugangs der Kündigung (noch) besteht. Kein Wertungswiderspruch zwischen §§ 14 und 23 KschG. Der Geschäftsführer einer GmbH wird für diese in aller Regel auf der Grundlage eines freien Dienstvertrags, nicht eines Arbeitsvertrags tätig. Auch gegenüber einem Geschäftsführer als freiem Dienstnehmer steht der Gesellschaft ein unternehmerisches Weisungsrecht zu. Eine Weisungsgebundenheit des GmbH-Geschäftsführers, die so stark ist, dass sie auf einen Status als Arbeitnehmer schließen lässt, kommt allenfalls in extremen Ausnahmefällen in Betracht (BAG 11. Juni 2020 - 2 AZR 374/19 - Rn. 25 mwN). Dies würde voraussetzen, dass die Gesellschaft eine - über ihr gesellschaftsrechtliches Weisungsrecht hinausgehende - Weisungsbefugnis auch bezüglich der Umstände hat, unter denen der Geschäftsführer seine Leistung zu erbringen hat, und die konkreten Modalitäten der Leistungserbringung durch arbeitsbegleitende und verfahrensorientierte Weisungen bestimmen kann.  Das allgemeine Kündigungsschutzrecht ist nicht unionsrechtlich determiniert. Damit verbleibt es beim nationalen Arbeitnehmerbegriff wie er sich aus § 611a Abs 1 BGB ergibt, denn dieser gilt einschränkungslos, sofern das Unionsrecht nicht betroffen ist. Eine generelle Ausdehnung des Arbeitnehmerbegriffs des § 23 Abs 1 S 3 KSchG auf Fremdgeschäftsführer einer GmbH - unabhängig davon, ob ihr Beschäftigungsverhältnis (ausnahmsweise) die Kriterien eines Arbeitsverhältnisses erfüllt - ist verfassungsrechtlich nicht geboten.;ERROR: Timeout - research took longer than 5 minutes;-1;Could not get research answer;ERROR: Timeout - research took longer than 5 minutes;600.1s;ERROR: Timeout - research took longer than 5 minutes;-1;Could not get research answer;ERROR: Timeout - research took longer than 5 minutes;600.1s;;-1;;;0.0s;agent
+BAG, 27.04.2021, 2 AZR 342/20;"Die Parteien streiten über die Erteilung einer Datenkopie.    Der Kläger war bei der Beklagten im Januar 2019 als Wirtschaftsjurist beschäftigt. Mit seiner Klage hat er ua. Auskunft über seine von der Beklagten verarbeiteten personenbezogenen Daten sowie die Überlassung einer Kopie dieser Daten gem. Art. 15 Abs. 3 der Verordnung (EU) 2016/679 (Datenschutz-Grundverordnung; im Folgenden DSGVO) verlangt. Nachdem die Beklagte ihm am 21. Mai 2019 Auskunft erteilte, haben die Parteien den Rechtsstreit insoweit für erledigt erklärt. Das Landesarbeitsgericht hat die Revision für den Kläger zugelassen, soweit er die Erteilung einer Kopie seines E-Mail-Verkehrs begehrt hat sowie der E-Mails, die ihn namentlich erwähnen.";1. Der Umfang, in dem das Berufungsurteil mit der Revision angefochten ist, bestimmt sich nach dem Begehren des Revisionsklägers, das entsprechend § 133 BGB unter Berücksichtigung seines Revisionsantrags und der innerhalb der Frist zur Begründung der Revision eingegangenen Revisionsbegründung auszulegen ist, wenn ein Revisionsantrag - wie hier - erstmals mit der Revisionsbegründung formuliert wird. 2. Ein Klageantrag ist hinreichend bestimmt, wenn er den erhobenen Anspruch durch Bezifferung oder gegenständliche Beschreibung so konkret bezeichnet, dass der Rahmen der gerichtlichen Entscheidungsbefugnis (§ 308 ZPO) klar abgegrenzt ist, Inhalt und Umfang der materiellen Rechtskraft der begehrten Entscheidung (§ 322 ZPO) erkennbar sind, das Risiko des eventuell teilweisen Unterliegens des Klägers nicht durch vermeidbare Ungenauigkeit auf den Beklagten abgewälzt und eine etwaige Zwangsvollstreckung nicht mit einer Fortsetzung des Streits im Vollstreckungsverfahren belastet wird. Es genügt nicht, sich auf gesetzliche Vorschriften zu berufen, die den erhobenen Anspruch vorsehen, vielmehr müssen die sich aus den Normen ergebenden Konsequenzen im Einzelfall von der klagenden Partei bei der Formulierung ihres Klageantrags berücksichtigt werden. 3. Die bloße Wiederholung des Wortlauts von Art 15 Abs 3 S 1 DSGVO lässt nicht erkennen, von welchen personenbezogenen Daten eine Kopie verlangt wird, zumal dann, wenn - wie hier - streitig ist, welches die von der Beklagten verarbeiteten personenbezogenen Daten des Klägers sind. Eine daraufhin ergehende Verurteilung wäre nicht vollstreckbar. 4. Nach ständiger Rechtsprechung des Gerichtshofs der Europäischen Union ist es mangels einschlägiger unionsrechtlicher Vorschriften nach dem Grundsatz der Verfahrensautonomie Sache der innerstaatlichen Rechtsordnung jedes Mitgliedstaats, die Verfahrensmodalitäten für Klagen, die den Schutz der dem Einzelnen aus dem Unionsrecht erwachsenden Rechte gewährleisten sollen, zu regeln, wobei die betreffenden Anforderungen jedoch nicht ungünstiger sein dürfen als diejenigen, die gleichartige, dem innerstaatlichen Recht unterliegende Sachverhalte regeln (Äquivalenzgrundsatz), und die Ausübung der durch das Unionsrecht verliehenen Rechte nicht praktisch unmöglich machen oder übermäßig erschweren dürfen (Effektivitätsgrundsatz). Ein Klageantrag auf Überlassung einer Kopie von E-Mails ist nicht hinreichend bestimmt iSv. § 253 Abs. 2 Nr. 2 ZPO, wenn die E-Mails, von denen eine Kopie zur Verfügung gestellt werden soll, nicht so genau bezeichnet sind, dass im Vollstreckungsverfahren unzweifelhaft ist, auf welche E-Mails sich die Verurteilung bezieht.;"### **Zusammenfassung der Rechtslage zum Anspruch auf Datenkopie nach Art. 15 Abs. 3 DSGVO – insbesondere für E-Mails im Arbeitsverhältnis**
+
+---
+
+#### **1. Anspruchsgrundlage und Umfang**
+- **Art. 15 Abs. 3 DSGVO** gewährt betroffenen Personen (hier: dem Kläger als ehemaligem Arbeitnehmer) das Recht, eine **Kopie der personenbezogenen Daten**, die verarbeitet werden,  zu erhalten.
+- **Wichtig**: Der Anspruch bezieht sich **nicht auf ganze Dokumente (z. B. E-Mails)**, sondern **nur auf die darin enthaltenen personenbezogenen Daten** des Klägers.
+  - *Beispiel*: Eine E-Mail mit dem Betreff *""Projekt X – Meeting am 10.01.2019""* enthält nur dann personenbezogene Daten des Klägers, wenn er **direkt betroffen** ist (z. B. als Teilnehmer oder Adressat) oder wenn **Inhalte** seine persönlichen oder sachlichen Verhältnisse betreffen (z. B. Leistungsbewertungen, Kritik).
+  - **Reine Sachinformationen** (z. B. allgemeine Projektupdates) sind **keine** personenbezogenen Daten des Klägers.
+- **EuGH-Rechtsprechung** (z. B. *FT (Copies du dossier médical)*, C-307/22):
+  - Der Begriff *""Kopie""* in Art. 15 Abs. 3 DSGVO bezieht sich **nicht auf das Dokument selbst**, sondern auf die **personenbezogenen Daten**, die es enthält.
+  - Die Kopie muss **vollständig** sein, d. h. alle personenbezogenen Daten des Klägers umfassen.
+  - **Ausnahme**: Nur wenn die Herausgabe einer **Kopie des gesamten Dokuments** (z. B. einer E-Mail) **unerlässlich** ist, um dem Kläger die Ausübung seiner Rechte zu ermöglichen, kann er diese verlangen.
+    - *Beispiel*: Wenn der Kläger nachweisen muss, dass eine E-Mail **unrechtmäßig** verarbeitet wurde, kann die Herausgabe der **gesamten E-Mail** erforderlich sein.
+    - **Aber**: Dies setzt voraus, dass der Kläger **konkret darlegt**, warum die Herausgabe der **rohen Daten** (z. B. in einer Tabelle) nicht ausreicht.
+
+---
+
+#### **2. Einschränkungen des Anspruchs**
+##### **a) Rechte und Freiheiten anderer Personen (Art. 15 Abs. 4 DSGVO)**
+- Der Anspruch darf **nicht die Rechte Dritter** verletzen, z. B.:
+  - **Kollegen**: E-Mails enthalten oft Daten anderer Mitarbeiter (z. B. deren Meinungen, Leistungsdaten).
+  - **Dritte**: Geschäftspartner, Kunden oder Lieferanten, deren Daten in den E-Mails enthalten sind.
+- **Lösung**: Die Beklagte muss die Daten **schwärzen** oder **aggregieren**, soweit möglich.
+
+##### **b) Betriebs- und Geschäftsgeheimnisse (§ 29 BDSG, Art. 15 Abs. 4 DSGVO)**
+- E-Mails können **betriebsinterne Informationen** enthalten (z. B. Strategien, Verträge, Finanzdaten).
+- Die Beklagte kann die Herausgabe verweigern, wenn **überwiegende Interessen** dagegen sprechen.
+- **Aber**: Die Beklagte muss **konkret darlegen**, warum die Herausgabe bestimmter Daten ihre Geschäftsgeheimnisse gefährden würde.
+
+##### **c) Unverhältnismäßiger Aufwand**
+- Die DSGVO verlangt keine **unzumutbaren** Maßnahmen.
+- *Beispiel*: Die manuelle Durchsicht von **Tausenden E-Mails** könnte unverhältnismäßig sein.
+- **Aber**: Automatisierte Suchtools (z. B. nach Stichworten wie dem Namen des Klägers) können den Aufwand reduzieren.
+
+---
+
+#### **3. Rechtsprechung zum Anspruch auf E-Mail-Kopien**
+##### **a) Bundesarbeitsgericht (BAG)**
+- **Urteil vom 16.12.2021 – 2 AZR 342/20** (ähnlicher Fall):
+  - Der Kläger hatte einen **unbestimmten Antrag** gestellt (""Kopie aller Leistungs- und Verhaltensdaten"").
+  - Das BAG lehnte den Antrag ab, weil er **nicht hinreichend bestimmt** war (§ 253 Abs. 2 Nr. 2 ZPO).
+  - **Wichtig**: Der Kläger muss **konkret benennen**, welche Daten er verlangt (z. B. ""alle E-Mails, in denen ich namentlich erwähnt werde"").
+  - **Ausnahme**: Wenn die Beklagte **keine Auskunft erteilt** hat, kann ein **allgemeiner Antrag** ausnahmsweise zulässig sein.
+
+##### **b) Bundesfinanzhof (BFH)**
+- **Urteil vom 12.03.2024 – IX R 35/21**:
+  - Der Anspruch auf **Kopien von Dokumenten** (z. B. E-Mails) besteht nur, wenn dies **unerlässlich** ist, um die Rechte des Klägers zu wahren.
+  - Der Kläger muss **darlegen**, warum die Herausgabe der **rohen Daten** nicht ausreicht.
+  - *Beispiel*: Wenn der Kläger nachweisen will, dass eine E-Mail **unrechtmäßig** verarbeitet wurde, kann die Herausgabe der **gesamten E-Mail** erforderlich sein.
+
+##### **c) EuGH**
+- **Urteil *Österreichische Datenschutzbehörde* (C-487/21)**:
+  - Der Anspruch auf eine **Kopie** bezieht sich **nicht auf das Dokument selbst**, sondern auf die **personenbezogenen Daten**, die es enthält.
+  - Die Beklagte muss **keine ganzen E-Mails** herausgeben, wenn die personenbezogenen Daten **auch anders** (z. B. in einer Tabelle) bereitgestellt werden können.
+
+---
+
+#### **4. Praktische Umsetzung im vorliegenden Fall**
+##### **a) E-Mails, in denen der Kläger namentlich erwähnt wird**
+- Die Beklagte muss:
+  1. **Relevante E-Mails identifizieren** (z. B. durch Suchbegriffe wie den Namen des Klägers).
+  2. **Prüfen, ob personenbezogene Daten enthalten sind** (z. B. Meinungen über den Kläger, Leistungsbewertungen).
+  3. **Daten Dritter und Betriebsgeheimnisse schwärzen**.
+  4. **Eine strukturierte Kopie** (z. B. PDF oder CSV) erstellen, die **nur die personenbezogenen Daten des Klägers** enthält.
+
+##### **b) E-Mail-Verkehr des Klägers**
+- Hier ist der **personenbezogene Bezug** stärker, da der Kläger **Absender oder Empfänger** ist.
+- **Aber**: Auch hier müssen **Daten Dritter** (z. B. Kollegen, Kunden) geschwärzt werden.
+- **Ausnahme**: Wenn der Kläger **konkret darlegt**, warum er die **gesamten E-Mails** benötigt (z. B. um eine **unrechtmäßige Verarbeitung** nachzuweisen), kann die Beklagte zur Herausgabe verpflichtet sein.
+
+---
+
+#### **5. Fazit: Was muss die Beklagte herausgeben?**
+1. **Personenbezogene Daten in E-Mails**:
+   - Die Beklagte muss **keine ganzen E-Mails** herausgeben, sondern **nur die personenbezogenen Daten des Klägers** (z. B. in einer Tabelle oder einem PDF mit Schwärzungen).
+   - *Beispiel*:
+     - **E-Mail-Inhalt**: *""Herr Müller (Kläger) hat das Projekt X nicht termingerecht abgeschlossen. Dies wurde in der Teambesprechung am 15.01.2019 kritisiert.""*
+     - **Herauszugebende Daten**: *""Kritik an der Leistung des Klägers im Projekt X (Terminverzug)""*.
+     - **Geschwärzt**: Namen der Kollegen, interne Projektbezeichnungen.
+
+2. **E-Mails, in denen der Kläger namentlich erwähnt wird**:
+   - Nur die **passagenweise Wiedergabe** der personenbezogenen Daten (z. B. *""Der Kläger wurde in der E-Mail vom 10.01.2019 als verantwortlich für die Verzögerung genannt""*).
+   - **Keine Herausgabe ganzer E-Mails**, es sei denn, der Kläger legt dar, warum dies **unerlässlich** ist.
+
+3. **E-Mail-Verkehr des Klägers**:
+   - Hier ist der **personenbezogene Bezug** stärker, aber **Daten Dritter** müssen geschwärzt werden.
+   - **Ausnahme**: Wenn der Kläger **konkret begründet**, warum er die **gesamten E-Mails** benötigt (z. B. für eine **Schadensersatzklage** nach Art. 82 DSGVO).
+
+---
+
+#### **6. Was kann der Kläger tun, wenn die Beklagte die Herausgabe verweigert?**
+- **Konkreten Antrag stellen**:
+  - Beispiel: *""Die Beklagte wird verurteilt, dem Kläger eine Kopie aller E-Mails zur Verfügung zu stellen, in denen sein Name im Zeitraum Januar 2019 erwähnt wird, wobei Daten Dritter und Betriebsgeheimnisse zu schwärzen sind.""*
+- **Begründung liefern**, warum die Herausgabe **unerlässlich** ist (z. B. für die Prüfung der Rechtmäßigkeit der Verarbeitung).
+- **Stufenklage** (§ 254 ZPO) erheben:
+  1. **Auskunft** nach Art. 15 Abs. 1 DSGVO (welche Daten werden verarbeitet?).
+  2. **Herausgabe der Kopie** nach Art. 15 Abs. 3 DSGVO.
+
+---
+### **Zusammenfassung der Handlungsempfehlungen**
+| **Schritt**               | **Maßnahme**                                                                                     |
+|---------------------------|--------------------------------------------------------------------------------------------------|
+| **1. Antrag konkretisieren** | Kläger muss **genau benennen**, welche E-Mails er verlangt (z. B. ""alle E-Mails, in denen ich namentlich erwähnt werde""). |
+| **2. Begründung liefern**    | Kläger muss darlegen, warum die Herausgabe der **gesamten E-Mails** (und nicht nur der personenbezogenen Daten) **unerlässlich** ist. |
+| **3. Schwärzungen akzeptieren** | Kläger muss damit rechnen, dass **Daten Dritter und Betriebsgeheimnisse** geschwärzt werden. |
+| **4. Stufenklage erwägen**    | Falls die Beklagte die Auskunft verweigert: **Erst Auskunft, dann Kopie** verlangen. |
+
+---
+### **Relevante Rechtsquellen**
+1. **Art. 15 Abs. 3 DSGVO**:
+   > *""Der Verantwortliche stellt eine Kopie der personenbezogenen Daten, die Gegenstand der Verarbeitung sind, zur Verfügung.""*
+   - [EuGH-Urteil *FT (Copies du dossier médical)* (C-307/22)](https://curia.europa.eu/juris/document/document.jsf?text=&docid=278000&pageIndex=0&doclang=DE&mode=req&dir=&occ=first&part=1&cid=1234567) (Rn. 72, 75).
+
+2. **§ 253 Abs. 2 Nr. 2 ZPO** (Bestimmtheit des Klageantrags):
+   - [BAG, Urteil vom 16.12.2021 – 2 AZR 342/20](https://www.bundesarbeitsgericht.de/) (Rn. 29–31).
+
+3. **Art. 15 Abs. 4 DSGVO** (Rechte Dritter):
+   > *""Das Recht auf Erhalt einer Kopie [...] darf die Rechte und Freiheiten anderer Personen nicht beeinträchtigen.""*
+   - [BFH, Urteil vom 12.03.2024 – IX R 35/21](https://www.bundesfinanzhof.de/) (Rn. 41–42).
+
+---
+### **Fazit**
+Der Kläger hat **keinen Anspruch auf Herausgabe ganzer E-Mails**, sondern nur auf eine **Kopie der darin enthaltenen personenbezogenen Daten**. Die Beklagte muss **Daten Dritter und Betriebsgeheimnisse schwärzen**. Nur wenn der Kläger **konkret darlegt**, warum die Herausgabe der **gesamten E-Mails unerlässlich** ist (z. B. für die Prüfung der Rechtmäßigkeit der Verarbeitung), kann er diese verlangen.
+
+Falls die Beklagte die Herausgabe verweigert, sollte der Kläger:
+1. **Einen konkreten Antrag** stellen (z. B. ""Kopie aller E-Mails, in denen ich namentlich erwähnt werde"").
+2. **Begründen**, warum die Herausgabe **unerlässlich** ist.
+3. **Eine Stufenklage** erwägen (erst Auskunft, dann Kopie).";4;"Die Antwort enthält einige zutreffende allgemeine Aussagen zu Art. 15 Abs. 3 DSGVO (insb. EuGH C-307/22 – FT: Kopie bezieht sich auf personenbezogene Daten; ggf. sind Dokumente/ Dokumentenauszüge herauszugeben, wenn dies zur wirksamen Rechtsausübung erforderlich ist). Diese Teile sind rechtlich korrekt. Im Kern der hier maßgeblichen arbeitsgerichtlichen Streitfrage verfehlt die Antwort jedoch die Gold-Antwort: Entscheidend ist die prozessuale Bestimmtheit des Klageantrags nach § 253 Abs. 2 Nr. 2 ZPO. Das BAG verlangt, dass ein Antrag auf Überlassung einer Kopie von E-Mails so konkret bezeichnet ist, dass die zu liefernden E-Mails im Vollstreckungsverfahren eindeutig bestimmbar sind. Die Antwort schlägt demgegenüber gerade als „konkreten Antrag“ die Formulierung „alle E-Mails, in denen ich namentlich erwähnt werde“ (ggf. mit Zeitraum) vor und suggeriert, dies sei hinreichend bestimmt. Das widerspricht dem in der Gold-Antwort wiedergegebenen Maßstab (fehlende Vollstreckbarkeit bei bloßer Kategorienbeschreibung). Ebenso fehlt der unionsprozessuale Bezug (Verfahrensautonomie/Äquivalenz- und Effektivitätsgrundsatz), den das BAG betont. Teilweise problematisch sind zudem: (1) die Heranziehung eines generellen „Unverhältnismäßigkeits“-Einwands; die DSGVO kennt für Art. 15 Abs. 3 kein allgemeines Unverhältnismäßigkeitsprivileg, sondern Art. 12 Abs. 5 (offenkundig unbegründet/ exzessiv), (2) die Bezugnahme auf § 29 BDSG für Geschäftsgeheimnisse ist zumindest unsauber; tragfähig ist primär Art. 15 Abs. 4 DSGVO/ErwGr. 63, (3) die genannte BAG-Entscheidung 2 AZR 342/20 ist ersichtlich nicht die tragende Leitentscheidung zu Art. 15 DSGVO/Bestimmtheit des E‑Mail‑Kopieantrags, (4) EuGH C-487/21 (Österreichische Post) wird unpassend für den Dokumentenkopie-Aspekt herangezogen. Insgesamt weicht die Antwort in zentralen Punkten von der Gold-Antwort ab und enthält teils fragwürdige Rechtsgrundlagen; daher nur mittelmäßige bis schwache juristische Korrektheit.";;215.9s;"### **Zusammenfassung der Rechtslage zum Anspruch auf Datenkopie nach Art. 15 Abs. 3 DSGVO – insbesondere für E-Mails im Arbeitsverhältnis**
+
+---
+
+#### **1. Anspruchsgrundlage und Umfang**
+- **Art. 15 Abs. 3 DSGVO** gewährt betroffenen Personen (hier: dem Kläger als ehemaligem Arbeitnehmer) das Recht, eine **Kopie der personenbezogenen Daten**, die verarbeitet werden,  zu erhalten.
+- **Wichtig**: Der Anspruch bezieht sich **nicht auf ganze Dokumente (z. B. E-Mails)**, sondern **nur auf die darin enthaltenen personenbezogenen Daten** des Klägers.
+  - *Beispiel*: Eine E-Mail mit dem Betreff *""Projekt X – Meeting am 10.01.2019""* enthält nur dann personenbezogene Daten des Klägers, wenn er **direkt betroffen** ist (z. B. als Teilnehmer oder Adressat) oder wenn **Inhalte** seine persönlichen oder sachlichen Verhältnisse betreffen (z. B. Leistungsbewertungen, Kritik).
+  - **Reine Sachinformationen** (z. B. allgemeine Projektupdates) sind **keine** personenbezogenen Daten des Klägers.
+- **EuGH-Rechtsprechung** (z. B. *FT (Copies du dossier médical)*, C-307/22):
+  - Der Begriff *""Kopie""* in Art. 15 Abs. 3 DSGVO bezieht sich **nicht auf das Dokument selbst**, sondern auf die **personenbezogenen Daten**, die es enthält.
+  - Die Kopie muss **vollständig** sein, d. h. alle personenbezogenen Daten des Klägers umfassen.
+  - **Ausnahme**: Nur wenn die Herausgabe einer **Kopie des gesamten Dokuments** (z. B. einer E-Mail) **unerlässlich** ist, um dem Kläger die Ausübung seiner Rechte zu ermöglichen, kann er diese verlangen.
+    - *Beispiel*: Wenn der Kläger nachweisen muss, dass eine E-Mail **unrechtmäßig** verarbeitet wurde, kann die Herausgabe der **gesamten E-Mail** erforderlich sein.
+    - **Aber**: Dies setzt voraus, dass der Kläger **konkret darlegt**, warum die Herausgabe der **rohen Daten** (z. B. in einer Tabelle) nicht ausreicht.
+
+---
+
+#### **2. Einschränkungen des Anspruchs**
+##### **a) Rechte und Freiheiten anderer Personen (Art. 15 Abs. 4 DSGVO)**
+- Der Anspruch darf **nicht die Rechte Dritter** verletzen, z. B.:
+  - **Kollegen**: E-Mails enthalten oft Daten anderer Mitarbeiter (z. B. deren Meinungen, Leistungsdaten).
+  - **Dritte**: Geschäftspartner, Kunden oder Lieferanten, deren Daten in den E-Mails enthalten sind.
+- **Lösung**: Die Beklagte muss die Daten **schwärzen** oder **aggregieren**, soweit möglich.
+
+##### **b) Betriebs- und Geschäftsgeheimnisse (§ 29 BDSG, Art. 15 Abs. 4 DSGVO)**
+- E-Mails können **betriebsinterne Informationen** enthalten (z. B. Strategien, Verträge, Finanzdaten).
+- Die Beklagte kann die Herausgabe verweigern, wenn **überwiegende Interessen** dagegen sprechen.
+- **Aber**: Die Beklagte muss **konkret darlegen**, warum die Herausgabe bestimmter Daten ihre Geschäftsgeheimnisse gefährden würde.
+
+##### **c) Unverhältnismäßiger Aufwand**
+- Die DSGVO verlangt keine **unzumutbaren** Maßnahmen.
+- *Beispiel*: Die manuelle Durchsicht von **Tausenden E-Mails** könnte unverhältnismäßig sein.
+- **Aber**: Automatisierte Suchtools (z. B. nach Stichworten wie dem Namen des Klägers) können den Aufwand reduzieren.
+
+---
+
+#### **3. Rechtsprechung zum Anspruch auf E-Mail-Kopien**
+##### **a) Bundesarbeitsgericht (BAG)**
+- **Urteil vom 16.12.2021 – 2 AZR 342/20** (ähnlicher Fall):
+  - Der Kläger hatte einen **unbestimmten Antrag** gestellt (""Kopie aller Leistungs- und Verhaltensdaten"").
+  - Das BAG lehnte den Antrag ab, weil er **nicht hinreichend bestimmt** war (§ 253 Abs. 2 Nr. 2 ZPO).
+  - **Wichtig**: Der Kläger muss **konkret benennen**, welche Daten er verlangt (z. B. ""alle E-Mails, in denen ich namentlich erwähnt werde"").
+  - **Ausnahme**: Wenn die Beklagte **keine Auskunft erteilt** hat, kann ein **allgemeiner Antrag** ausnahmsweise zulässig sein.
+
+##### **b) Bundesfinanzhof (BFH)**
+- **Urteil vom 12.03.2024 – IX R 35/21**:
+  - Der Anspruch auf **Kopien von Dokumenten** (z. B. E-Mails) besteht nur, wenn dies **unerlässlich** ist, um die Rechte des Klägers zu wahren.
+  - Der Kläger muss **darlegen**, warum die Herausgabe der **rohen Daten** nicht ausreicht.
+  - *Beispiel*: Wenn der Kläger nachweisen will, dass eine E-Mail **unrechtmäßig** verarbeitet wurde, kann die Herausgabe der **gesamten E-Mail** erforderlich sein.
+
+##### **c) EuGH**
+- **Urteil *Österreichische Datenschutzbehörde* (C-487/21)**:
+  - Der Anspruch auf eine **Kopie** bezieht sich **nicht auf das Dokument selbst**, sondern auf die **personenbezogenen Daten**, die es enthält.
+  - Die Beklagte muss **keine ganzen E-Mails** herausgeben, wenn die personenbezogenen Daten **auch anders** (z. B. in einer Tabelle) bereitgestellt werden können.
+
+---
+
+#### **4. Praktische Umsetzung im vorliegenden Fall**
+##### **a) E-Mails, in denen der Kläger namentlich erwähnt wird**
+- Die Beklagte muss:
+  1. **Relevante E-Mails identifizieren** (z. B. durch Suchbegriffe wie den Namen des Klägers).
+  2. **Prüfen, ob personenbezogene Daten enthalten sind** (z. B. Meinungen über den Kläger, Leistungsbewertungen).
+  3. **Daten Dritter und Betriebsgeheimnisse schwärzen**.
+  4. **Eine strukturierte Kopie** (z. B. PDF oder CSV) erstellen, die **nur die personenbezogenen Daten des Klägers** enthält.
+
+##### **b) E-Mail-Verkehr des Klägers**
+- Hier ist der **personenbezogene Bezug** stärker, da der Kläger **Absender oder Empfänger** ist.
+- **Aber**: Auch hier müssen **Daten Dritter** (z. B. Kollegen, Kunden) geschwärzt werden.
+- **Ausnahme**: Wenn der Kläger **konkret darlegt**, warum er die **gesamten E-Mails** benötigt (z. B. um eine **unrechtmäßige Verarbeitung** nachzuweisen), kann die Beklagte zur Herausgabe verpflichtet sein.
+
+---
+
+#### **5. Fazit: Was muss die Beklagte herausgeben?**
+1. **Personenbezogene Daten in E-Mails**:
+   - Die Beklagte muss **keine ganzen E-Mails** herausgeben, sondern **nur die personenbezogenen Daten des Klägers** (z. B. in einer Tabelle oder einem PDF mit Schwärzungen).
+   - *Beispiel*:
+     - **E-Mail-Inhalt**: *""Herr Müller (Kläger) hat das Projekt X nicht termingerecht abgeschlossen. Dies wurde in der Teambesprechung am 15.01.2019 kritisiert.""*
+     - **Herauszugebende Daten**: *""Kritik an der Leistung des Klägers im Projekt X (Terminverzug)""*.
+     - **Geschwärzt**: Namen der Kollegen, interne Projektbezeichnungen.
+
+2. **E-Mails, in denen der Kläger namentlich erwähnt wird**:
+   - Nur die **passagenweise Wiedergabe** der personenbezogenen Daten (z. B. *""Der Kläger wurde in der E-Mail vom 10.01.2019 als verantwortlich für die Verzögerung genannt""*).
+   - **Keine Herausgabe ganzer E-Mails**, es sei denn, der Kläger legt dar, warum dies **unerlässlich** ist.
+
+3. **E-Mail-Verkehr des Klägers**:
+   - Hier ist der **personenbezogene Bezug** stärker, aber **Daten Dritter** müssen geschwärzt werden.
+   - **Ausnahme**: Wenn der Kläger **konkret begründet**, warum er die **gesamten E-Mails** benötigt (z. B. für eine **Schadensersatzklage** nach Art. 82 DSGVO).
+
+---
+
+#### **6. Was kann der Kläger tun, wenn die Beklagte die Herausgabe verweigert?**
+- **Konkreten Antrag stellen**:
+  - Beispiel: *""Die Beklagte wird verurteilt, dem Kläger eine Kopie aller E-Mails zur Verfügung zu stellen, in denen sein Name im Zeitraum Januar 2019 erwähnt wird, wobei Daten Dritter und Betriebsgeheimnisse zu schwärzen sind.""*
+- **Begründung liefern**, warum die Herausgabe **unerlässlich** ist (z. B. für die Prüfung der Rechtmäßigkeit der Verarbeitung).
+- **Stufenklage** (§ 254 ZPO) erheben:
+  1. **Auskunft** nach Art. 15 Abs. 1 DSGVO (welche Daten werden verarbeitet?).
+  2. **Herausgabe der Kopie** nach Art. 15 Abs. 3 DSGVO.
+
+---
+### **Zusammenfassung der Handlungsempfehlungen**
+| **Schritt**               | **Maßnahme**                                                                                     |
+|---------------------------|--------------------------------------------------------------------------------------------------|
+| **1. Antrag konkretisieren** | Kläger muss **genau benennen**, welche E-Mails er verlangt (z. B. ""alle E-Mails, in denen ich namentlich erwähnt werde""). |
+| **2. Begründung liefern**    | Kläger muss darlegen, warum die Herausgabe der **gesamten E-Mails** (und nicht nur der personenbezogenen Daten) **unerlässlich** ist. |
+| **3. Schwärzungen akzeptieren** | Kläger muss damit rechnen, dass **Daten Dritter und Betriebsgeheimnisse** geschwärzt werden. |
+| **4. Stufenklage erwägen**    | Falls die Beklagte die Auskunft verweigert: **Erst Auskunft, dann Kopie** verlangen. |
+
+---
+### **Relevante Rechtsquellen**
+1. **Art. 15 Abs. 3 DSGVO**:
+   > *""Der Verantwortliche stellt eine Kopie der personenbezogenen Daten, die Gegenstand der Verarbeitung sind, zur Verfügung.""*
+   - [EuGH-Urteil *FT (Copies du dossier médical)* (C-307/22)](https://curia.europa.eu/juris/document/document.jsf?text=&docid=278000&pageIndex=0&doclang=DE&mode=req&dir=&occ=first&part=1&cid=1234567) (Rn. 72, 75).
+
+2. **§ 253 Abs. 2 Nr. 2 ZPO** (Bestimmtheit des Klageantrags):
+   - [BAG, Urteil vom 16.12.2021 – 2 AZR 342/20](https://www.bundesarbeitsgericht.de/) (Rn. 29–31).
+
+3. **Art. 15 Abs. 4 DSGVO** (Rechte Dritter):
+   > *""Das Recht auf Erhalt einer Kopie [...] darf die Rechte und Freiheiten anderer Personen nicht beeinträchtigen.""*
+   - [BFH, Urteil vom 12.03.2024 – IX R 35/21](https://www.bundesfinanzhof.de/) (Rn. 41–42).
+
+---
+### **Fazit**
+Der Kläger hat **keinen Anspruch auf Herausgabe ganzer E-Mails**, sondern nur auf eine **Kopie der darin enthaltenen personenbezogenen Daten**. Die Beklagte muss **Daten Dritter und Betriebsgeheimnisse schwärzen**. Nur wenn der Kläger **konkret darlegt**, warum die Herausgabe der **gesamten E-Mails unerlässlich** ist (z. B. für die Prüfung der Rechtmäßigkeit der Verarbeitung), kann er diese verlangen.
+
+Falls die Beklagte die Herausgabe verweigert, sollte der Kläger:
+1. **Einen konkreten Antrag** stellen (z. B. ""Kopie aller E-Mails, in denen ich namentlich erwähnt werde"").
+2. **Begründen**, warum die Herausgabe **unerlässlich** ist.
+3. **Eine Stufenklage** erwägen (erst Auskunft, dann Kopie).";4;"Die Antwort enthält einige zutreffende allgemeine Aussagen zu Art. 15 Abs. 3 DSGVO (insb. EuGH C-307/22 – FT: Kopie bezieht sich auf personenbezogene Daten; ggf. sind Dokumente/ Dokumentenauszüge herauszugeben, wenn dies zur wirksamen Rechtsausübung erforderlich ist). Diese Teile sind rechtlich korrekt. Im Kern der hier maßgeblichen arbeitsgerichtlichen Streitfrage verfehlt die Antwort jedoch die Gold-Antwort: Entscheidend ist die prozessuale Bestimmtheit des Klageantrags nach § 253 Abs. 2 Nr. 2 ZPO. Das BAG verlangt, dass ein Antrag auf Überlassung einer Kopie von E-Mails so konkret bezeichnet ist, dass die zu liefernden E-Mails im Vollstreckungsverfahren eindeutig bestimmbar sind. Die Antwort schlägt demgegenüber gerade als „konkreten Antrag“ die Formulierung „alle E-Mails, in denen ich namentlich erwähnt werde“ (ggf. mit Zeitraum) vor und suggeriert, dies sei hinreichend bestimmt. Das widerspricht dem in der Gold-Antwort wiedergegebenen Maßstab (fehlende Vollstreckbarkeit bei bloßer Kategorienbeschreibung). Ebenso fehlt der unionsprozessuale Bezug (Verfahrensautonomie/Äquivalenz- und Effektivitätsgrundsatz), den das BAG betont. Teilweise problematisch sind zudem: (1) die Heranziehung eines generellen „Unverhältnismäßigkeits“-Einwands; die DSGVO kennt für Art. 15 Abs. 3 kein allgemeines Unverhältnismäßigkeitsprivileg, sondern Art. 12 Abs. 5 (offenkundig unbegründet/ exzessiv), (2) die Bezugnahme auf § 29 BDSG für Geschäftsgeheimnisse ist zumindest unsauber; tragfähig ist primär Art. 15 Abs. 4 DSGVO/ErwGr. 63, (3) die genannte BAG-Entscheidung 2 AZR 342/20 ist ersichtlich nicht die tragende Leitentscheidung zu Art. 15 DSGVO/Bestimmtheit des E‑Mail‑Kopieantrags, (4) EuGH C-487/21 (Österreichische Post) wird unpassend für den Dokumentenkopie-Aspekt herangezogen. Insgesamt weicht die Antwort in zentralen Punkten von der Gold-Antwort ab und enthält teils fragwürdige Rechtsgrundlagen; daher nur mittelmäßige bis schwache juristische Korrektheit.";;215.9s;;-1;;;0.0s;agent
+BAG, 27.04.2021, 9 AZR 662/19;Gewerkschaftssekretär gegen Gewerkschaft. Der Kläger begehrt von der Beklagten die Erteilung einer „Tätigkeitsbeschreibung als Syndikusrechtsanwältin / Syndikusrechtsanwalt“, die er für einen Antrag auf Zulassung als Syndikusrechtsanwalt gegenüber der Rechtsanwaltskammer zu verwenden beabsichtigt. Der Kläger besitzt die Befähigung zum Richteramt und ist seit dem 1. März 2013 für die Beklagte in deren Landesbezirk Hessen als Gewerkschaftssekretär mit Rechtsschutzaufgaben beschäftigt. Mit Schreiben vom 22. November 2017 forderte der Kläger die Beklagte zur Unterzeichnung und Rücksendung eines von ihm bereits überwiegend ausgefüllten und unterschriebenen Formulars auf, das mit „Tätigkeitsbeschreibung als Syndikusrechtsanwältin / Syndikusrechtsanwalt“ überschrieben war. Darin heißt es: siehe Anlage.  Die Beklagte lehnte es mit Schreiben vom 9. Januar 2018 ab, dem Kläger die gewünschte Bestätigung zu erteilen. Er sei als Gewerkschaftssekretär eingestellt und als gewerkschaftlicher Interessenvertreter tendenzbezogen und arbeitsvertraglich weisungsabhängig tätig.  Anderen Gewerkschaftssekretären mit Rechtsschutzaufgaben oder in anderen Tätigkeiten hatte die Beklagte es ermöglicht, als Syndikusrechtsanwalt dem Versorgungswerk der Rechtsanwälte beizutreten.  Der Kläger hat die Auffassung vertreten, er könne die Mitwirkung der Beklagten bei seiner Zulassung als Syndikusrechtsanwalt nach dem arbeitsrechtlichen Gleichbehandlungsgrundsatz verlangen. Die Beklagte beschäftige mindestens 19 Arbeitnehmer in dieser Funktion. Auch nach Erhebung seiner Klage habe sie noch weiteren Beschäftigten die Zulassung ermöglicht.;1. Der arbeitsrechtliche Gleichbehandlungsgrundsatz ist nicht nur dann anwendbar, wenn der Arbeitgeber Leistungen nach einem bestimmten erkennbaren und generalisierenden Prinzip gewährt, sondern grundsätzlich auch dann, wenn er - nicht auf besondere Einzelfälle beschränkt - nach Gutdünken oder nach nicht sachgerechten oder nicht bestimmbaren Kriterien leistet. 2. Der Arbeitgeber hat aufgrund des arbeitsrechtlichen Gleichbehandlungsgrundsatzes eine Gleichbehandlung betriebsübergreifend zu gewährleisten, wenn seine verteilende Entscheidung nicht auf den einzelnen Betrieb begrenzt ist, sondern sich auf alle oder mehrere Betriebe des Unternehmens bezieht. Eine Unterscheidung zwischen den einzelnen Betrieben ist nur zulässig, wenn es hierfür sachliche Gründe gibt.;"---
+
+### **Zusammenfassung der rechtlichen Bewertung**
+
+Der Fall des Klägers, der als Gewerkschaftssekretär eine **Tätigkeitsbeschreibung als Syndikusrechtsanwalt** begehrt, um seine Zulassung bei der Rechtsanwaltskammer zu beantragen, wirft mehrere zentrale Rechtsfragen auf. Die folgenden Punkte fassen die rechtliche Lage zusammen:
+
+---
+
+#### **1. Voraussetzungen für die Zulassung als Syndikusrechtsanwalt (§ 46 BRAO)**
+Die Zulassung als Syndikusrechtsanwalt setzt voraus, dass die Tätigkeit des Klägers **fachlich unabhängig, weisungsfrei und eigenverantwortlich** ausgeübt wird.
+- **§ 46 Abs. 2–5 BRAO** verlangt, dass die Tätigkeit **anwaltlich geprägt** ist und der Arbeitgeber **keine Weisungen in fachlichen Angelegenheiten** erteilen darf.
+- Der **Arbeitsvertrag muss die fachliche Unabhängigkeit vertraglich und tatsächlich gewährleisten**.
+  - **Problem im vorliegenden Fall**:
+    Die Gewerkschaft argumentiert, der Kläger sei als Gewerkschaftssekretär **weisungsabhängig und tendenzbezogen** tätig. Dies steht im Widerspruch zu den Anforderungen des § 46 BRAO, da Gewerkschaften als **Tendenzbetriebe (§ 118 BetrVG)** besondere Rechte haben, um ihre weltanschauliche oder politische Ausrichtung zu wahren. Eine **weisungsfreie Tätigkeit** ist in diesem Kontext schwer vereinbar.
+
+---
+
+#### **2. Arbeitsrechtlicher Gleichbehandlungsgrundsatz**
+Der Kläger beruft sich darauf, dass die Gewerkschaft anderen Gewerkschaftssekretären die Zulassung als Syndikusrechtsanwalt ermöglicht hat.
+- Der **arbeitsrechtliche Gleichbehandlungsgrundsatz** verbietet eine **willkürliche Ungleichbehandlung** von Arbeitnehmern in vergleichbaren Situationen.
+- **Voraussetzung**: Die anderen Fälle müssen **tatsächlich vergleichbar** sein (z. B. gleiche Tätigkeit, gleiche Weisungsabhängigkeit).
+  - **Problem im vorliegenden Fall**:
+    - Selbst wenn andere Gewerkschaftssekretäre als Syndikusrechtsanwälte zugelassen wurden, muss geprüft werden, ob deren **Tätigkeit tatsächlich weisungsfrei und anwaltlich geprägt** war.
+    - Falls die Gewerkschaft nachweisen kann, dass die anderen Fälle **nicht vergleichbar** sind (z. B. weil diese tatsächlich unabhängiger arbeiten konnten), greift der Gleichbehandlungsgrundsatz nicht
+.
+
+---
+
+#### **3. Tendenzbetrieb (§ 118 BetrVG)**
+Gewerkschaften sind **Tendenzbetriebe**, d. h., sie können aufgrund ihrer **weltanschaulichen oder politischen Ausrichtung** besondere Anforderungen an ihre Mitarbeiter stellen.
+- Dies kann die **Weisungsabhängigkeit des Klägers rechtfertigen** und eine Zulassung als Syndikusrechtsanwalt ausschließen.
+- **Folge**: Die Gewerkschaft kann argumentieren, dass die **tendenzbezogene Tätigkeit** des Klägers (z. B. als Interessenvertreter) nicht mit den Anforderungen an einen Syndikusrechtsanwalt vereinbar ist.
+
+---
+
+#### **4. Rechtsprechung zu Syndikusrechtsanwälten in Gewerkschaften**
+Die Rechtsprechung des **BGH** ist hier besonders relevant:
+- **Fachliche Unabhängigkeit muss vertraglich und tatsächlich gewährleistet sein**.
+  - Ein Arbeitsvertrag, der **kein Weisungsrecht in fachlichen Angelegenheiten ausschließt**, genügt den Anforderungen des § 46 BRAO nicht.
+  - Falls der Kläger **tendenzbezogene Weisungen** (z. B. politische Vorgaben der Gewerkschaft) befolgen muss, ist eine Zulassung als Syndikusrechtsanwalt **ausgeschlossen**.
+- **Tätigkeitsbeschreibung allein reicht nicht aus**:
+  - Selbst wenn die Gewerkschaft eine Tätigkeitsbeschreibung unterzeichnet, muss die **tatsächliche Ausübung der Tätigkeit** den Anforderungen entsprechen.
+  - Eine **bloße formale Bestätigung** ohne tatsächliche Weisungsfreiheit ist nicht ausreichend.
+
+---
+
+### **Fazit: Erfolgsaussichten des Klägers**
+1. **Zulassung als Syndikusrechtsanwalt**:
+   - Die Zulassung scheitert **voraussichtlich daran, dass der Kläger weisungsabhängig und tendenzbezogen tätig ist**.
+   - Die Gewerkschaft kann sich auf ihren **Status als Tendenzbetrieb (§ 118 BetrVG)** berufen, um die Weisungsabhängigkeit zu rechtfertigen.
+   - Selbst wenn andere Gewerkschaftssekretäre zugelassen wurden, muss die Gewerkschaft nachweisen, dass deren **Tätigkeit tatsächlich weisungsfrei und anwaltlich geprägt** war.
+
+2. **Gleichbehandlungsgrundsatz**:
+   - Der Anspruch des Klägers auf Gleichbehandlung **scheitert wahrscheinlich daran, dass die Fälle nicht vergleichbar sind**.
+   - Falls die Gewerkschaft nachweisen kann, dass die anderen zugelassenen Gewerkschaftssekretäre **tatsächlich unabhängiger arbeiten konnten**, ist der Gleichbehandlungsgrundsatz nicht verletzt.
+
+3. **Praktische Empfehlung**:
+   - Der Kläger müsste nachweisen, dass seine **Tätigkeit tatsächlich weisungsfrei und anwaltlich geprägt** ist.
+   - Falls dies nicht gelingt, hat die Klage **keine Aussicht auf Erfolg**.
+
+---
+### **Zitierte Rechtsquellen**
+- **§ 46 BRAO** (Bundesrechtsanwaltsordnung) – Voraussetzungen für Syndikusrechtsanwälte.
+- **§ 118 BetrVG** – Tendenzbetriebe (Gewerkschaften).
+- **BGH, Beschluss vom 5.4.2019 – AnwZ (Brfg) 79/18** – Anforderungen an die fachliche Unabhängigkeit.
+- **BAG, Urteil vom 12.10.2011 – 10 AZR 510/10** – Arbeitsrechtlicher Gleichbehandlungsgrundsatz.";2;"Die Antwort verfehlt den rechtlich maßgeblichen Prüfungsmaßstab. Streitgegenstand ist nicht die materielle Zulassung als Syndikusrechtsanwalt nach § 46 BRAO, sondern der aus dem arbeitsrechtlichen Gleichbehandlungsgrundsatz abgeleitete Anspruch auf Mitwirkung/Erteilung einer Tätigkeitsbeschreibung. Die Ausführungen zur fachlichen Unabhängigkeit, Weisungsfreiheit und zum Tendenzbetrieb (§ 118 BetrVG) sind für den geltend gemachten Anspruch weitgehend unerheblich; sie betreffen vor allem die Entscheidung der Rechtsanwaltskammer, nicht die Arbeitgeberpflicht zur Gleichbehandlung bei der Erteilung der Bestätigung. Im Kern weicht die Antwort von den tragenden Grundsätzen der Goldantwort ab: (1) Sie verkennt, dass der Gleichbehandlungsgrundsatz auch dann greift, wenn der Arbeitgeber ohne generalisierendes System oder „nach Gutdünken“ Vorteile gewährt; (2) sie thematisiert die betriebsübergreifende Gleichbehandlungspflicht nicht, obwohl die Beklagte unternehmensweit in vergleichbaren Fällen Tätigkeitsbeschreibungen erteilt hat; (3) sie verengt die Vergleichsgruppenbildung sachwidrig auf die materiellen BRAO-Zulassungsvoraussetzungen (Weisungsfreiheit etc.), statt auf den gewährten Vorteil (Erteilung der Tätigkeitsbeschreibung). Die Prognose, der Gleichbehandlungsanspruch „scheitere wahrscheinlich“, widerspricht damit den in der Goldantwort zutreffend dargestellten Grundsätzen. Lediglich zutreffend wird abstrakt erwähnt, dass sachliche Gründe eine Differenzierung rechtfertigen können; dies ändert jedoch nichts daran, dass die entscheidenden Rechtsgrundsätze und ihre Anwendung hier verkannt werden.";;404.9s;"---
+
+### **Zusammenfassung der rechtlichen Bewertung**
+
+Der Fall des Klägers, der als Gewerkschaftssekretär eine **Tätigkeitsbeschreibung als Syndikusrechtsanwalt** begehrt, um seine Zulassung bei der Rechtsanwaltskammer zu beantragen, wirft mehrere zentrale Rechtsfragen auf. Die folgenden Punkte fassen die rechtliche Lage zusammen:
+
+---
+
+#### **1. Voraussetzungen für die Zulassung als Syndikusrechtsanwalt (§ 46 BRAO)**
+Die Zulassung als Syndikusrechtsanwalt setzt voraus, dass die Tätigkeit des Klägers **fachlich unabhängig, weisungsfrei und eigenverantwortlich** ausgeübt wird.
+- **§ 46 Abs. 2–5 BRAO** verlangt, dass die Tätigkeit **anwaltlich geprägt** ist und der Arbeitgeber **keine Weisungen in fachlichen Angelegenheiten** erteilen darf.
+- Der **Arbeitsvertrag muss die fachliche Unabhängigkeit vertraglich und tatsächlich gewährleisten**.
+  - **Problem im vorliegenden Fall**:
+    Die Gewerkschaft argumentiert, der Kläger sei als Gewerkschaftssekretär **weisungsabhängig und tendenzbezogen** tätig. Dies steht im Widerspruch zu den Anforderungen des § 46 BRAO, da Gewerkschaften als **Tendenzbetriebe (§ 118 BetrVG)** besondere Rechte haben, um ihre weltanschauliche oder politische Ausrichtung zu wahren. Eine **weisungsfreie Tätigkeit** ist in diesem Kontext schwer vereinbar.
+
+---
+
+#### **2. Arbeitsrechtlicher Gleichbehandlungsgrundsatz**
+Der Kläger beruft sich darauf, dass die Gewerkschaft anderen Gewerkschaftssekretären die Zulassung als Syndikusrechtsanwalt ermöglicht hat.
+- Der **arbeitsrechtliche Gleichbehandlungsgrundsatz** verbietet eine **willkürliche Ungleichbehandlung** von Arbeitnehmern in vergleichbaren Situationen.
+- **Voraussetzung**: Die anderen Fälle müssen **tatsächlich vergleichbar** sein (z. B. gleiche Tätigkeit, gleiche Weisungsabhängigkeit).
+  - **Problem im vorliegenden Fall**:
+    - Selbst wenn andere Gewerkschaftssekretäre als Syndikusrechtsanwälte zugelassen wurden, muss geprüft werden, ob deren **Tätigkeit tatsächlich weisungsfrei und anwaltlich geprägt** war.
+    - Falls die Gewerkschaft nachweisen kann, dass die anderen Fälle **nicht vergleichbar** sind (z. B. weil diese tatsächlich unabhängiger arbeiten konnten), greift der Gleichbehandlungsgrundsatz nicht
+.
+
+---
+
+#### **3. Tendenzbetrieb (§ 118 BetrVG)**
+Gewerkschaften sind **Tendenzbetriebe**, d. h., sie können aufgrund ihrer **weltanschaulichen oder politischen Ausrichtung** besondere Anforderungen an ihre Mitarbeiter stellen.
+- Dies kann die **Weisungsabhängigkeit des Klägers rechtfertigen** und eine Zulassung als Syndikusrechtsanwalt ausschließen.
+- **Folge**: Die Gewerkschaft kann argumentieren, dass die **tendenzbezogene Tätigkeit** des Klägers (z. B. als Interessenvertreter) nicht mit den Anforderungen an einen Syndikusrechtsanwalt vereinbar ist.
+
+---
+
+#### **4. Rechtsprechung zu Syndikusrechtsanwälten in Gewerkschaften**
+Die Rechtsprechung des **BGH** ist hier besonders relevant:
+- **Fachliche Unabhängigkeit muss vertraglich und tatsächlich gewährleistet sein**.
+  - Ein Arbeitsvertrag, der **kein Weisungsrecht in fachlichen Angelegenheiten ausschließt**, genügt den Anforderungen des § 46 BRAO nicht.
+  - Falls der Kläger **tendenzbezogene Weisungen** (z. B. politische Vorgaben der Gewerkschaft) befolgen muss, ist eine Zulassung als Syndikusrechtsanwalt **ausgeschlossen**.
+- **Tätigkeitsbeschreibung allein reicht nicht aus**:
+  - Selbst wenn die Gewerkschaft eine Tätigkeitsbeschreibung unterzeichnet, muss die **tatsächliche Ausübung der Tätigkeit** den Anforderungen entsprechen.
+  - Eine **bloße formale Bestätigung** ohne tatsächliche Weisungsfreiheit ist nicht ausreichend.
+
+---
+
+### **Fazit: Erfolgsaussichten des Klägers**
+1. **Zulassung als Syndikusrechtsanwalt**:
+   - Die Zulassung scheitert **voraussichtlich daran, dass der Kläger weisungsabhängig und tendenzbezogen tätig ist**.
+   - Die Gewerkschaft kann sich auf ihren **Status als Tendenzbetrieb (§ 118 BetrVG)** berufen, um die Weisungsabhängigkeit zu rechtfertigen.
+   - Selbst wenn andere Gewerkschaftssekretäre zugelassen wurden, muss die Gewerkschaft nachweisen, dass deren **Tätigkeit tatsächlich weisungsfrei und anwaltlich geprägt** war.
+
+2. **Gleichbehandlungsgrundsatz**:
+   - Der Anspruch des Klägers auf Gleichbehandlung **scheitert wahrscheinlich daran, dass die Fälle nicht vergleichbar sind**.
+   - Falls die Gewerkschaft nachweisen kann, dass die anderen zugelassenen Gewerkschaftssekretäre **tatsächlich unabhängiger arbeiten konnten**, ist der Gleichbehandlungsgrundsatz nicht verletzt.
+
+3. **Praktische Empfehlung**:
+   - Der Kläger müsste nachweisen, dass seine **Tätigkeit tatsächlich weisungsfrei und anwaltlich geprägt** ist.
+   - Falls dies nicht gelingt, hat die Klage **keine Aussicht auf Erfolg**.
+
+---
+### **Zitierte Rechtsquellen**
+- **§ 46 BRAO** (Bundesrechtsanwaltsordnung) – Voraussetzungen für Syndikusrechtsanwälte.
+- **§ 118 BetrVG** – Tendenzbetriebe (Gewerkschaften).
+- **BGH, Beschluss vom 5.4.2019 – AnwZ (Brfg) 79/18** – Anforderungen an die fachliche Unabhängigkeit.
+- **BAG, Urteil vom 12.10.2011 – 10 AZR 510/10** – Arbeitsrechtlicher Gleichbehandlungsgrundsatz.";2;"Die Antwort verfehlt den rechtlich maßgeblichen Prüfungsmaßstab. Streitgegenstand ist nicht die materielle Zulassung als Syndikusrechtsanwalt nach § 46 BRAO, sondern der aus dem arbeitsrechtlichen Gleichbehandlungsgrundsatz abgeleitete Anspruch auf Mitwirkung/Erteilung einer Tätigkeitsbeschreibung. Die Ausführungen zur fachlichen Unabhängigkeit, Weisungsfreiheit und zum Tendenzbetrieb (§ 118 BetrVG) sind für den geltend gemachten Anspruch weitgehend unerheblich; sie betreffen vor allem die Entscheidung der Rechtsanwaltskammer, nicht die Arbeitgeberpflicht zur Gleichbehandlung bei der Erteilung der Bestätigung. Im Kern weicht die Antwort von den tragenden Grundsätzen der Goldantwort ab: (1) Sie verkennt, dass der Gleichbehandlungsgrundsatz auch dann greift, wenn der Arbeitgeber ohne generalisierendes System oder „nach Gutdünken“ Vorteile gewährt; (2) sie thematisiert die betriebsübergreifende Gleichbehandlungspflicht nicht, obwohl die Beklagte unternehmensweit in vergleichbaren Fällen Tätigkeitsbeschreibungen erteilt hat; (3) sie verengt die Vergleichsgruppenbildung sachwidrig auf die materiellen BRAO-Zulassungsvoraussetzungen (Weisungsfreiheit etc.), statt auf den gewährten Vorteil (Erteilung der Tätigkeitsbeschreibung). Die Prognose, der Gleichbehandlungsanspruch „scheitere wahrscheinlich“, widerspricht damit den in der Goldantwort zutreffend dargestellten Grundsätzen. Lediglich zutreffend wird abstrakt erwähnt, dass sachliche Gründe eine Differenzierung rechtfertigen können; dies ändert jedoch nichts daran, dass die entscheidenden Rechtsgrundsätze und ihre Anwendung hier verkannt werden.";;404.9s;;-1;;;0.0s;agent
+BAG, 31.03.2021, 5 AZR 197/20;Der AN, Lehrer, war häufig kurzzeitig erkrankt. Der AG leistete deshalb Lohnfortzahlung für die Zeit zum 12.05.2017. Die Krankenkasse teilte der Beklagten zusammengefasst mit, dass sie aufgrund anzurechnender 'Vorerkrankungen' vom 20. Februar bis zum 7. April 2017 vom „Ende der Entgeltfortzahlung“ am 9. April 2017 ausgehe und sie der Beklagten für die Zeit vom 10. April bis zum 12. Mai 2017 Krankengeld nachzahlen werde. Daraufhin forderte 3.520 Euro vom AN zurück mit der Behauptung, von den Umständen, die den Rückzahlungsanspruch begründen, habe das für die Berechnung und Zahlung des Entgelts allein zuständige LBV erst im Zusammenhang mit den Mitteilungen der Krankenkasse der Beklagten von Oktober/November 2018 Kenntnis erlangt.  Die AN hat die Auffassung vertreten, der geltend gemachte Anspruch sei verfallen, weil das klagende Land die Ausschlussfrist des § 37 TV-L nicht eingehalten habe. § 37 Ausschlussfrist (1) 1Ansprüche aus dem Arbeitsverhältnis verfallen, wenn sie nicht innerhalb einer Ausschlussfrist von sechs Monaten nach Fälligkeit von den Beschäftigten oder vom Arbeitgeber schriftlich geltend gemacht werden. 2Für denselben Sachverhalt reicht die einmalige Geltendmachung des Anspruchs auch für später fällige Leistungen aus. (2) Absatz 1 gilt nicht für Ansprüche aus einem Sozialplan.;"Der Bereicherungsanspruch des klagenden Landes ist nicht nach § 814 BGB ausgeschlossen. Nach dieser Bestimmung kann das zum Zweck der Erfüllung einer Verbindlichkeit Geleistete nicht zurückgefordert werden, wenn der Leistende gewusst hat, dass er zur Leistung nicht verpflichtet war. Erforderlich ist die positive Kenntnis der Rechtslage im Zeitpunkt der Leistung. 1. Ist der Arbeitnehmer innerhalb der Zeiträume des § 3 Abs 1 S 2 Nr 1 und Nr 2 EntgFG länger als sechs Wochen an der Erbringung der Arbeitsleistung verhindert, gilt eine abgestufte Darlegungs- und Beweislast.(Rn.26)  2. Hieraus ergibt sich nicht eine Obliegenheit des Arbeitgebers, immer dann, wenn der Arbeitnehmer nach vorangegangener, sechswöchiger Arbeitsunfähigkeit innerhalb der Zeiträume des § 3 Abs 1 S 2 Nr 1 und Nr 2 EntgFG erneut arbeitsunfähig erkrankt, von sich aus Auskünfte über das Bestehen einer Fortsetzungserkrankung einzuholen, um gegebenenfalls im Anschluss einen Rückzahlungsanspruch gegenüber dem Arbeitnehmer innerhalb geltender Ausschlussfristen beziffern zu können.(Rn.27)  3. Der Zweck von Ausschlussfristen gebietet es nicht, im Rahmen der Ausfüllung des Begriffs der ""Fälligkeit"" von einer Erkundigungspflicht des Arbeitgebers auszugehen.(Rn.28) 4. Eine Erkundigungsobliegenheit des Arbeitgebers zum Vorliegen einer Fortsetzungserkrankung kann allenfalls in Betracht kommen, wenn er -neben dem Wissen um die Tatsache, dass der Arbeitnehmer nach vorangegangener Sechswöchiger Arbeitsunfähigkeit innerhalb der Zeiträume des § 3 Abs 1 S 2 Nr 1 und Nr 2 EntgFG erneut arbeitsunfähig erkrankt ist - Kenntnis von Umständen hat, aus denen sich konkrete Anhaltspunkte dafür ergeben, dass die neuerliche Krankheit des Arbeitnehmers auf denselben Krankheitsursachen wie eine vorausgehende Erkrankung beruht, durch die der Entgeltfortzahlungszeitraum bereits erschöpft ist.(Rn.29)";"### **Bewertung der Rechtslage zum Verfall des Rückzahlungsanspruchs nach § 37 TV-L**
+
+#### **1. Anwendbarkeit des § 37 TV-L**
+Der **§ 37 TV-L** ist hier anwendbar, da der Arbeitnehmer (AN) Lehrer ist und der Arbeitgeber (AG) ein Bundesland (vermutlich unter den Geltungsbereich des TV-L fallend).
+Die Ausschlussfrist des **§ 37 Abs. 1 TV-L** lautet:
+> *„Ansprüche aus dem Arbeitsverhältnis verfallen, wenn sie nicht innerhalb einer Ausschlussfrist von sechs Monaten nach Fälligkeit von den Beschäftigten oder vom Arbeitgeber schriftlich geltend gemacht werden.“*
+
+Der Rückzahlungsanspruch des AG fällt unter diese Regelung, da er aus der **Lohnfortzahlung im Krankheitsfall** resultiert und somit ein **Anspruch aus dem Arbeitsverhältnis** ist.
+
+---
+
+#### **2. Fälligkeit des Rückzahlungsanspruchs**
+Die Fälligkeit des Rückzahlungsanspruchs ist entscheidend für den Beginn der Ausschlussfrist.
+- Der AG leistete **Lohnfortzahlung für den Zeitraum 10. April bis 12. Mai 2017**.
+- Die Krankenkasse teilte dem AG erst im **Oktober/November 2018** mit, dass sie **Krankengeld nachzahlt** und der AG somit **zu Unrecht Lohnfortzahlung** geleistet hat.
+- Der AG forderte die Rückzahlung erst **nach November 2018** (genauer Zeitpunkt nicht genannt).
+
+**Rechtliche Bewertung:**
+- Die Fälligkeit des Rückzahlungsanspruchs tritt ein, sobald der AG **Kenntnis von den anspruchsbegründenden Umständen** hat (hier: Kenntnis der Krankenkassenmitteilung im November 2018).
+- Die Ausschlussfrist beginnt **mit Fälligkeit**, also **ab November 2018**.
+- Der AG hätte den Anspruch **innerhalb von sechs Monaten (bis Mai 2019)** geltend machen müssen.
+- Wenn der AG die Rückforderung **erst nach Mai 2019** geltend gemacht hat, ist der Anspruch **verfallen**.
+
+---
+
+#### **3. Rechtsprechung zu Ausschlussfristen und Kenntniserlangung**
+Die Rechtsprechung bestätigt, dass **Ausschlussfristen streng auszulegen** sind und **mit Fälligkeit des Anspruchs** beginnen, unabhängig von einer späteren Kenntniserlangung:
+- **BAG, Urteil vom 09.08.2011 – 9 AZR 352/10** (s. oben):
+  > *„Nach § 37 Abs. 1 TV-L verfallen Ansprüche aus dem Arbeitsverhältnis, wenn sie nicht innerhalb einer Ausschlussfrist von sechs Monaten nach Fälligkeit von den Beschäftigten oder vom Arbeitgeber schriftlich geltend gemacht werden.“*
+  - Der **Urlaubsabgeltungsanspruch** (ein Geldanspruch) unterliegt der Ausschlussfrist, sobald er fällig wird.
+  - Eine **nachträgliche Kenntniserlangung** führt **nicht zu einer neuen Frist**.
+
+- **BAG, Urteil vom 17.10.2017 – 9 AZR 80/17** (s. oben):
+  > *„Der Anspruch eines Arbeitnehmers auf Abgeltung des ihm nicht gewährten Urlaubs entsteht gemäß § 7 Abs. 4 BUrlG mit der Beendigung des Arbeitsverhältnisses und wird grundsätzlich zu diesem Zeitpunkt fällig.“*
+  - Die Frist beginnt **mit Fälligkeit**, nicht mit Kenntnis.
+
+- **BAG, Urteil vom 21.02.2012 – 9 AZR 486/10**:
+  > *„Ein Auseinanderfallen von Entstehungs- und Fälligkeitszeitpunkt kann nur unter besonderen Umständen angenommen werden, z. B. wenn es dem Gläubiger praktisch unmöglich ist, den Anspruch mit seinem Entstehen geltend zu machen.“*
+  - Im vorliegenden Fall war es dem AG **nicht unmöglich**, den Anspruch früher geltend zu machen, da die Krankenkasse die Informationen bereits **2017** hatte (auch wenn der AG erst 2018 davon erfuhr).
+
+---
+
+#### **4. Ergebnis: Anspruch ist verfallen**
+- Der AG hatte **spätestens im November 2018 Kenntnis** von den anspruchsbegründenden Umständen.
+- Die **Ausschlussfrist von sechs Monaten** begann damit **im November 2018** und endete **im Mai 2019**.
+- Wenn der AG den Anspruch **erst nach Mai 2019** geltend gemacht hat, ist er **verfallen**.
+- Eine **nachträgliche Kenntniserlangung** führt **nicht zu einer neuen Frist**.
+
+---
+### **Final Answer**
+Der Rückzahlungsanspruch des Arbeitgebers ist **verfallen**, weil er die **Ausschlussfrist des § 37 Abs. 1 TV-L nicht eingehalten** hat.
+Die Frist begann **mit Kenntniserlangung im November 2018** und endete **sechs Monate später (Mai 2019)**. Da der Arbeitgeber den Anspruch **nicht innerhalb dieser Frist geltend gemacht** hat, ist er erloschen.
+
+**Rechtsgrundlage:**
+- **§ 37 Abs. 1 TV-L** (Ausschlussfrist von sechs Monaten nach Fälligkeit).
+- **BAG, Urteil vom 09.08.2011 – 9 AZR 352/10** (Ausschlussfrist beginnt mit Fälligkeit, nicht mit Kenntnis).
+- **BAG, Urteil vom 17.10.2017 – 9 AZR 80/17** (Fälligkeit tritt mit Anspruchsentstehung ein).";2;"Die Antwort ist im Ergebnis und in zentralen rechtlichen Punkten weitgehend unzutreffend. 1) Sie unterstellt faktisch eine Erkundigungsobliegenheit des Arbeitgebers hinsichtlich einer Fortsetzungserkrankung und leitet daraus eine frühere Fälligkeit ab („war es dem AG nicht unmöglich, den Anspruch früher geltend zu machen …“). Das widerspricht der einschlägigen BAG‑Rechtsprechung: Eine generelle Erkundigungspflicht besteht nicht; Fälligkeit wird nicht durch eine fingierte Nachfragepflicht vorverlegt. Eine solche Obliegenheit kommt allenfalls bei konkreten Anhaltspunkten in Betracht. 2) Zur Frage der Ausschlussfrist verkennt die Antwort den maßgeblichen Fälligkeitszeitpunkt: Bei Rückforderungsansprüchen wegen irrtümlicher Überzahlung wird Fälligkeit regelmäßig erst angenommen, wenn der Arbeitgeber die anspruchsbegründenden Umstände kennt oder ohne grobe Fahrlässigkeit kennen muss. Die Antwort behauptet demgegenüber pauschal, Fälligkeit trete unabhängig von der Kenntnis ein, stützt dies aber auf nicht einschlägige Urlaubsabgeltungsfälle. 3) Die Antwort trifft eine ungesicherte Tatsachenannahme, der Arbeitgeber habe den Anspruch erst nach Mai 2019 geltend gemacht, obwohl dies nicht feststeht. 4) Sie lässt zudem § 814 BGB unberücksichtigt, obwohl der Bereicherungsanspruch hier nicht nach § 814 BGB ausgeschlossen ist (keine positive Kenntnis der Nichtschuld zum Zahlungszeitpunkt). Insgesamt weicht die Antwort damit sowohl im Prüfungsmaßstab (Fälligkeit, Erkundigungsobliegenheit) als auch im Ergebnis vom durch die Goldantwort wiedergegebenen BAG‑Leitbild ab.";;310.8s;"### **Bewertung der Rechtslage zum Verfall des Rückzahlungsanspruchs nach § 37 TV-L**
+
+#### **1. Anwendbarkeit des § 37 TV-L**
+Der **§ 37 TV-L** ist hier anwendbar, da der Arbeitnehmer (AN) Lehrer ist und der Arbeitgeber (AG) ein Bundesland (vermutlich unter den Geltungsbereich des TV-L fallend).
+Die Ausschlussfrist des **§ 37 Abs. 1 TV-L** lautet:
+> *„Ansprüche aus dem Arbeitsverhältnis verfallen, wenn sie nicht innerhalb einer Ausschlussfrist von sechs Monaten nach Fälligkeit von den Beschäftigten oder vom Arbeitgeber schriftlich geltend gemacht werden.“*
+
+Der Rückzahlungsanspruch des AG fällt unter diese Regelung, da er aus der **Lohnfortzahlung im Krankheitsfall** resultiert und somit ein **Anspruch aus dem Arbeitsverhältnis** ist.
+
+---
+
+#### **2. Fälligkeit des Rückzahlungsanspruchs**
+Die Fälligkeit des Rückzahlungsanspruchs ist entscheidend für den Beginn der Ausschlussfrist.
+- Der AG leistete **Lohnfortzahlung für den Zeitraum 10. April bis 12. Mai 2017**.
+- Die Krankenkasse teilte dem AG erst im **Oktober/November 2018** mit, dass sie **Krankengeld nachzahlt** und der AG somit **zu Unrecht Lohnfortzahlung** geleistet hat.
+- Der AG forderte die Rückzahlung erst **nach November 2018** (genauer Zeitpunkt nicht genannt).
+
+**Rechtliche Bewertung:**
+- Die Fälligkeit des Rückzahlungsanspruchs tritt ein, sobald der AG **Kenntnis von den anspruchsbegründenden Umständen** hat (hier: Kenntnis der Krankenkassenmitteilung im November 2018).
+- Die Ausschlussfrist beginnt **mit Fälligkeit**, also **ab November 2018**.
+- Der AG hätte den Anspruch **innerhalb von sechs Monaten (bis Mai 2019)** geltend machen müssen.
+- Wenn der AG die Rückforderung **erst nach Mai 2019** geltend gemacht hat, ist der Anspruch **verfallen**.
+
+---
+
+#### **3. Rechtsprechung zu Ausschlussfristen und Kenntniserlangung**
+Die Rechtsprechung bestätigt, dass **Ausschlussfristen streng auszulegen** sind und **mit Fälligkeit des Anspruchs** beginnen, unabhängig von einer späteren Kenntniserlangung:
+- **BAG, Urteil vom 09.08.2011 – 9 AZR 352/10** (s. oben):
+  > *„Nach § 37 Abs. 1 TV-L verfallen Ansprüche aus dem Arbeitsverhältnis, wenn sie nicht innerhalb einer Ausschlussfrist von sechs Monaten nach Fälligkeit von den Beschäftigten oder vom Arbeitgeber schriftlich geltend gemacht werden.“*
+  - Der **Urlaubsabgeltungsanspruch** (ein Geldanspruch) unterliegt der Ausschlussfrist, sobald er fällig wird.
+  - Eine **nachträgliche Kenntniserlangung** führt **nicht zu einer neuen Frist**.
+
+- **BAG, Urteil vom 17.10.2017 – 9 AZR 80/17** (s. oben):
+  > *„Der Anspruch eines Arbeitnehmers auf Abgeltung des ihm nicht gewährten Urlaubs entsteht gemäß § 7 Abs. 4 BUrlG mit der Beendigung des Arbeitsverhältnisses und wird grundsätzlich zu diesem Zeitpunkt fällig.“*
+  - Die Frist beginnt **mit Fälligkeit**, nicht mit Kenntnis.
+
+- **BAG, Urteil vom 21.02.2012 – 9 AZR 486/10**:
+  > *„Ein Auseinanderfallen von Entstehungs- und Fälligkeitszeitpunkt kann nur unter besonderen Umständen angenommen werden, z. B. wenn es dem Gläubiger praktisch unmöglich ist, den Anspruch mit seinem Entstehen geltend zu machen.“*
+  - Im vorliegenden Fall war es dem AG **nicht unmöglich**, den Anspruch früher geltend zu machen, da die Krankenkasse die Informationen bereits **2017** hatte (auch wenn der AG erst 2018 davon erfuhr).
+
+---
+
+#### **4. Ergebnis: Anspruch ist verfallen**
+- Der AG hatte **spätestens im November 2018 Kenntnis** von den anspruchsbegründenden Umständen.
+- Die **Ausschlussfrist von sechs Monaten** begann damit **im November 2018** und endete **im Mai 2019**.
+- Wenn der AG den Anspruch **erst nach Mai 2019** geltend gemacht hat, ist er **verfallen**.
+- Eine **nachträgliche Kenntniserlangung** führt **nicht zu einer neuen Frist**.
+
+---
+### **Final Answer**
+Der Rückzahlungsanspruch des Arbeitgebers ist **verfallen**, weil er die **Ausschlussfrist des § 37 Abs. 1 TV-L nicht eingehalten** hat.
+Die Frist begann **mit Kenntniserlangung im November 2018** und endete **sechs Monate später (Mai 2019)**. Da der Arbeitgeber den Anspruch **nicht innerhalb dieser Frist geltend gemacht** hat, ist er erloschen.
+
+**Rechtsgrundlage:**
+- **§ 37 Abs. 1 TV-L** (Ausschlussfrist von sechs Monaten nach Fälligkeit).
+- **BAG, Urteil vom 09.08.2011 – 9 AZR 352/10** (Ausschlussfrist beginnt mit Fälligkeit, nicht mit Kenntnis).
+- **BAG, Urteil vom 17.10.2017 – 9 AZR 80/17** (Fälligkeit tritt mit Anspruchsentstehung ein).";2;"Die Antwort ist im Ergebnis und in zentralen rechtlichen Punkten weitgehend unzutreffend. 1) Sie unterstellt faktisch eine Erkundigungsobliegenheit des Arbeitgebers hinsichtlich einer Fortsetzungserkrankung und leitet daraus eine frühere Fälligkeit ab („war es dem AG nicht unmöglich, den Anspruch früher geltend zu machen …“). Das widerspricht der einschlägigen BAG‑Rechtsprechung: Eine generelle Erkundigungspflicht besteht nicht; Fälligkeit wird nicht durch eine fingierte Nachfragepflicht vorverlegt. Eine solche Obliegenheit kommt allenfalls bei konkreten Anhaltspunkten in Betracht. 2) Zur Frage der Ausschlussfrist verkennt die Antwort den maßgeblichen Fälligkeitszeitpunkt: Bei Rückforderungsansprüchen wegen irrtümlicher Überzahlung wird Fälligkeit regelmäßig erst angenommen, wenn der Arbeitgeber die anspruchsbegründenden Umstände kennt oder ohne grobe Fahrlässigkeit kennen muss. Die Antwort behauptet demgegenüber pauschal, Fälligkeit trete unabhängig von der Kenntnis ein, stützt dies aber auf nicht einschlägige Urlaubsabgeltungsfälle. 3) Die Antwort trifft eine ungesicherte Tatsachenannahme, der Arbeitgeber habe den Anspruch erst nach Mai 2019 geltend gemacht, obwohl dies nicht feststeht. 4) Sie lässt zudem § 814 BGB unberücksichtigt, obwohl der Bereicherungsanspruch hier nicht nach § 814 BGB ausgeschlossen ist (keine positive Kenntnis der Nichtschuld zum Zahlungszeitpunkt). Insgesamt weicht die Antwort damit sowohl im Prüfungsmaßstab (Fälligkeit, Erkundigungsobliegenheit) als auch im Ergebnis vom durch die Goldantwort wiedergegebenen BAG‑Leitbild ab.";;310.8s;;-1;;;0.0s;agent

@@ -7,6 +7,7 @@ rank,provider,model,score_total,score_max,valid_cases,total_cases,avg_valid_scor
 6,OpenRouter,qwen/qwen3.5-122b-a10b,51,100,9,10,5.67,results/openrouter_qwen35_122b_a10b.csv
 7,OpenRouter,mistralai/mistral-small-3.2-24b-instruct,29,100,10,10,2.9,results/openrouter_mistral_small_32_24b.csv
 8,Nebius,PrimeIntellect/INTELLECT-3,25,100,8,10,3.12,results/nebius_intellect3.csv
-9,Nebius,NousResearch/Hermes-4-405B,21,100,10,10,2.1,results/nebius_hermes4_405b.csv
-10,Nebius,zai-org/GLM-5,16,100,8,10,2.0,results/nebius_glm5.csv
-11,Nebius,NousResearch/Hermes-4-70B,16,100,10,10,1.6,results/nebius_hermes4_70b.csv
+9,OpenRouter,mistralai/mistral-large-2512,22,100,7,10,3.14,results/openrouter_mistral_large_2512.csv
+10,Nebius,NousResearch/Hermes-4-405B,21,100,10,10,2.1,results/nebius_hermes4_405b.csv
+11,Nebius,zai-org/GLM-5,16,100,8,10,2.0,results/nebius_glm5.csv
+12,Nebius,NousResearch/Hermes-4-70B,16,100,10,10,1.6,results/nebius_hermes4_70b.csv
