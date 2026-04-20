@@ -14,6 +14,8 @@ The cases are short German legal fact patterns paired with gold answers derived 
 
 Current leaderboard as of `2026-04-20`.
 
+![Top 5 LLMs](assets/top-5-llms.svg)
+
 | Rank | Provider | Model | Score | Valid Cases | Avg. on Valid Cases |
 | --- | --- | --- | ---: | ---: | ---: |
 | 1 | OpenRouter | `anthropic/claude-opus-4.7` | `92/100` | `10/10` | `9.20` |

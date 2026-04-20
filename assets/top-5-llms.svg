@@ -1,0 +1,92 @@
+<svg width="1400" height="900" viewBox="0 0 1400 900" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Top 5 LLMs on the German Legal Agent Benchmark</title>
+  <desc id="desc">Horizontal bar chart showing Claude Opus 4.7 at 92, GLM-5.1 at 91, GPT-5.4 at 87, GLM-5 at 86, and Qwen3.5-122B at 51.</desc>
+  <defs>
+    <linearGradient id="bg" x1="88" y1="74" x2="1316" y2="826" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F7F4ED"/>
+      <stop offset="1" stop-color="#E9F0F8"/>
+    </linearGradient>
+    <linearGradient id="headline" x1="132" y1="146" x2="514" y2="146" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F97316"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+    <linearGradient id="bar1" x1="0" y1="0" x2="720" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EA580C"/>
+      <stop offset="1" stop-color="#FB923C"/>
+    </linearGradient>
+    <linearGradient id="bar2" x1="0" y1="0" x2="720" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D97706"/>
+      <stop offset="1" stop-color="#FBBF24"/>
+    </linearGradient>
+    <linearGradient id="bar3" x1="0" y1="0" x2="720" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+    <linearGradient id="bar4" x1="0" y1="0" x2="720" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F766E"/>
+      <stop offset="1" stop-color="#2DD4BF"/>
+    </linearGradient>
+    <linearGradient id="bar5" x1="0" y1="0" x2="720" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#C084FC"/>
+    </linearGradient>
+    <filter id="shadow" x="78" y="62" width="1244" height="776" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="14"/>
+      <feGaussianBlur stdDeviation="22"/>
+      <feComposite in2="hardAlpha" operator="out"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.0588235 0 0 0 0 0.0901961 0 0 0 0 0.164706 0 0 0 0.15 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1_1"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1_1" result="shape"/>
+    </filter>
+  </defs>
+
+  <rect width="1400" height="900" fill="#F2EFE8"/>
+  <g filter="url(#shadow)">
+    <rect x="122" y="92" width="1156" height="720" rx="34" fill="url(#bg)"/>
+  </g>
+
+  <rect x="132" y="128" width="382" height="10" rx="5" fill="url(#headline)"/>
+  <text x="132" y="188" fill="#0F172A" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="46" font-weight="700">Top 5 LLMs</text>
+  <text x="132" y="236" fill="#334155" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24" font-weight="500">German legal agent benchmark, score out of 100</text>
+
+  <text x="132" y="306" fill="#64748B" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="600">0</text>
+  <text x="395" y="306" fill="#64748B" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="600">25</text>
+  <text x="658" y="306" fill="#64748B" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="600">50</text>
+  <text x="921" y="306" fill="#64748B" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="600">75</text>
+  <text x="1172" y="306" fill="#64748B" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="600">100</text>
+
+  <line x1="260" y1="330" x2="260" y2="720" stroke="#CBD5E1" stroke-width="2"/>
+  <line x1="523" y1="330" x2="523" y2="720" stroke="#E2E8F0" stroke-width="2"/>
+  <line x1="786" y1="330" x2="786" y2="720" stroke="#E2E8F0" stroke-width="2"/>
+  <line x1="1049" y1="330" x2="1049" y2="720" stroke="#E2E8F0" stroke-width="2"/>
+  <line x1="1300" y1="330" x2="1300" y2="720" stroke="#CBD5E1" stroke-width="2"/>
+
+  <text x="132" y="384" fill="#0F172A" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="28" font-weight="650">Claude Opus 4.7</text>
+  <rect x="260" y="348" width="956" height="48" rx="24" fill="#E7EDF5"/>
+  <rect x="260" y="348" width="880" height="48" rx="24" fill="url(#bar1)"/>
+  <text x="1161" y="381" text-anchor="end" fill="#0F172A" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24" font-weight="700">92</text>
+
+  <text x="132" y="468" fill="#0F172A" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="28" font-weight="650">GLM-5.1</text>
+  <rect x="260" y="432" width="956" height="48" rx="24" fill="#E7EDF5"/>
+  <rect x="260" y="432" width="870" height="48" rx="24" fill="url(#bar2)"/>
+  <text x="1151" y="465" text-anchor="end" fill="#0F172A" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24" font-weight="700">91</text>
+
+  <text x="132" y="552" fill="#0F172A" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="28" font-weight="650">GPT-5.4</text>
+  <rect x="260" y="516" width="956" height="48" rx="24" fill="#E7EDF5"/>
+  <rect x="260" y="516" width="832" height="48" rx="24" fill="url(#bar3)"/>
+  <text x="1113" y="549" text-anchor="end" fill="#0F172A" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24" font-weight="700">87</text>
+
+  <text x="132" y="636" fill="#0F172A" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="28" font-weight="650">GLM-5</text>
+  <rect x="260" y="600" width="956" height="48" rx="24" fill="#E7EDF5"/>
+  <rect x="260" y="600" width="823" height="48" rx="24" fill="url(#bar4)"/>
+  <text x="1104" y="633" text-anchor="end" fill="#0F172A" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24" font-weight="700">86</text>
+
+  <text x="132" y="720" fill="#0F172A" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="28" font-weight="650">Qwen3.5-122B-A10B</text>
+  <rect x="260" y="684" width="956" height="48" rx="24" fill="#E7EDF5"/>
+  <rect x="260" y="684" width="488" height="48" rx="24" fill="url(#bar5)"/>
+  <text x="769" y="717" text-anchor="end" fill="#0F172A" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24" font-weight="700">51</text>
+
+  <text x="132" y="776" fill="#64748B" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="500">Latest published leaderboard snapshot. Provider names intentionally omitted from this chart.</text>
+</svg>
