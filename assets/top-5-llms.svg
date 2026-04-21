@@ -1,6 +1,6 @@
 <svg width="1400" height="900" viewBox="0 0 1400 900" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Top 5 LLMs on the German Legal Agent Benchmark</title>
-  <desc id="desc">Horizontal bar chart showing Claude Opus 4.7 at 92, GLM-5.1 at 91, GPT-5.4 at 87, GLM-5 at 86, and Qwen3.6 Plus at 85.</desc>
+  <desc id="desc">Horizontal bar chart showing Claude Opus 4.7 at 92, GLM-5.1 at 91, GPT-5.4 at 87, GLM-5 at 86, Qwen3.6 Plus at 85.</desc>
   <defs>
     <linearGradient id="bg" x1="88" y1="74" x2="1316" y2="826" gradientUnits="userSpaceOnUse">
       <stop stop-color="#F7F4ED"/>
@@ -79,9 +79,9 @@
   <text x="1128" y="549" text-anchor="end" fill="#0F172A" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24" font-weight="700">87</text>
 
   <rect x="260" y="600" width="956" height="48" rx="24" fill="#E7EDF5"/>
-  <rect x="260" y="600" width="823" height="48" rx="24" fill="url(#bar4)"/>
+  <rect x="260" y="600" width="822" height="48" rx="24" fill="url(#bar4)"/>
   <text x="132" y="636" fill="#0F172A" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="28" font-weight="650">GLM-5</text>
-  <text x="1119" y="633" text-anchor="end" fill="#0F172A" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24" font-weight="700">86</text>
+  <text x="1118" y="633" text-anchor="end" fill="#0F172A" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24" font-weight="700">86</text>
 
   <rect x="260" y="684" width="956" height="48" rx="24" fill="#E7EDF5"/>
   <rect x="260" y="684" width="813" height="48" rx="24" fill="url(#bar5)"/>
