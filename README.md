@@ -12,7 +12,7 @@ The cases are short German legal fact patterns paired with gold answers derived 
 
 ## Leaderboard
 
-Current leaderboard as of `2026-04-20`.
+Current leaderboard as of `2026-04-21`.
 
 ![Top 5 LLMs](assets/top-5-llms.svg)
 
@@ -22,14 +22,15 @@ Current leaderboard as of `2026-04-20`.
 | 2 | OpenRouter | `z-ai/glm-5.1` | `91/100` | `10/10` | `9.10` |
 | 3 | OpenRouter | `openai/gpt-5.4` | `87/100` | `10/10` | `8.70` |
 | 4 | OpenRouter | `z-ai/glm-5` | `86/100` | `10/10` | `8.60` |
-| 5 | OpenRouter | `qwen/qwen3.5-397b-a17b` | `80/100` | `10/10` | `8.00` |
-| 6 | OpenRouter | `qwen/qwen3.5-122b-a10b` | `51/100` | `9/10` | `5.67` |
-| 7 | OpenRouter | `mistralai/mistral-small-3.2-24b-instruct` | `29/100` | `10/10` | `2.90` |
-| 8 | Nebius | `PrimeIntellect/INTELLECT-3` | `25/100` | `8/10` | `3.12` |
-| 9 | OpenRouter | `mistralai/mistral-large-2512` | `22/100` | `7/10` | `3.14` |
-| 10 | Nebius | `NousResearch/Hermes-4-405B` | `21/100` | `10/10` | `2.10` |
-| 11 | Nebius | `zai-org/GLM-5` | `16/100` | `8/10` | `2.00` |
-| 12 | Nebius | `NousResearch/Hermes-4-70B` | `16/100` | `10/10` | `1.60` |
+| 5 | OpenRouter | `qwen/qwen3.6-plus` | `85/100` | `10/10` | `8.50` |
+| 6 | OpenRouter | `qwen/qwen3.5-397b-a17b` | `80/100` | `10/10` | `8.00` |
+| 7 | OpenRouter | `qwen/qwen3.5-122b-a10b` | `51/100` | `9/10` | `5.67` |
+| 8 | OpenRouter | `mistralai/mistral-small-3.2-24b-instruct` | `29/100` | `10/10` | `2.90` |
+| 9 | Nebius | `PrimeIntellect/INTELLECT-3` | `25/100` | `8/10` | `3.12` |
+| 10 | OpenRouter | `mistralai/mistral-large-2512` | `22/100` | `7/10` | `3.14` |
+| 11 | Nebius | `NousResearch/Hermes-4-405B` | `21/100` | `10/10` | `2.10` |
+| 12 | Nebius | `zai-org/GLM-5` | `16/100` | `8/10` | `2.00` |
+| 13 | Nebius | `NousResearch/Hermes-4-70B` | `16/100` | `10/10` | `1.60` |
 
 ## Method
 
@@ -47,6 +48,7 @@ Current leaderboard as of `2026-04-20`.
 - [results/openrouter_glm51.csv](results/openrouter_glm51.csv)
 - [results/openrouter_gpt54.csv](results/openrouter_gpt54.csv)
 - [results/openrouter_glm5.csv](results/openrouter_glm5.csv)
+- [results/openrouter_qwen36_plus.csv](results/openrouter_qwen36_plus.csv)
 - [results/openrouter_qwen35_397b_a17b.csv](results/openrouter_qwen35_397b_a17b.csv)
 - [results/openrouter_qwen35_122b_a10b.csv](results/openrouter_qwen35_122b_a10b.csv)
 - [results/openrouter_mistral_small_32_24b.csv](results/openrouter_mistral_small_32_24b.csv)
