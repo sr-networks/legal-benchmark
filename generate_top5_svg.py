@@ -32,6 +32,7 @@ DISPLAY_NAMES: dict[str, str] = {
     "NousResearch/Hermes-4-405B": "Hermes-4 405B",
     "NousResearch/Hermes-4-70B": "Hermes-4 70B",
     "zai-org/GLM-5": "GLM-5",
+    "zai-org/GLM-5.1": "GLM-5.1",
 }
 
 

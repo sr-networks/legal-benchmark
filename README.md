@@ -12,7 +12,7 @@ The cases are short German legal fact patterns paired with gold answers derived 
 
 ## Leaderboard
 
-Current leaderboard as of `2026-04-21`.
+Current leaderboard as of `2026-06-12`.
 
 ![Top 5 LLMs](assets/top-5-llms.svg)
 
@@ -24,13 +24,19 @@ Current leaderboard as of `2026-04-21`.
 | 4 | OpenRouter | `z-ai/glm-5` | `86/100` | `10/10` | `8.60` |
 | 5 | OpenRouter | `qwen/qwen3.6-plus` | `85/100` | `10/10` | `8.50` |
 | 6 | OpenRouter | `qwen/qwen3.5-397b-a17b` | `80/100` | `10/10` | `8.00` |
-| 7 | OpenRouter | `qwen/qwen3.5-122b-a10b` | `51/100` | `9/10` | `5.67` |
-| 8 | OpenRouter | `mistralai/mistral-small-3.2-24b-instruct` | `29/100` | `10/10` | `2.90` |
-| 9 | Nebius | `PrimeIntellect/INTELLECT-3` | `25/100` | `8/10` | `3.12` |
-| 10 | OpenRouter | `mistralai/mistral-large-2512` | `22/100` | `7/10` | `3.14` |
-| 11 | Nebius | `NousResearch/Hermes-4-405B` | `21/100` | `10/10` | `2.10` |
-| 12 | Nebius | `zai-org/GLM-5` | `16/100` | `8/10` | `2.00` |
-| 13 | Nebius | `NousResearch/Hermes-4-70B` | `16/100` | `10/10` | `1.60` |
+| 7 | Nebius | `zai-org/GLM-5.1` | `75/100` | `8/10` | `9.38` |
+| 8 | OpenRouter | `qwen/qwen3.5-122b-a10b` | `51/100` | `9/10` | `5.67` |
+| 9 | OpenRouter | `mistralai/mistral-small-3.2-24b-instruct` | `29/100` | `10/10` | `2.90` |
+| 10 | Nebius | `PrimeIntellect/INTELLECT-3` | `25/100` | `8/10` | `3.12` |
+| 11 | OpenRouter | `mistralai/mistral-large-2512` | `22/100` | `7/10` | `3.14` |
+| 12 | Nebius | `NousResearch/Hermes-4-405B` | `21/100` | `10/10` | `2.10` |
+| 13 | Nebius | `zai-org/GLM-5` | `16/100` | `8/10` | `2.00` |
+| 14 | Nebius | `NousResearch/Hermes-4-70B` | `16/100` | `10/10` | `1.60` |
+
+The Nebius `zai-org/GLM-5.1` run (2026-06-11) has the highest average on valid
+cases of any entry: `9.38/10` (≈ 94 %). Its two invalid cases failed on
+infrastructure errors (one research timeout, one LLM generation error), which
+count as `0` in the summed score, per the method below.
 
 ## Method
 
@@ -53,6 +59,7 @@ Current leaderboard as of `2026-04-21`.
 - [results/openrouter_qwen35_122b_a10b.csv](results/openrouter_qwen35_122b_a10b.csv)
 - [results/openrouter_mistral_small_32_24b.csv](results/openrouter_mistral_small_32_24b.csv)
 - [results/openrouter_mistral_large_2512.csv](results/openrouter_mistral_large_2512.csv)
+- [results/nebius_glm51.csv](results/nebius_glm51.csv)
 - [results/nebius_intellect3.csv](results/nebius_intellect3.csv)
 - [results/nebius_hermes4_405b.csv](results/nebius_hermes4_405b.csv)
 - [results/nebius_glm5.csv](results/nebius_glm5.csv)
