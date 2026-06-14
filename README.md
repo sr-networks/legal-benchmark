@@ -14,8 +14,9 @@ The cases are short German legal fact patterns paired with gold answers derived 
 
 Current leaderboard as of `2026-06-14`.
 
-All ranked rows below are runs of the same LegalGenius evaluation harness. The
-provider and model columns identify the LLM used inside that harness.
+Rows marked `LegalGenius` are runs of the same LegalGenius evaluation harness.
+The provider and model columns identify the LLM used inside that harness. The
+Libra row is an external reference.
 
 ![German legal benchmark comparison](assets/benchmark-comparison.svg)
 
@@ -28,6 +29,7 @@ provider and model columns identify the LLM used inside that harness.
 | 5 | LegalGenius | OpenRouter | `qwen/qwen3.6-plus` | `85/100` | `10/10` | `8.50` |
 | 6 | LegalGenius | OpenRouter | `qwen/qwen3.5-397b-a17b` | `80/100` | `10/10` | `8.00` |
 | 7 | LegalGenius | Nebius | `zai-org/GLM-5.1` | `75/100` | `8/10` | `9.38` |
+| Ref | External reference | Libra | DeepThinking | `73/100` | `n/a` | `n/a` |
 | 8 | LegalGenius | OpenRouter | `qwen/qwen3.5-122b-a10b` | `51/100` | `9/10` | `5.67` |
 | 9 | LegalGenius | OpenRouter | `mistralai/mistral-small-3.2-24b-instruct` | `29/100` | `10/10` | `2.90` |
 | 10 | LegalGenius | Nebius | `PrimeIntellect/INTELLECT-3` | `25/100` | `8/10` | `3.12` |
@@ -39,9 +41,9 @@ provider and model columns identify the LLM used inside that harness.
 ## External Reference
 
 Libra (DeepThinking) is included as a `73/100` (`73%`) external reference in
-the chart. It is not a LegalGenius harness run and is therefore not ranked in
-[leaderboard.csv](leaderboard.csv) or backed by a raw result file in
-[results/](results/).
+the README table and chart. It is not a LegalGenius harness run and is therefore
+not ranked in [leaderboard.csv](leaderboard.csv) or backed by a raw result file
+in [results/](results/).
 
 The Nebius `zai-org/GLM-5.1` run (2026-06-11) has the highest average on valid
 cases of any LegalGenius leaderboard entry: `9.38/10` (≈ 94 %). Its two invalid

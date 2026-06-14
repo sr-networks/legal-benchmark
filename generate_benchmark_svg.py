@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Regenerate assets/benchmark-comparison.svg from leaderboard.csv.
 
-Reads the five top-ranked LegalGenius harness rows from leaderboard.csv,
+Reads the three top-ranked LegalGenius harness rows from leaderboard.csv,
 then appends the external Libra DeepThinking reference used in README.md.
 """
 
@@ -13,6 +13,7 @@ from pathlib import Path
 ROOT = Path(__file__).parent
 INPUT = ROOT / "leaderboard.csv"
 OUTPUT = ROOT / "assets" / "benchmark-comparison.svg"
+CHART_LEGALGENIUS_COUNT = 3
 EXTERNAL_REFERENCES = [("Libra (DeepThinking)", 73, "External reference")]
 
 # Short display names for the chart. Fallback: derive from the model id
@@ -55,7 +56,7 @@ def read_chart_rows() -> list[tuple[str, int, str]]:
     rows.sort(key=lambda r: r[0])
     chart_rows = [
         (f"{harness} + {display_name(model)}", score, "Our harness")
-        for _, harness, model, score in rows[:5]
+        for _, harness, model, score in rows[:CHART_LEGALGENIUS_COUNT]
     ]
     chart_rows.extend(EXTERNAL_REFERENCES)
     return chart_rows
@@ -75,7 +76,7 @@ def render(chart_rows: list[tuple[str, int, str]]) -> str:
     bar_x = 132
     bar_max_w = 1050
     for i, (name, score, note) in enumerate(chart_rows, start=1):
-        label_y = 326 + (i - 1) * 92
+        label_y = 330 + (i - 1) * 104
         rect_y = label_y + 18
         score_y = rect_y + 25
         bar_w = round(bar_max_w * score / 100)
@@ -89,11 +90,11 @@ def render(chart_rows: list[tuple[str, int, str]]) -> str:
         )
     rows_block = "\n\n".join(rows_svg)
 
-    return f"""<svg width="1400" height="980" viewBox="0 0 1400 980" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+    return f"""<svg width="1400" height="860" viewBox="0 0 1400 860" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">German Legal Benchmark Comparison</title>
   <desc id="desc">{escape(desc)}</desc>
   <defs>
-    <linearGradient id="bg" x1="88" y1="74" x2="1316" y2="906" gradientUnits="userSpaceOnUse">
+    <linearGradient id="bg" x1="88" y1="74" x2="1316" y2="786" gradientUnits="userSpaceOnUse">
       <stop stop-color="#F7F4ED"/>
       <stop offset="1" stop-color="#E9F0F8"/>
     </linearGradient>
@@ -114,18 +115,10 @@ def render(chart_rows: list[tuple[str, int, str]]) -> str:
       <stop offset="1" stop-color="#38BDF8"/>
     </linearGradient>
     <linearGradient id="bar4" x1="0" y1="0" x2="720" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0F766E"/>
-      <stop offset="1" stop-color="#2DD4BF"/>
-    </linearGradient>
-    <linearGradient id="bar5" x1="0" y1="0" x2="720" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#7C3AED"/>
-      <stop offset="1" stop-color="#C084FC"/>
-    </linearGradient>
-    <linearGradient id="bar6" x1="0" y1="0" x2="720" y2="0" gradientUnits="userSpaceOnUse">
       <stop stop-color="#475569"/>
       <stop offset="1" stop-color="#94A3B8"/>
     </linearGradient>
-    <filter id="shadow" x="78" y="62" width="1244" height="856" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+    <filter id="shadow" x="78" y="62" width="1244" height="746" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
       <feFlood flood-opacity="0" result="BackgroundImageFix"/>
       <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
       <feOffset dy="14"/>
@@ -137,9 +130,9 @@ def render(chart_rows: list[tuple[str, int, str]]) -> str:
     </filter>
   </defs>
 
-  <rect width="1400" height="980" fill="#F2EFE8"/>
+  <rect width="1400" height="860" fill="#F2EFE8"/>
   <g filter="url(#shadow)">
-    <rect x="122" y="92" width="1156" height="800" rx="34" fill="url(#bg)"/>
+    <rect x="122" y="92" width="1156" height="690" rx="34" fill="url(#bg)"/>
   </g>
 
   <rect x="132" y="128" width="382" height="10" rx="5" fill="url(#headline)"/>
@@ -152,15 +145,15 @@ def render(chart_rows: list[tuple[str, int, str]]) -> str:
   <text x="915" y="286" fill="#64748B" {FONT} font-size="18" font-weight="600">75</text>
   <text x="1164" y="286" fill="#64748B" {FONT} font-size="18" font-weight="600">100</text>
 
-  <line x1="132" y1="302" x2="132" y2="824" stroke="#CBD5E1" stroke-width="2"/>
-  <line x1="395" y1="302" x2="395" y2="824" stroke="#E2E8F0" stroke-width="2"/>
-  <line x1="657" y1="302" x2="657" y2="824" stroke="#E2E8F0" stroke-width="2"/>
-  <line x1="920" y1="302" x2="920" y2="824" stroke="#E2E8F0" stroke-width="2"/>
-  <line x1="1182" y1="302" x2="1182" y2="824" stroke="#CBD5E1" stroke-width="2"/>
+  <line x1="132" y1="302" x2="132" y2="704" stroke="#CBD5E1" stroke-width="2"/>
+  <line x1="395" y1="302" x2="395" y2="704" stroke="#E2E8F0" stroke-width="2"/>
+  <line x1="657" y1="302" x2="657" y2="704" stroke="#E2E8F0" stroke-width="2"/>
+  <line x1="920" y1="302" x2="920" y2="704" stroke="#E2E8F0" stroke-width="2"/>
+  <line x1="1182" y1="302" x2="1182" y2="704" stroke="#CBD5E1" stroke-width="2"/>
 
 {rows_block}
 
-  <text x="132" y="848" fill="#64748B" {FONT} font-size="18" font-weight="500">LegalGenius rows are our harness runs with the named model. Libra is an external DeepThinking reference.</text>
+  <text x="132" y="748" fill="#64748B" {FONT} font-size="18" font-weight="500">LegalGenius rows are our harness runs with the named model. Libra is an external DeepThinking reference.</text>
 </svg>
 """
 
@@ -175,8 +168,9 @@ def escape(s: str) -> str:
 
 def main() -> int:
     chart_rows = read_chart_rows()
-    if len(chart_rows) < 6:
-        raise SystemExit(f"Expected at least 6 chart rows, got {len(chart_rows)}")
+    expected_rows = CHART_LEGALGENIUS_COUNT + len(EXTERNAL_REFERENCES)
+    if len(chart_rows) < expected_rows:
+        raise SystemExit(f"Expected at least {expected_rows} chart rows, got {len(chart_rows)}")
     OUTPUT.write_text(render(chart_rows), encoding="utf-8")
     print(f"Wrote {OUTPUT.relative_to(ROOT)} from {INPUT.name}:")
     for i, (name, score, note) in enumerate(chart_rows, 1):
