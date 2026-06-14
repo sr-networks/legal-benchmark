@@ -2,13 +2,21 @@
 
 This repository contains a small public benchmark for German legal research agents.
 
-The benchmark currently consists of:
+The benchmark currently consists of `10` curated legal research cases in [data/cases2021_eval.csv](data/cases2021_eval.csv)
 
-- `10` curated legal research cases in [data/cases2021_eval.csv](data/cases2021_eval.csv)
-- deduplicated raw result files in [results/](results/)
-- a flat LegalGenius harness leaderboard in [leaderboard.csv](leaderboard.csv)
+The cases are short German legal fact patterns paired with gold answers derived from the target case law. Evaluation is run by GPT-5.5 on Openrouter (ChatGPT app for Libra). 
 
-The cases are short German legal fact patterns paired with gold answers derived from the target case law.
+Prompt for Evaluation: "Du bist ein juristischer Experte und sollst die Antwort auf eine juristische Recherche-Arbeit bewerten und mit der Gold-Antwort vergleichen. Schätze die Korrektheit der Antwort auf einer Skala von 1 bis 10 ein und begründe. Bewerte nur die juristische Korrektheit und nicht die Form der Antwort.
+
+Frage: 
+...
+
+Goldantwort: 
+...
+
+Antwort:
+...
+"
 
 ## Leaderboard
 
@@ -39,13 +47,8 @@ Libra row is an external reference.
 
 ## External Reference
 
-Libra (DeepThinking) is included as a `73/100` (`73%`) external reference in
-the README table and chart, with `10/10` valid cases. It is not a LegalGenius
-harness run and is therefore not ranked in [leaderboard.csv](leaderboard.csv) or
-backed by a raw result file in [results/](results/).
-
-The Nebius `zai-org/GLM-5.1` row is the published GLM-5.1 benchmark result. It
-reached `91/100` with all `10/10` cases valid.
+Libra (Deep Thinking Mode) is included as a `73/100` (`73%`) external reference in
+the README table and chart, with `10/10` valid cases. 
 
 ## Method
 
@@ -57,28 +60,6 @@ reached `91/100` with all `10/10` cases valid.
 - Some models fail to return a usable final answer on every case. That is why the table also includes `Valid Cases`.
 - External references are shown separately when they were not produced by the LegalGenius harness.
 
-## Files
-
-- [data/cases2021_eval.csv](data/cases2021_eval.csv): benchmark input set
-- [leaderboard.csv](leaderboard.csv): machine-readable LegalGenius harness leaderboard
-- [assets/benchmark-comparison.svg](assets/benchmark-comparison.svg): generated comparison chart
-- [generate_benchmark_svg.py](generate_benchmark_svg.py): chart generator
-- [results/openrouter_opus47.csv](results/openrouter_opus47.csv): best current run
-- [results/openrouter_glm51.csv](results/openrouter_glm51.csv)
-- [results/openrouter_gpt54.csv](results/openrouter_gpt54.csv)
-- [results/openrouter_glm5.csv](results/openrouter_glm5.csv)
-- [results/openrouter_qwen36_plus.csv](results/openrouter_qwen36_plus.csv)
-- [results/openrouter_qwen35_397b_a17b.csv](results/openrouter_qwen35_397b_a17b.csv)
-- [results/openrouter_qwen35_122b_a10b.csv](results/openrouter_qwen35_122b_a10b.csv)
-- [results/openrouter_mistral_small_32_24b.csv](results/openrouter_mistral_small_32_24b.csv)
-- [results/openrouter_mistral_large_2512.csv](results/openrouter_mistral_large_2512.csv)
-- [results/nebius_glm51.csv](results/nebius_glm51.csv)
-- [results/nebius_intellect3.csv](results/nebius_intellect3.csv)
-- [results/nebius_hermes4_405b.csv](results/nebius_hermes4_405b.csv)
-- [results/nebius_glm5.csv](results/nebius_glm5.csv)
-- [results/nebius_hermes4_70b.csv](results/nebius_hermes4_70b.csv)
-
 ## Notes
 
-- The raw CSV result files in this repo are deduplicated to one row per case.
 - The benchmark was produced from the LegalGenius evaluation workflow, but this repo is intentionally standalone and only contains the benchmark data and published results.
