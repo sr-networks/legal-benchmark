@@ -28,7 +28,7 @@ Libra row is an external reference.
 | 4 | LegalGenius | OpenRouter | `z-ai/glm-5` | `86/100` | `10/10` | `8.60` |
 | 5 | LegalGenius | OpenRouter | `qwen/qwen3.6-plus` | `85/100` | `10/10` | `8.50` |
 | 6 | LegalGenius | OpenRouter | `qwen/qwen3.5-397b-a17b` | `80/100` | `10/10` | `8.00` |
-| Ref | External reference | Libra | DeepThinking | `73/100` | `n/a` | `n/a` |
+| Ref | External reference | Libra | DeepThinking | `73/100` | `10/10` | `7.30` |
 | 7 | LegalGenius | OpenRouter | `qwen/qwen3.5-122b-a10b` | `51/100` | `9/10` | `5.67` |
 | 8 | LegalGenius | OpenRouter | `mistralai/mistral-small-3.2-24b-instruct` | `29/100` | `10/10` | `2.90` |
 | 9 | LegalGenius | Nebius | `PrimeIntellect/INTELLECT-3` | `25/100` | `8/10` | `3.12` |
@@ -40,9 +40,9 @@ Libra row is an external reference.
 ## External Reference
 
 Libra (DeepThinking) is included as a `73/100` (`73%`) external reference in
-the README table and chart. It is not a LegalGenius harness run and is therefore
-not ranked in [leaderboard.csv](leaderboard.csv) or backed by a raw result file
-in [results/](results/).
+the README table and chart, with `10/10` valid cases. It is not a LegalGenius
+harness run and is therefore not ranked in [leaderboard.csv](leaderboard.csv) or
+backed by a raw result file in [results/](results/).
 
 The Nebius `zai-org/GLM-5.1` row is the published GLM-5.1 benchmark result. It
 reached `91/100` with all `10/10` cases valid.
