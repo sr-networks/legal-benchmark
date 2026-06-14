@@ -23,20 +23,19 @@ Libra row is an external reference.
 | Rank | Harness | Provider | Model | Score | Valid Cases | Avg. on Valid Cases |
 | --- | --- | --- | --- | ---: | ---: | ---: |
 | 1 | LegalGenius | OpenRouter | `anthropic/claude-opus-4.7` | `92/100` | `10/10` | `9.20` |
-| 2 | LegalGenius | Nebius | `zai-org/GLM-5.1` | `92/100` | `10/10` | `9.20` |
-| 3 | LegalGenius | OpenRouter | `z-ai/glm-5.1` | `91/100` | `10/10` | `9.10` |
-| 4 | LegalGenius | OpenRouter | `openai/gpt-5.4` | `87/100` | `10/10` | `8.70` |
-| 5 | LegalGenius | OpenRouter | `z-ai/glm-5` | `86/100` | `10/10` | `8.60` |
-| 6 | LegalGenius | OpenRouter | `qwen/qwen3.6-plus` | `85/100` | `10/10` | `8.50` |
-| 7 | LegalGenius | OpenRouter | `qwen/qwen3.5-397b-a17b` | `80/100` | `10/10` | `8.00` |
+| 2 | LegalGenius | Nebius | `zai-org/GLM-5.1` | `91/100` | `10/10` | `9.10` |
+| 3 | LegalGenius | OpenRouter | `openai/gpt-5.4` | `87/100` | `10/10` | `8.70` |
+| 4 | LegalGenius | OpenRouter | `z-ai/glm-5` | `86/100` | `10/10` | `8.60` |
+| 5 | LegalGenius | OpenRouter | `qwen/qwen3.6-plus` | `85/100` | `10/10` | `8.50` |
+| 6 | LegalGenius | OpenRouter | `qwen/qwen3.5-397b-a17b` | `80/100` | `10/10` | `8.00` |
 | Ref | External reference | Libra | DeepThinking | `73/100` | `n/a` | `n/a` |
-| 8 | LegalGenius | OpenRouter | `qwen/qwen3.5-122b-a10b` | `51/100` | `9/10` | `5.67` |
-| 9 | LegalGenius | OpenRouter | `mistralai/mistral-small-3.2-24b-instruct` | `29/100` | `10/10` | `2.90` |
-| 10 | LegalGenius | Nebius | `PrimeIntellect/INTELLECT-3` | `25/100` | `8/10` | `3.12` |
-| 11 | LegalGenius | OpenRouter | `mistralai/mistral-large-2512` | `22/100` | `7/10` | `3.14` |
-| 12 | LegalGenius | Nebius | `NousResearch/Hermes-4-405B` | `21/100` | `10/10` | `2.10` |
-| 13 | LegalGenius | Nebius | `zai-org/GLM-5` | `16/100` | `8/10` | `2.00` |
-| 14 | LegalGenius | Nebius | `NousResearch/Hermes-4-70B` | `16/100` | `10/10` | `1.60` |
+| 7 | LegalGenius | OpenRouter | `qwen/qwen3.5-122b-a10b` | `51/100` | `9/10` | `5.67` |
+| 8 | LegalGenius | OpenRouter | `mistralai/mistral-small-3.2-24b-instruct` | `29/100` | `10/10` | `2.90` |
+| 9 | LegalGenius | Nebius | `PrimeIntellect/INTELLECT-3` | `25/100` | `8/10` | `3.12` |
+| 10 | LegalGenius | OpenRouter | `mistralai/mistral-large-2512` | `22/100` | `7/10` | `3.14` |
+| 11 | LegalGenius | Nebius | `NousResearch/Hermes-4-405B` | `21/100` | `10/10` | `2.10` |
+| 12 | LegalGenius | Nebius | `zai-org/GLM-5` | `16/100` | `8/10` | `2.00` |
+| 13 | LegalGenius | Nebius | `NousResearch/Hermes-4-70B` | `16/100` | `10/10` | `1.60` |
 
 ## External Reference
 
@@ -45,8 +44,8 @@ the README table and chart. It is not a LegalGenius harness run and is therefore
 not ranked in [leaderboard.csv](leaderboard.csv) or backed by a raw result file
 in [results/](results/).
 
-The Nebius `zai-org/GLM-5.1` row is the current LegalGenius dev/dashboard run
-from 2026-06-14. It reached `92/100` with all `10/10` cases valid.
+The Nebius `zai-org/GLM-5.1` row is the published GLM-5.1 benchmark result. It
+reached `91/100` with all `10/10` cases valid.
 
 ## Method
 
