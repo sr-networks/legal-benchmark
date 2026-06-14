@@ -1,0 +1,107 @@
+<svg width="1400" height="980" viewBox="0 0 1400 980" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">German Legal Benchmark Comparison</title>
+  <desc id="desc">Horizontal bar chart showing LegalGenius + Claude Opus 4.7 at 92 percent, LegalGenius + GLM-5.1 at 91 percent, LegalGenius + GPT-5.4 at 87 percent, LegalGenius + GLM-5 at 86 percent, LegalGenius + Qwen3.6 Plus at 85 percent, Libra (DeepThinking) at 73 percent.</desc>
+  <defs>
+    <linearGradient id="bg" x1="88" y1="74" x2="1316" y2="906" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F7F4ED"/>
+      <stop offset="1" stop-color="#E9F0F8"/>
+    </linearGradient>
+    <linearGradient id="headline" x1="132" y1="146" x2="514" y2="146" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F97316"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+    <linearGradient id="bar1" x1="0" y1="0" x2="720" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EA580C"/>
+      <stop offset="1" stop-color="#FB923C"/>
+    </linearGradient>
+    <linearGradient id="bar2" x1="0" y1="0" x2="720" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D97706"/>
+      <stop offset="1" stop-color="#FBBF24"/>
+    </linearGradient>
+    <linearGradient id="bar3" x1="0" y1="0" x2="720" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+    <linearGradient id="bar4" x1="0" y1="0" x2="720" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F766E"/>
+      <stop offset="1" stop-color="#2DD4BF"/>
+    </linearGradient>
+    <linearGradient id="bar5" x1="0" y1="0" x2="720" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#C084FC"/>
+    </linearGradient>
+    <linearGradient id="bar6" x1="0" y1="0" x2="720" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#475569"/>
+      <stop offset="1" stop-color="#94A3B8"/>
+    </linearGradient>
+    <filter id="shadow" x="78" y="62" width="1244" height="856" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="14"/>
+      <feGaussianBlur stdDeviation="22"/>
+      <feComposite in2="hardAlpha" operator="out"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.0588235 0 0 0 0 0.0901961 0 0 0 0 0.164706 0 0 0 0.15 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1_1"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1_1" result="shape"/>
+    </filter>
+  </defs>
+
+  <rect width="1400" height="980" fill="#F2EFE8"/>
+  <g filter="url(#shadow)">
+    <rect x="122" y="92" width="1156" height="800" rx="34" fill="url(#bg)"/>
+  </g>
+
+  <rect x="132" y="128" width="382" height="10" rx="5" fill="url(#headline)"/>
+  <text x="132" y="188" fill="#0F172A" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="46" font-weight="700">German Legal Benchmark</text>
+  <text x="132" y="236" fill="#334155" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24" font-weight="500">LegalGenius harness results plus Libra reference, score out of 100</text>
+
+  <text x="132" y="286" fill="#64748B" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="600">0</text>
+  <text x="390" y="286" fill="#64748B" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="600">25</text>
+  <text x="653" y="286" fill="#64748B" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="600">50</text>
+  <text x="915" y="286" fill="#64748B" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="600">75</text>
+  <text x="1164" y="286" fill="#64748B" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="600">100</text>
+
+  <line x1="132" y1="302" x2="132" y2="824" stroke="#CBD5E1" stroke-width="2"/>
+  <line x1="395" y1="302" x2="395" y2="824" stroke="#E2E8F0" stroke-width="2"/>
+  <line x1="657" y1="302" x2="657" y2="824" stroke="#E2E8F0" stroke-width="2"/>
+  <line x1="920" y1="302" x2="920" y2="824" stroke="#E2E8F0" stroke-width="2"/>
+  <line x1="1182" y1="302" x2="1182" y2="824" stroke="#CBD5E1" stroke-width="2"/>
+
+  <text x="132" y="326" fill="#0F172A" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24" font-weight="650">LegalGenius + Claude Opus 4.7</text>
+  <text x="1182" y="326" text-anchor="end" fill="#64748B" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="17" font-weight="600">Our harness</text>
+  <rect x="132" y="344" width="1050" height="34" rx="17" fill="#E7EDF5"/>
+  <rect x="132" y="344" width="966" height="34" rx="17" fill="url(#bar1)"/>
+  <text x="1218" y="369" text-anchor="end" fill="#0F172A" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="23" font-weight="750">92%</text>
+
+  <text x="132" y="418" fill="#0F172A" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24" font-weight="650">LegalGenius + GLM-5.1</text>
+  <text x="1182" y="418" text-anchor="end" fill="#64748B" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="17" font-weight="600">Our harness</text>
+  <rect x="132" y="436" width="1050" height="34" rx="17" fill="#E7EDF5"/>
+  <rect x="132" y="436" width="956" height="34" rx="17" fill="url(#bar2)"/>
+  <text x="1218" y="461" text-anchor="end" fill="#0F172A" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="23" font-weight="750">91%</text>
+
+  <text x="132" y="510" fill="#0F172A" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24" font-weight="650">LegalGenius + GPT-5.4</text>
+  <text x="1182" y="510" text-anchor="end" fill="#64748B" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="17" font-weight="600">Our harness</text>
+  <rect x="132" y="528" width="1050" height="34" rx="17" fill="#E7EDF5"/>
+  <rect x="132" y="528" width="914" height="34" rx="17" fill="url(#bar3)"/>
+  <text x="1218" y="553" text-anchor="end" fill="#0F172A" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="23" font-weight="750">87%</text>
+
+  <text x="132" y="602" fill="#0F172A" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24" font-weight="650">LegalGenius + GLM-5</text>
+  <text x="1182" y="602" text-anchor="end" fill="#64748B" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="17" font-weight="600">Our harness</text>
+  <rect x="132" y="620" width="1050" height="34" rx="17" fill="#E7EDF5"/>
+  <rect x="132" y="620" width="903" height="34" rx="17" fill="url(#bar4)"/>
+  <text x="1218" y="645" text-anchor="end" fill="#0F172A" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="23" font-weight="750">86%</text>
+
+  <text x="132" y="694" fill="#0F172A" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24" font-weight="650">LegalGenius + Qwen3.6 Plus</text>
+  <text x="1182" y="694" text-anchor="end" fill="#64748B" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="17" font-weight="600">Our harness</text>
+  <rect x="132" y="712" width="1050" height="34" rx="17" fill="#E7EDF5"/>
+  <rect x="132" y="712" width="892" height="34" rx="17" fill="url(#bar5)"/>
+  <text x="1218" y="737" text-anchor="end" fill="#0F172A" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="23" font-weight="750">85%</text>
+
+  <text x="132" y="786" fill="#0F172A" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24" font-weight="650">Libra (DeepThinking)</text>
+  <text x="1182" y="786" text-anchor="end" fill="#64748B" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="17" font-weight="600">External reference</text>
+  <rect x="132" y="804" width="1050" height="34" rx="17" fill="#E7EDF5"/>
+  <rect x="132" y="804" width="766" height="34" rx="17" fill="url(#bar6)"/>
+  <text x="1218" y="829" text-anchor="end" fill="#0F172A" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="23" font-weight="750">73%</text>
+
+  <text x="132" y="848" fill="#64748B" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="500">LegalGenius rows are our harness runs with the named model. Libra is an external DeepThinking reference.</text>
+</svg>
