@@ -23,12 +23,12 @@ Libra row is an external reference.
 | Rank | Harness | Provider | Model | Score | Valid Cases | Avg. on Valid Cases |
 | --- | --- | --- | --- | ---: | ---: | ---: |
 | 1 | LegalGenius | OpenRouter | `anthropic/claude-opus-4.7` | `92/100` | `10/10` | `9.20` |
-| 2 | LegalGenius | OpenRouter | `z-ai/glm-5.1` | `91/100` | `10/10` | `9.10` |
-| 3 | LegalGenius | OpenRouter | `openai/gpt-5.4` | `87/100` | `10/10` | `8.70` |
-| 4 | LegalGenius | OpenRouter | `z-ai/glm-5` | `86/100` | `10/10` | `8.60` |
-| 5 | LegalGenius | OpenRouter | `qwen/qwen3.6-plus` | `85/100` | `10/10` | `8.50` |
-| 6 | LegalGenius | OpenRouter | `qwen/qwen3.5-397b-a17b` | `80/100` | `10/10` | `8.00` |
-| 7 | LegalGenius | Nebius | `zai-org/GLM-5.1` | `75/100` | `8/10` | `9.38` |
+| 2 | LegalGenius | Nebius | `zai-org/GLM-5.1` | `92/100` | `10/10` | `9.20` |
+| 3 | LegalGenius | OpenRouter | `z-ai/glm-5.1` | `91/100` | `10/10` | `9.10` |
+| 4 | LegalGenius | OpenRouter | `openai/gpt-5.4` | `87/100` | `10/10` | `8.70` |
+| 5 | LegalGenius | OpenRouter | `z-ai/glm-5` | `86/100` | `10/10` | `8.60` |
+| 6 | LegalGenius | OpenRouter | `qwen/qwen3.6-plus` | `85/100` | `10/10` | `8.50` |
+| 7 | LegalGenius | OpenRouter | `qwen/qwen3.5-397b-a17b` | `80/100` | `10/10` | `8.00` |
 | Ref | External reference | Libra | DeepThinking | `73/100` | `n/a` | `n/a` |
 | 8 | LegalGenius | OpenRouter | `qwen/qwen3.5-122b-a10b` | `51/100` | `9/10` | `5.67` |
 | 9 | LegalGenius | OpenRouter | `mistralai/mistral-small-3.2-24b-instruct` | `29/100` | `10/10` | `2.90` |
@@ -45,10 +45,8 @@ the README table and chart. It is not a LegalGenius harness run and is therefore
 not ranked in [leaderboard.csv](leaderboard.csv) or backed by a raw result file
 in [results/](results/).
 
-The Nebius `zai-org/GLM-5.1` run (2026-06-11) has the highest average on valid
-cases of any LegalGenius leaderboard entry: `9.38/10` (≈ 94 %). Its two invalid
-cases failed on infrastructure errors (one research timeout, one LLM generation
-error), which count as `0` in the summed score, per the method below.
+The Nebius `zai-org/GLM-5.1` row is the current LegalGenius dev/dashboard run
+from 2026-06-14. It reached `92/100` with all `10/10` cases valid.
 
 ## Method
 

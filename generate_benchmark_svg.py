@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Regenerate assets/benchmark-comparison.svg from leaderboard.csv.
 
-Reads the three top-ranked LegalGenius harness rows from leaderboard.csv,
-then appends the external Libra DeepThinking reference used in README.md.
+Reads selected LegalGenius harness rows from leaderboard.csv, then appends
+the external Libra DeepThinking reference used in README.md.
 """
 
 from __future__ import annotations
@@ -13,7 +13,11 @@ from pathlib import Path
 ROOT = Path(__file__).parent
 INPUT = ROOT / "leaderboard.csv"
 OUTPUT = ROOT / "assets" / "benchmark-comparison.svg"
-CHART_LEGALGENIUS_COUNT = 3
+CHART_LEGALGENIUS_ROWS = [
+    ("OpenRouter", "anthropic/claude-opus-4.7"),
+    ("Nebius", "zai-org/GLM-5.1"),
+    ("OpenRouter", "openai/gpt-5.4"),
+]
 EXTERNAL_REFERENCES = [("Libra (DeepThinking)", 73, "External reference")]
 
 # Short display names for the chart. Fallback: derive from the model id
@@ -44,20 +48,23 @@ def display_name(model_id: str) -> str:
 
 
 def read_chart_rows() -> list[tuple[str, int, str]]:
-    rows: list[tuple[int, str, str, int]] = []
+    rows: dict[tuple[str, str], tuple[str, str, str, int]] = {}
     with INPUT.open("r", encoding="utf-8") as f:
         for row in csv.DictReader(f):
             try:
-                rank = int(row["rank"])
                 score = int(row["score_total"])
             except (KeyError, ValueError):
                 continue
-            rows.append((rank, row.get("harness", "LegalGenius"), row["model"], score))
-    rows.sort(key=lambda r: r[0])
-    chart_rows = [
-        (f"{harness} + {display_name(model)}", score, "Our harness")
-        for _, harness, model, score in rows[:CHART_LEGALGENIUS_COUNT]
-    ]
+            key = (row["provider"], row["model"])
+            rows[key] = (row.get("harness", "LegalGenius"), row["provider"], row["model"], score)
+
+    chart_rows: list[tuple[str, int, str]] = []
+    for key in CHART_LEGALGENIUS_ROWS:
+        if key not in rows:
+            raise SystemExit(f"Missing chart row in {INPUT.name}: {key[0]} {key[1]}")
+        harness, provider, model, score = rows[key]
+        chart_rows.append((f"{harness} + {display_name(model)}", score, provider))
+
     chart_rows.extend(EXTERNAL_REFERENCES)
     return chart_rows
 
@@ -137,7 +144,7 @@ def render(chart_rows: list[tuple[str, int, str]]) -> str:
 
   <rect x="132" y="128" width="382" height="10" rx="5" fill="url(#headline)"/>
   <text x="132" y="188" fill="#0F172A" {FONT} font-size="46" font-weight="700">German Legal Benchmark</text>
-  <text x="132" y="236" fill="#334155" {FONT} font-size="24" font-weight="500">LegalGenius harness results plus Libra reference, score out of 100</text>
+  <text x="132" y="236" fill="#334155" {FONT} font-size="24" font-weight="500">LegalGenius harness results by provider plus Libra reference, score out of 100</text>
 
   <text x="132" y="286" fill="#64748B" {FONT} font-size="18" font-weight="600">0</text>
   <text x="390" y="286" fill="#64748B" {FONT} font-size="18" font-weight="600">25</text>
@@ -153,7 +160,7 @@ def render(chart_rows: list[tuple[str, int, str]]) -> str:
 
 {rows_block}
 
-  <text x="132" y="748" fill="#64748B" {FONT} font-size="18" font-weight="500">LegalGenius rows are our harness runs with the named model. Libra is an external DeepThinking reference.</text>
+  <text x="132" y="748" fill="#64748B" {FONT} font-size="18" font-weight="500">LegalGenius rows are our harness runs; right labels show provider. Libra is an external reference.</text>
 </svg>
 """
 
@@ -168,7 +175,7 @@ def escape(s: str) -> str:
 
 def main() -> int:
     chart_rows = read_chart_rows()
-    expected_rows = CHART_LEGALGENIUS_COUNT + len(EXTERNAL_REFERENCES)
+    expected_rows = len(CHART_LEGALGENIUS_ROWS) + len(EXTERNAL_REFERENCES)
     if len(chart_rows) < expected_rows:
         raise SystemExit(f"Expected at least {expected_rows} chart rows, got {len(chart_rows)}")
     OUTPUT.write_text(render(chart_rows), encoding="utf-8")
