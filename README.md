@@ -26,6 +26,7 @@ reference.
 | 1 | LegalGenius | Nebius | `zai-org/GLM-5.2` | `high` | `91/100` | `10/10` | `9.10` | 56.6k / 1.8k | €0.076 |
 | 2 | LegalGenius | OpenRouter | `anthropic/claude-opus-4.8` | `standard (OpenRouter)` | `91/100` | `10/10` | `9.10` | 51.5k / 2.5k | $0.32 |
 | 3 | LegalGenius | OpenRouter | `openai/gpt-5.5` | `high (OpenRouter)` | `91/100` | `10/10` | `9.10` | 76.2k / 3.2k | $0.48 |
+| 4 | LegalGenius | OpenRouter | `openai/gpt-5.4-mini` | `default (OpenRouter)` | `67/100` | `10/10` | `6.70` | 23.5k / 0.7k | $0.021 |
 | Ref | External reference | Libra | DeepThinking | `DeepThinking` | `73/100` | `10/10` | `7.30` | — | — |
 
 `GLM-5.2`, `Claude Opus 4.8` and `GPT-5.5` tie at `91/100` (`9.10` average); GLM-5.2
@@ -33,7 +34,10 @@ is listed first. GLM-5.2 ran at reasoning effort `high` on Nebius. The OpenRoute
 models: GPT-5.5 ran at reasoning effort `high`; Claude Opus 4.8 ran in `standard`
 mode, because its extended thinking is not engageable via OpenRouter (verified — the
 `reasoning` parameter produced no thinking tokens and no extra cost), so its `91/100`
-is without extended thinking. Libra is shown at its `DeepThinking` mode.
+is without extended thinking. Libra is shown at its `DeepThinking` mode. A cheap,
+lower-tier model — `GPT-5.4 mini` (67/100, ~$0.021/case) — is included as a reference
+to show the harness discriminates between tiers (the 91/100 at the top is not a ceiling
+artifact).
 
 ### Tokens & cost
 
@@ -48,6 +52,7 @@ the 10 benchmark cases. `Cost/case` uses each provider's list price at run time
 | GLM-5.2 (Nebius) | €1.20 / €4.40 | (56,610 × 1.20 + 1,750 × 4.40) / 1e6 = **€0.076** |
 | Claude Opus 4.8 (OpenRouter) | $5.00 / $25.00 | (51,460 × 5.00 + 2,502 × 25.00) / 1e6 = **$0.320** |
 | GPT-5.5 (OpenRouter) | $5.00 / $30.00 | (76,189 × 5.00 + 3,210 × 30.00) / 1e6 = **$0.477** |
+| GPT-5.4 mini (OpenRouter) | $0.75 / $4.50 | (23,544 × 0.75 + 730 × 4.50) / 1e6 = **$0.021** |
 
 - **Currencies differ:** GLM-5.2 (Nebius) is priced in **EUR**, the OpenRouter models
   in **USD** (~1.08 FX) — the ~4–6× cost gap dwarfs the conversion.
@@ -88,6 +93,7 @@ It reached `91/100` with all `10/10` cases valid, at reasoning effort `high`.
 - [results/nebius_glm52_high.csv](results/nebius_glm52_high.csv): GLM-5.2 (Nebius, reasoning `high`)
 - [results/openrouter_opus48.csv](results/openrouter_opus48.csv): Claude Opus 4.8 (OpenRouter, standard)
 - [results/openrouter_gpt55_high.csv](results/openrouter_gpt55_high.csv): GPT-5.5 (OpenRouter, reasoning high)
+- [results/openrouter_gpt54mini.csv](results/openrouter_gpt54mini.csv): GPT-5.4 mini (OpenRouter, cheap reference)
 
 ## Notes
 
