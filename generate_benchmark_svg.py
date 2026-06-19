@@ -14,11 +14,11 @@ ROOT = Path(__file__).parent
 INPUT = ROOT / "leaderboard.csv"
 OUTPUT = ROOT / "assets" / "benchmark-comparison.svg"
 CHART_LEGALGENIUS_ROWS = [
-    ("OpenRouter", "anthropic/claude-opus-4.7"),
-    ("Nebius", "zai-org/GLM-5.1"),
-    ("OpenRouter", "openai/gpt-5.4"),
+    ("Nebius", "zai-org/GLM-5.2"),
+    ("OpenRouter", "anthropic/claude-opus-4.8"),
+    ("OpenRouter", "openai/gpt-5.5"),
 ]
-EXTERNAL_REFERENCES = [("Libra (DeepThinking)", 73, "External reference")]
+EXTERNAL_REFERENCES = [("Libra · DeepThinking", 73, "External reference")]
 
 # Short display names for the chart. Fallback: derive from the model id
 # by stripping the vendor prefix and tidying up separators.
@@ -37,6 +37,9 @@ DISPLAY_NAMES: dict[str, str] = {
     "NousResearch/Hermes-4-70B": "Hermes-4 70B",
     "zai-org/GLM-5": "GLM-5",
     "zai-org/GLM-5.1": "GLM-5.1",
+    "zai-org/GLM-5.2": "GLM-5.2",
+    "anthropic/claude-opus-4.8": "Claude Opus 4.8",
+    "openai/gpt-5.5": "GPT-5.5",
 }
 
 
@@ -48,7 +51,7 @@ def display_name(model_id: str) -> str:
 
 
 def read_chart_rows() -> list[tuple[str, int, str]]:
-    rows: dict[tuple[str, str], tuple[str, str, str, int]] = {}
+    rows: dict[tuple[str, str], tuple[str, str, str, int, str]] = {}
     with INPUT.open("r", encoding="utf-8") as f:
         for row in csv.DictReader(f):
             try:
@@ -56,14 +59,17 @@ def read_chart_rows() -> list[tuple[str, int, str]]:
             except (KeyError, ValueError):
                 continue
             key = (row["provider"], row["model"])
-            rows[key] = (row.get("harness", "LegalGenius"), row["provider"], row["model"], score)
+            rows[key] = (row.get("harness", "LegalGenius"), row["provider"], row["model"], score, (row.get("reasoning") or "").strip())
 
     chart_rows: list[tuple[str, int, str]] = []
     for key in CHART_LEGALGENIUS_ROWS:
         if key not in rows:
             raise SystemExit(f"Missing chart row in {INPUT.name}: {key[0]} {key[1]}")
-        harness, provider, model, score = rows[key]
-        chart_rows.append((f"{harness} + {display_name(model)}", score, provider))
+        harness, provider, model, score, reasoning = rows[key]
+        label = f"{harness} + {display_name(model)}"
+        if reasoning:
+            label += f" · {reasoning}"
+        chart_rows.append((label, score, provider))
 
     chart_rows.extend(EXTERNAL_REFERENCES)
     return chart_rows
