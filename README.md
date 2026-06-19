@@ -1,6 +1,6 @@
 # German Legal Agent Benchmark
 
-This repository contains a small public benchmark for German legal research agents. I use this test to assess changes to LLMs and the agent harness for the [legalgenius](legalgenius.de) app.
+This repository contains a small public benchmark for German legal research agents. I use this test to assess changes to LLMs and the agent harness for the [legalgenius](https://legalgenius.de) app.
 
 The benchmark currently consists of `10` curated legal research cases in [data/cases2021_eval.csv](data/cases2021_eval.csv)
 
