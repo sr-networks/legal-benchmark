@@ -21,12 +21,12 @@ reference.
 
 ![German legal benchmark comparison](assets/benchmark-comparison.svg)
 
-| Rank | Harness | Provider | Model | Reasoning | Score | Valid Cases | Avg. on Valid Cases |
-| --- | --- | --- | --- | --- | ---: | ---: | ---: |
-| 1 | LegalGenius | Nebius | `zai-org/GLM-5.2` | `high` | `91/100` | `10/10` | `9.10` |
-| 2 | LegalGenius | OpenRouter | `anthropic/claude-opus-4.8` | `standard (OpenRouter)` | `91/100` | `10/10` | `9.10` |
-| 3 | LegalGenius | OpenRouter | `openai/gpt-5.5` | `high (OpenRouter)` | `91/100` | `10/10` | `9.10` |
-| Ref | External reference | Libra | DeepThinking | `DeepThinking` | `73/100` | `10/10` | `7.30` |
+| Rank | Harness | Provider | Model | Reasoning | Score | Valid Cases | Avg. on Valid Cases | Tokens/case (in / out) | Cost/case |
+| --- | --- | --- | --- | --- | ---: | ---: | ---: | ---: | ---: |
+| 1 | LegalGenius | Nebius | `zai-org/GLM-5.2` | `high` | `91/100` | `10/10` | `9.10` | 56.6k / 1.8k | €0.076 |
+| 2 | LegalGenius | OpenRouter | `anthropic/claude-opus-4.8` | `standard (OpenRouter)` | `91/100` | `10/10` | `9.10` | 51.5k / 2.5k | $0.32 |
+| 3 | LegalGenius | OpenRouter | `openai/gpt-5.5` | `high (OpenRouter)` | `91/100` | `10/10` | `9.10` | 76.2k / 3.2k | $0.48 |
+| Ref | External reference | Libra | DeepThinking | `DeepThinking` | `73/100` | `10/10` | `7.30` | — | — |
 
 `GLM-5.2`, `Claude Opus 4.8` and `GPT-5.5` tie at `91/100` (`9.10` average); GLM-5.2
 is listed first. GLM-5.2 ran at reasoning effort `high` on Nebius. The OpenRouter
@@ -34,6 +34,27 @@ models: GPT-5.5 ran at reasoning effort `high`; Claude Opus 4.8 ran in `standard
 mode, because its extended thinking is not engageable via OpenRouter (verified — the
 `reasoning` parameter produced no thinking tokens and no extra cost), so its `91/100`
 is without extended thinking. Libra is shown at its `DeepThinking` mode.
+
+### Tokens & cost
+
+`Tokens/case` is the harness-measured prompt/completion token count, averaged over
+the 10 benchmark cases. `Cost/case` uses each provider's list price at run time
+(2026-06-19):
+
+> cost/case = (avg input tokens × price_in + avg output tokens × price_out) ÷ 1,000,000
+
+| Model | Price in / out (per 1M) | Cost/case calculation |
+| --- | --- | --- |
+| GLM-5.2 (Nebius) | €1.20 / €4.40 | (56,610 × 1.20 + 1,750 × 4.40) / 1e6 = **€0.076** |
+| Claude Opus 4.8 (OpenRouter) | $5.00 / $25.00 | (51,460 × 5.00 + 2,502 × 25.00) / 1e6 = **$0.320** |
+| GPT-5.5 (OpenRouter) | $5.00 / $30.00 | (76,189 × 5.00 + 3,210 × 30.00) / 1e6 = **$0.477** |
+
+- **Currencies differ:** GLM-5.2 (Nebius) is priced in **EUR**, the OpenRouter models
+  in **USD** (~1.08 FX) — the ~4–6× cost gap dwarfs the conversion.
+- Cost is **input-dominated** (input ≈ 97% of tokens), so per-case cost tracks prompt
+  size and agent-step count more than answer length.
+- **Libra** is an external reference with no token/result data, so no tokens or cost
+  are shown.
 
 ## External Reference
 
