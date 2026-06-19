@@ -1,6 +1,6 @@
-<svg width="1400" height="860" viewBox="0 0 1400 860" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="1400" height="964" viewBox="0 0 1400 964" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">German Legal Benchmark Comparison</title>
-  <desc id="desc">Horizontal bar chart showing LegalGenius + Claude Opus 4.7 at 92 percent, LegalGenius + GLM-5.1 at 91 percent, LegalGenius + GPT-5.4 at 87 percent, Libra (DeepThinking) at 73 percent.</desc>
+  <desc id="desc">Horizontal bar chart showing LegalGenius + GLM-5.2 · high at 91 percent, LegalGenius + Claude Opus 4.8 · standard (OpenRouter) at 91 percent, LegalGenius + GPT-5.5 · high (OpenRouter) at 91 percent, LegalGenius + GPT-5.4 mini · default (OpenRouter) at 67 percent, Libra · DeepThinking at 73 percent.</desc>
   <defs>
     <linearGradient id="bg" x1="88" y1="74" x2="1316" y2="786" gradientUnits="userSpaceOnUse">
       <stop stop-color="#F7F4ED"/>
@@ -26,7 +26,11 @@
       <stop stop-color="#475569"/>
       <stop offset="1" stop-color="#94A3B8"/>
     </linearGradient>
-    <filter id="shadow" x="78" y="62" width="1244" height="746" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+    <linearGradient id="bar5" x1="0" y1="0" x2="720" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#64748B"/>
+      <stop offset="1" stop-color="#CBD5E1"/>
+    </linearGradient>
+    <filter id="shadow" x="78" y="62" width="1244" height="850" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
       <feFlood flood-opacity="0" result="BackgroundImageFix"/>
       <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
       <feOffset dy="14"/>
@@ -38,9 +42,9 @@
     </filter>
   </defs>
 
-  <rect width="1400" height="860" fill="#F2EFE8"/>
+  <rect width="1400" height="964" fill="#F2EFE8"/>
   <g filter="url(#shadow)">
-    <rect x="122" y="92" width="1156" height="690" rx="34" fill="url(#bg)"/>
+    <rect x="122" y="92" width="1156" height="794" rx="34" fill="url(#bg)"/>
   </g>
 
   <rect x="132" y="128" width="382" height="10" rx="5" fill="url(#headline)"/>
@@ -53,35 +57,41 @@
   <text x="915" y="286" fill="#64748B" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="600">75</text>
   <text x="1164" y="286" fill="#64748B" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="600">100</text>
 
-  <line x1="132" y1="302" x2="132" y2="704" stroke="#CBD5E1" stroke-width="2"/>
-  <line x1="395" y1="302" x2="395" y2="704" stroke="#E2E8F0" stroke-width="2"/>
-  <line x1="657" y1="302" x2="657" y2="704" stroke="#E2E8F0" stroke-width="2"/>
-  <line x1="920" y1="302" x2="920" y2="704" stroke="#E2E8F0" stroke-width="2"/>
-  <line x1="1182" y1="302" x2="1182" y2="704" stroke="#CBD5E1" stroke-width="2"/>
+  <line x1="132" y1="302" x2="132" y2="808" stroke="#CBD5E1" stroke-width="2"/>
+  <line x1="395" y1="302" x2="395" y2="808" stroke="#E2E8F0" stroke-width="2"/>
+  <line x1="657" y1="302" x2="657" y2="808" stroke="#E2E8F0" stroke-width="2"/>
+  <line x1="920" y1="302" x2="920" y2="808" stroke="#E2E8F0" stroke-width="2"/>
+  <line x1="1182" y1="302" x2="1182" y2="808" stroke="#CBD5E1" stroke-width="2"/>
 
-  <text x="132" y="330" fill="#0F172A" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24" font-weight="650">LegalGenius + Claude Opus 4.7</text>
-  <text x="1182" y="330" text-anchor="end" fill="#64748B" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="17" font-weight="600">OpenRouter</text>
+  <text x="132" y="330" fill="#0F172A" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24" font-weight="650">LegalGenius + GLM-5.2 · high</text>
+  <text x="1182" y="330" text-anchor="end" fill="#64748B" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="17" font-weight="600">Nebius</text>
   <rect x="132" y="348" width="1050" height="34" rx="17" fill="#E7EDF5"/>
-  <rect x="132" y="348" width="966" height="34" rx="17" fill="url(#bar1)"/>
-  <text x="1218" y="373" text-anchor="end" fill="#0F172A" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="23" font-weight="750">92%</text>
+  <rect x="132" y="348" width="956" height="34" rx="17" fill="url(#bar1)"/>
+  <text x="1218" y="373" text-anchor="end" fill="#0F172A" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="23" font-weight="750">91%</text>
 
-  <text x="132" y="434" fill="#0F172A" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24" font-weight="650">LegalGenius + GLM-5.1</text>
-  <text x="1182" y="434" text-anchor="end" fill="#64748B" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="17" font-weight="600">Nebius</text>
+  <text x="132" y="434" fill="#0F172A" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24" font-weight="650">LegalGenius + Claude Opus 4.8 · standard (OpenRouter)</text>
+  <text x="1182" y="434" text-anchor="end" fill="#64748B" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="17" font-weight="600">OpenRouter</text>
   <rect x="132" y="452" width="1050" height="34" rx="17" fill="#E7EDF5"/>
   <rect x="132" y="452" width="956" height="34" rx="17" fill="url(#bar2)"/>
   <text x="1218" y="477" text-anchor="end" fill="#0F172A" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="23" font-weight="750">91%</text>
 
-  <text x="132" y="538" fill="#0F172A" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24" font-weight="650">LegalGenius + GPT-5.4</text>
+  <text x="132" y="538" fill="#0F172A" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24" font-weight="650">LegalGenius + GPT-5.5 · high (OpenRouter)</text>
   <text x="1182" y="538" text-anchor="end" fill="#64748B" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="17" font-weight="600">OpenRouter</text>
   <rect x="132" y="556" width="1050" height="34" rx="17" fill="#E7EDF5"/>
-  <rect x="132" y="556" width="914" height="34" rx="17" fill="url(#bar3)"/>
-  <text x="1218" y="581" text-anchor="end" fill="#0F172A" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="23" font-weight="750">87%</text>
+  <rect x="132" y="556" width="956" height="34" rx="17" fill="url(#bar3)"/>
+  <text x="1218" y="581" text-anchor="end" fill="#0F172A" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="23" font-weight="750">91%</text>
 
-  <text x="132" y="642" fill="#0F172A" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24" font-weight="650">Libra (DeepThinking)</text>
-  <text x="1182" y="642" text-anchor="end" fill="#64748B" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="17" font-weight="600">External reference</text>
+  <text x="132" y="642" fill="#0F172A" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24" font-weight="650">LegalGenius + GPT-5.4 mini · default (OpenRouter)</text>
+  <text x="1182" y="642" text-anchor="end" fill="#64748B" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="17" font-weight="600">OpenRouter</text>
   <rect x="132" y="660" width="1050" height="34" rx="17" fill="#E7EDF5"/>
-  <rect x="132" y="660" width="766" height="34" rx="17" fill="url(#bar4)"/>
-  <text x="1218" y="685" text-anchor="end" fill="#0F172A" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="23" font-weight="750">73%</text>
+  <rect x="132" y="660" width="704" height="34" rx="17" fill="url(#bar4)"/>
+  <text x="1218" y="685" text-anchor="end" fill="#0F172A" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="23" font-weight="750">67%</text>
 
-  <text x="132" y="748" fill="#64748B" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="500">LegalGenius rows are our harness runs; right labels show provider. Libra is an external reference.</text>
+  <text x="132" y="746" fill="#0F172A" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24" font-weight="650">Libra · DeepThinking</text>
+  <text x="1182" y="746" text-anchor="end" fill="#64748B" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="17" font-weight="600">External reference</text>
+  <rect x="132" y="764" width="1050" height="34" rx="17" fill="#E7EDF5"/>
+  <rect x="132" y="764" width="766" height="34" rx="17" fill="url(#bar5)"/>
+  <text x="1218" y="789" text-anchor="end" fill="#0F172A" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="23" font-weight="750">73%</text>
+
+  <text x="132" y="852" fill="#64748B" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="500">LegalGenius rows are our harness runs; right labels show provider. Libra is an external reference.</text>
 </svg>

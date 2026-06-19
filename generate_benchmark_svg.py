@@ -14,11 +14,12 @@ ROOT = Path(__file__).parent
 INPUT = ROOT / "leaderboard.csv"
 OUTPUT = ROOT / "assets" / "benchmark-comparison.svg"
 CHART_LEGALGENIUS_ROWS = [
-    ("OpenRouter", "anthropic/claude-opus-4.7"),
-    ("Nebius", "zai-org/GLM-5.1"),
-    ("OpenRouter", "openai/gpt-5.4"),
+    ("Nebius", "zai-org/GLM-5.2"),
+    ("OpenRouter", "anthropic/claude-opus-4.8"),
+    ("OpenRouter", "openai/gpt-5.5"),
+    ("OpenRouter", "openai/gpt-5.4-mini"),
 ]
-EXTERNAL_REFERENCES = [("Libra (DeepThinking)", 73, "External reference")]
+EXTERNAL_REFERENCES = [("Libra · DeepThinking", 73, "External reference")]
 
 # Short display names for the chart. Fallback: derive from the model id
 # by stripping the vendor prefix and tidying up separators.
@@ -37,6 +38,10 @@ DISPLAY_NAMES: dict[str, str] = {
     "NousResearch/Hermes-4-70B": "Hermes-4 70B",
     "zai-org/GLM-5": "GLM-5",
     "zai-org/GLM-5.1": "GLM-5.1",
+    "zai-org/GLM-5.2": "GLM-5.2",
+    "anthropic/claude-opus-4.8": "Claude Opus 4.8",
+    "openai/gpt-5.5": "GPT-5.5",
+    "openai/gpt-5.4-mini": "GPT-5.4 mini",
 }
 
 
@@ -48,7 +53,7 @@ def display_name(model_id: str) -> str:
 
 
 def read_chart_rows() -> list[tuple[str, int, str]]:
-    rows: dict[tuple[str, str], tuple[str, str, str, int]] = {}
+    rows: dict[tuple[str, str], tuple[str, str, str, int, str]] = {}
     with INPUT.open("r", encoding="utf-8") as f:
         for row in csv.DictReader(f):
             try:
@@ -56,14 +61,17 @@ def read_chart_rows() -> list[tuple[str, int, str]]:
             except (KeyError, ValueError):
                 continue
             key = (row["provider"], row["model"])
-            rows[key] = (row.get("harness", "LegalGenius"), row["provider"], row["model"], score)
+            rows[key] = (row.get("harness", "LegalGenius"), row["provider"], row["model"], score, (row.get("reasoning") or "").strip())
 
     chart_rows: list[tuple[str, int, str]] = []
     for key in CHART_LEGALGENIUS_ROWS:
         if key not in rows:
             raise SystemExit(f"Missing chart row in {INPUT.name}: {key[0]} {key[1]}")
-        harness, provider, model, score = rows[key]
-        chart_rows.append((f"{harness} + {display_name(model)}", score, provider))
+        harness, provider, model, score, reasoning = rows[key]
+        label = f"{harness} + {display_name(model)}"
+        if reasoning:
+            label += f" · {reasoning}"
+        chart_rows.append((label, score, provider))
 
     chart_rows.extend(EXTERNAL_REFERENCES)
     return chart_rows
@@ -97,7 +105,7 @@ def render(chart_rows: list[tuple[str, int, str]]) -> str:
         )
     rows_block = "\n\n".join(rows_svg)
 
-    return f"""<svg width="1400" height="860" viewBox="0 0 1400 860" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+    return f"""<svg width="1400" height="964" viewBox="0 0 1400 964" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">German Legal Benchmark Comparison</title>
   <desc id="desc">{escape(desc)}</desc>
   <defs>
@@ -125,7 +133,11 @@ def render(chart_rows: list[tuple[str, int, str]]) -> str:
       <stop stop-color="#475569"/>
       <stop offset="1" stop-color="#94A3B8"/>
     </linearGradient>
-    <filter id="shadow" x="78" y="62" width="1244" height="746" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+    <linearGradient id="bar5" x1="0" y1="0" x2="720" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#64748B"/>
+      <stop offset="1" stop-color="#CBD5E1"/>
+    </linearGradient>
+    <filter id="shadow" x="78" y="62" width="1244" height="850" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
       <feFlood flood-opacity="0" result="BackgroundImageFix"/>
       <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
       <feOffset dy="14"/>
@@ -137,9 +149,9 @@ def render(chart_rows: list[tuple[str, int, str]]) -> str:
     </filter>
   </defs>
 
-  <rect width="1400" height="860" fill="#F2EFE8"/>
+  <rect width="1400" height="964" fill="#F2EFE8"/>
   <g filter="url(#shadow)">
-    <rect x="122" y="92" width="1156" height="690" rx="34" fill="url(#bg)"/>
+    <rect x="122" y="92" width="1156" height="794" rx="34" fill="url(#bg)"/>
   </g>
 
   <rect x="132" y="128" width="382" height="10" rx="5" fill="url(#headline)"/>
@@ -152,15 +164,15 @@ def render(chart_rows: list[tuple[str, int, str]]) -> str:
   <text x="915" y="286" fill="#64748B" {FONT} font-size="18" font-weight="600">75</text>
   <text x="1164" y="286" fill="#64748B" {FONT} font-size="18" font-weight="600">100</text>
 
-  <line x1="132" y1="302" x2="132" y2="704" stroke="#CBD5E1" stroke-width="2"/>
-  <line x1="395" y1="302" x2="395" y2="704" stroke="#E2E8F0" stroke-width="2"/>
-  <line x1="657" y1="302" x2="657" y2="704" stroke="#E2E8F0" stroke-width="2"/>
-  <line x1="920" y1="302" x2="920" y2="704" stroke="#E2E8F0" stroke-width="2"/>
-  <line x1="1182" y1="302" x2="1182" y2="704" stroke="#CBD5E1" stroke-width="2"/>
+  <line x1="132" y1="302" x2="132" y2="808" stroke="#CBD5E1" stroke-width="2"/>
+  <line x1="395" y1="302" x2="395" y2="808" stroke="#E2E8F0" stroke-width="2"/>
+  <line x1="657" y1="302" x2="657" y2="808" stroke="#E2E8F0" stroke-width="2"/>
+  <line x1="920" y1="302" x2="920" y2="808" stroke="#E2E8F0" stroke-width="2"/>
+  <line x1="1182" y1="302" x2="1182" y2="808" stroke="#CBD5E1" stroke-width="2"/>
 
 {rows_block}
 
-  <text x="132" y="748" fill="#64748B" {FONT} font-size="18" font-weight="500">LegalGenius rows are our harness runs; right labels show provider. Libra is an external reference.</text>
+  <text x="132" y="852" fill="#64748B" {FONT} font-size="18" font-weight="500">LegalGenius rows are our harness runs; right labels show provider. Libra is an external reference.</text>
 </svg>
 """
 
