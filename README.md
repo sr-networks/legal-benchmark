@@ -2,13 +2,21 @@
 
 This repository contains a small public benchmark for German legal research agents.
 
-The benchmark currently consists of:
+The benchmark currently consists of `10` curated legal research cases in [data/cases2021_eval.csv](data/cases2021_eval.csv)
 
-- `10` curated legal research cases in [data/cases2021_eval.csv](data/cases2021_eval.csv)
-- deduplicated raw result files in [results/](results/)
-- a flat LegalGenius harness leaderboard in [leaderboard.csv](leaderboard.csv)
+The cases are short German legal fact patterns paired with gold answers derived from the target case law. Evaluation is run by GPT-5.5 on Openrouter (ChatGPT app for Libra). 
 
-The cases are short German legal fact patterns paired with gold answers derived from the target case law.
+Prompt for Evaluation: "Du bist ein juristischer Experte und sollst die Antwort auf eine juristische Recherche-Arbeit bewerten und mit der Gold-Antwort vergleichen. Schätze die Korrektheit der Antwort auf einer Skala von 1 bis 10 ein und begründe. Bewerte nur die juristische Korrektheit und nicht die Form der Antwort.
+
+Frage: 
+...
+
+Goldantwort: 
+...
+
+Antwort:
+...
+"
 
 ## Leaderboard
 
@@ -84,18 +92,6 @@ It reached `91/100` with all `10/10` cases valid, at reasoning effort `high`.
 - Some models fail to return a usable final answer on every case. That is why the table also includes `Valid Cases`.
 - External references are shown separately when they were not produced by the LegalGenius harness.
 
-## Files
-
-- [data/cases2021_eval.csv](data/cases2021_eval.csv): benchmark input set
-- [leaderboard.csv](leaderboard.csv): machine-readable LegalGenius harness leaderboard
-- [assets/benchmark-comparison.svg](assets/benchmark-comparison.svg): generated comparison chart
-- [generate_benchmark_svg.py](generate_benchmark_svg.py): chart generator
-- [results/nebius_glm52_high.csv](results/nebius_glm52_high.csv): GLM-5.2 (Nebius, reasoning `high`)
-- [results/openrouter_opus48.csv](results/openrouter_opus48.csv): Claude Opus 4.8 (OpenRouter, standard)
-- [results/openrouter_gpt55_high.csv](results/openrouter_gpt55_high.csv): GPT-5.5 (OpenRouter, reasoning high)
-- [results/openrouter_gpt54mini.csv](results/openrouter_gpt54mini.csv): GPT-5.4 mini (OpenRouter, cheap reference)
-
 ## Notes
 
-- The raw CSV result files in this repo are deduplicated to one row per case.
 - The benchmark was produced from the LegalGenius evaluation workflow, but this repo is intentionally standalone and only contains the benchmark data and published results.
