@@ -19,7 +19,10 @@ CHART_LEGALGENIUS_ROWS = [
     ("OpenRouter", "openai/gpt-5.5"),
     ("OpenRouter", "openai/gpt-5.4-mini"),
 ]
-EXTERNAL_REFERENCES = [("Libra · DeepThinking", 73, "External reference")]
+EXTERNAL_REFERENCES = [
+    ("Libra · DeepThinking", 73, "External reference"),
+    ("ChatGPT · high + web search", 89, "External reference"),
+]
 
 # Short display names for the chart. Fallback: derive from the model id
 # by stripping the vendor prefix and tidying up separators.
@@ -74,6 +77,7 @@ def read_chart_rows() -> list[tuple[str, int, str]]:
         chart_rows.append((label, score, provider))
 
     chart_rows.extend(EXTERNAL_REFERENCES)
+    chart_rows.sort(key=lambda r: r[1], reverse=True)  # by score, highest first
     return chart_rows
 
 
@@ -87,6 +91,16 @@ def render(chart_rows: list[tuple[str, int, str]]) -> str:
     names_scores = ", ".join(f"{n} at {s} percent" for n, s, _ in chart_rows)
     desc = f"Horizontal bar chart showing {names_scores}."
 
+    # Layout scales with the number of rows so the canvas never needs manual bumps.
+    n_rows = len(chart_rows)
+    last_bottom = 330 + (n_rows - 1) * 104 + 52
+    gridline_bottom = last_bottom + 10
+    footer_y = last_bottom + 54
+    card_bottom = footer_y + 34
+    card_height = card_bottom - 92
+    svg_height = card_bottom + 78
+    filter_height = card_height + 56
+
     rows_svg: list[str] = []
     bar_x = 132
     bar_max_w = 1050
@@ -99,13 +113,13 @@ def render(chart_rows: list[tuple[str, int, str]]) -> str:
             f'  <text x="{bar_x}" y="{label_y}" fill="#0F172A" {FONT} font-size="24" font-weight="650">{escape(name)}</text>\n'
             f'  <text x="1182" y="{label_y}" text-anchor="end" fill="#64748B" {FONT} font-size="17" font-weight="600">{escape(note)}</text>\n'
             f'  <rect x="{bar_x}" y="{rect_y}" width="{bar_max_w}" height="34" rx="17" fill="#E7EDF5"/>\n'
-            f'  <rect x="{bar_x}" y="{rect_y}" width="{bar_w}" height="34" rx="17" fill="url(#bar{i})"/>\n'
+            f'  <rect x="{bar_x}" y="{rect_y}" width="{bar_w}" height="34" rx="17" fill="url(#bar{min(i, 5)})"/>\n'
             f'  <text x="1218" y="{score_y}" text-anchor="end" fill="#0F172A" {FONT} '
             f'font-size="23" font-weight="750">{score}%</text>'
         )
     rows_block = "\n\n".join(rows_svg)
 
-    return f"""<svg width="1400" height="964" viewBox="0 0 1400 964" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+    return f"""<svg width="1400" height="{svg_height}" viewBox="0 0 1400 {svg_height}" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">German Legal Benchmark Comparison</title>
   <desc id="desc">{escape(desc)}</desc>
   <defs>
@@ -137,7 +151,7 @@ def render(chart_rows: list[tuple[str, int, str]]) -> str:
       <stop stop-color="#64748B"/>
       <stop offset="1" stop-color="#CBD5E1"/>
     </linearGradient>
-    <filter id="shadow" x="78" y="62" width="1244" height="850" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+    <filter id="shadow" x="78" y="62" width="1244" height="{filter_height}" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
       <feFlood flood-opacity="0" result="BackgroundImageFix"/>
       <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
       <feOffset dy="14"/>
@@ -149,14 +163,14 @@ def render(chart_rows: list[tuple[str, int, str]]) -> str:
     </filter>
   </defs>
 
-  <rect width="1400" height="964" fill="#F2EFE8"/>
+  <rect width="1400" height="{svg_height}" fill="#F2EFE8"/>
   <g filter="url(#shadow)">
-    <rect x="122" y="92" width="1156" height="794" rx="34" fill="url(#bg)"/>
+    <rect x="122" y="92" width="1156" height="{card_height}" rx="34" fill="url(#bg)"/>
   </g>
 
   <rect x="132" y="128" width="382" height="10" rx="5" fill="url(#headline)"/>
   <text x="132" y="188" fill="#0F172A" {FONT} font-size="46" font-weight="700">German Legal Benchmark</text>
-  <text x="132" y="236" fill="#334155" {FONT} font-size="24" font-weight="500">LegalGenius harness results by provider plus Libra reference, score out of 100</text>
+  <text x="132" y="236" fill="#334155" {FONT} font-size="24" font-weight="500">LegalGenius harness results by provider plus external references, score out of 100</text>
 
   <text x="132" y="286" fill="#64748B" {FONT} font-size="18" font-weight="600">0</text>
   <text x="390" y="286" fill="#64748B" {FONT} font-size="18" font-weight="600">25</text>
@@ -164,15 +178,15 @@ def render(chart_rows: list[tuple[str, int, str]]) -> str:
   <text x="915" y="286" fill="#64748B" {FONT} font-size="18" font-weight="600">75</text>
   <text x="1164" y="286" fill="#64748B" {FONT} font-size="18" font-weight="600">100</text>
 
-  <line x1="132" y1="302" x2="132" y2="808" stroke="#CBD5E1" stroke-width="2"/>
-  <line x1="395" y1="302" x2="395" y2="808" stroke="#E2E8F0" stroke-width="2"/>
-  <line x1="657" y1="302" x2="657" y2="808" stroke="#E2E8F0" stroke-width="2"/>
-  <line x1="920" y1="302" x2="920" y2="808" stroke="#E2E8F0" stroke-width="2"/>
-  <line x1="1182" y1="302" x2="1182" y2="808" stroke="#CBD5E1" stroke-width="2"/>
+  <line x1="132" y1="302" x2="132" y2="{gridline_bottom}" stroke="#CBD5E1" stroke-width="2"/>
+  <line x1="395" y1="302" x2="395" y2="{gridline_bottom}" stroke="#E2E8F0" stroke-width="2"/>
+  <line x1="657" y1="302" x2="657" y2="{gridline_bottom}" stroke="#E2E8F0" stroke-width="2"/>
+  <line x1="920" y1="302" x2="920" y2="{gridline_bottom}" stroke="#E2E8F0" stroke-width="2"/>
+  <line x1="1182" y1="302" x2="1182" y2="{gridline_bottom}" stroke="#CBD5E1" stroke-width="2"/>
 
 {rows_block}
 
-  <text x="132" y="852" fill="#64748B" {FONT} font-size="18" font-weight="500">LegalGenius rows are our harness runs; right labels show provider. Libra is an external reference.</text>
+  <text x="132" y="{footer_y}" fill="#64748B" {FONT} font-size="18" font-weight="500">LegalGenius rows are our harness runs; right labels show provider. Libra and ChatGPT are external references.</text>
 </svg>
 """
 

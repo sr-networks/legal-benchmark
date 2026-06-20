@@ -1,5 +1,5 @@
 rank,harness,provider,model,score_total,score_max,valid_cases,total_cases,avg_valid_score,reasoning,results_file
-1,LegalGenius,Nebius,zai-org/GLM-5.2,91,100,10,10,9.1,high,results/nebius_glm52_high.csv
-2,LegalGenius,OpenRouter,anthropic/claude-opus-4.8,91,100,10,10,9.1,standard (OpenRouter),results/openrouter_opus48.csv
-3,LegalGenius,OpenRouter,openai/gpt-5.5,91,100,10,10,9.1,high (OpenRouter),results/openrouter_gpt55_high.csv
+1,LegalGenius,OpenRouter,anthropic/claude-opus-4.8,92,100,10,10,9.2,standard (OpenRouter),results/openrouter_opus48.csv
+2,LegalGenius,Nebius,zai-org/GLM-5.2,89,100,10,10,8.9,high,results/nebius_glm52_high.csv
+3,LegalGenius,OpenRouter,openai/gpt-5.5,89,100,10,10,8.9,high (OpenRouter),results/openrouter_gpt55_high.csv
 4,LegalGenius,OpenRouter,openai/gpt-5.4-mini,67,100,10,10,6.7,default (OpenRouter),results/openrouter_gpt54mini.csv
