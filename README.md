@@ -24,8 +24,8 @@ Current leaderboard as of `2026-06-19`.
 
 Rows marked `LegalGenius` are runs of the same LegalGenius evaluation harness.
 The provider and model columns identify the LLM used inside that harness, and the
-`Reasoning` column records the thinking level used. The Libra row is an external
-reference.
+`Reasoning` column records the thinking level used. The Libra and ChatGPT rows are
+external references.
 
 ![German legal benchmark comparison](assets/benchmark-comparison.svg)
 
@@ -34,8 +34,9 @@ reference.
 | 1 | LegalGenius | Nebius | `zai-org/GLM-5.2` | `high` | `91/100` | `10/10` | `9.10` | 56.6k / 1.8k | €0.076 |
 | 2 | LegalGenius | OpenRouter | `anthropic/claude-opus-4.8` | `standard (OpenRouter)` | `91/100` | `10/10` | `9.10` | 51.5k / 2.5k | $0.32 |
 | 3 | LegalGenius | OpenRouter | `openai/gpt-5.5` | `high (OpenRouter)` | `91/100` | `10/10` | `9.10` | 76.2k / 3.2k | $0.48 |
-| 4 | LegalGenius | OpenRouter | `openai/gpt-5.4-mini` | `default (OpenRouter)` | `67/100` | `10/10` | `6.70` | 23.5k / 0.7k | $0.021 |
+| Ref | External reference | ChatGPT | high thinking + web | `high + web search` | `89/100` | `10/10` | `8.90` | — | — |
 | Ref | External reference | Libra | DeepThinking | `DeepThinking` | `73/100` | `10/10` | `7.30` | — | — |
+| 4 | LegalGenius | OpenRouter | `openai/gpt-5.4-mini` | `default (OpenRouter)` | `67/100` | `10/10` | `6.70` | 23.5k / 0.7k | $0.021 |
 
 `GLM-5.2`, `Claude Opus 4.8` and `GPT-5.5` tie at `91/100` (`9.10` average); GLM-5.2
 is listed first. GLM-5.2 ran at reasoning effort `high` on Nebius. The OpenRouter
@@ -66,8 +67,8 @@ the 10 benchmark cases. `Cost/case` uses each provider's list price at run time
   in **USD** (~1.08 FX) — the ~4–6× cost gap dwarfs the conversion.
 - Cost is **input-dominated** (input ≈ 97% of tokens), so per-case cost tracks prompt
   size and agent-step count more than answer length.
-- **Libra** is an external reference with no token/result data, so no tokens or cost
-  are shown.
+- **Libra** and **ChatGPT** are external references with no token/result data, so no
+  tokens or cost are shown.
 
 ## External Reference
 
@@ -75,6 +76,11 @@ Libra (DeepThinking) is included as a `73/100` (`73%`) external reference in
 the README table and chart, with `10/10` valid cases. It is not a LegalGenius
 harness run and is therefore not ranked in [leaderboard.csv](leaderboard.csv) or
 backed by a raw result file in [results/](results/).
+
+ChatGPT (OpenAI's consumer app, run with high thinking and web search enabled) is
+included as an `89/100` (`89%`) external reference with `10/10` valid cases. Like
+Libra it was run directly, not through the LegalGenius harness, so it is not in
+[leaderboard.csv](leaderboard.csv) and has no raw result file (self-reported).
 
 The Nebius `zai-org/GLM-5.2` row is the current published GLM-5.2 benchmark result.
 It reached `91/100` with all `10/10` cases valid, at reasoning effort `high`.
@@ -84,7 +90,8 @@ It reached `91/100` with all `10/10` cases valid, at reasoning effort `high`.
 - Each model is run on the same `10` benchmark cases.
 - For LegalGenius rows, the LegalGenius harness asks the named research model to
   produce the legal answer.
-- The answer is judged against the gold answer by `gpt-5-2025-08-07`.
+- The answer is judged against the gold answer by **GPT-5.5** (on OpenRouter; the
+  ChatGPT app was used as judge for the Libra reference).
 - The primary score is the sum of per-case scores on a `1-10` scale, reported as `x/100`.
 - The `Reasoning` column records the thinking level: GLM-5.2 at `high` (Nebius);
   GPT-5.5 at `high` and Claude Opus 4.8 at `standard` (both via OpenRouter — Opus's
