@@ -20,7 +20,9 @@ Antwort:
 
 ## Leaderboard
 
-Current leaderboard as of `2026-06-20` (judge: GPT-5.5).
+> **Historical snapshot (20 June 2026).** The results below are a frozen 10-case comparison, not the current product model or the combined LegalGenius Score. For current model results and separately reported Arbeitsrecht and BenGER components, see the [public LegalGenius benchmark page](https://legalgenius.de/benchmarks/). The combined score uses different test components and should not be compared directly with the 10-case result below.
+
+Historical leaderboard snapshot as of `2026-06-20` (judge: GPT-5.5).
 
 Rows marked `LegalGenius` are runs of the same LegalGenius evaluation harness.
 The provider and model columns identify the LLM used inside that harness, and the
@@ -82,8 +84,8 @@ included as an `89/100` (`89%`) external reference with `10/10` valid cases. Lik
 Libra it was run directly, not through the LegalGenius harness, so it is not in
 [leaderboard.csv](leaderboard.csv) and has no raw result file (self-reported).
 
-The Nebius `zai-org/GLM-5.2` row is the current published GLM-5.2 benchmark result.
-It reached `89/100` with all `10/10` cases valid, at reasoning effort `high`.
+Within this historical snapshot, the Nebius `zai-org/GLM-5.2` row reached
+`89/100` with all `10/10` cases valid, at reasoning effort `high`.
 
 ## Method
 
